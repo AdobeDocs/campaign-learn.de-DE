@@ -1,32 +1,29 @@
 ---
-title: Einrichten der Ermüdungsverwaltung mithilfe von Typologieregeln.
+title: Verwalten Sie Ermüdung mithilfe von Typologieregeln.
 description: Erfahren Sie, wie Sie die Ermüdungsverwaltung mithilfe von Typologieregeln implementieren.
 feature: 'Ermüdungsverwaltung '
 kt: 7959
+thumbnail: 333787.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 11%
+source-wordcount: '87'
+ht-degree: 14%
 
 ---
 
 
-# Einrichten der Ermüdungsverwaltung mithilfe von Typologieregeln
+# Ermüdung mithilfe von Typologieregeln verwalten
 
 Die Ermüdungsverwaltung steuert die Häufigkeit und Menge der Nachrichten, um eine Überforderung von Empfängern zu vermeiden. Häufig wird sie mithilfe einer Typologieregel angewendet.
 
-Mit Typologieregeln können Marketing-Experten Geschäftspraktiken in allen Sendungen effizienter standardisieren, um Kampagnen-Messaging für Kunden zu steuern. Typologieregeln ersparen die Anwendung von Ausschlüssen oder häufig verwendeten Regeln auf jede einzelne Kampagne. Empfänger, die den Kriterien einer *Typologieregel* entsprechen, werden während der Analysephase vom Versand ausgeschlossen.
+Erfahren Sie, wie Sie mithilfe von Typologieregeln die Ermüdungsverwaltung in Adobe Campaign implementieren.
 
-In der Regel wird ein Satz von Typologieregeln in einer *Typologie* gruppiert, um auf einen Versand einfach mehrere Filterregeln anzuwenden. Durch die Gruppierung in Typologien werden zusätzliche Schritte bei der Erstellung mehrerer Kampagnen und Workflows eliminiert und gleichzeitig wird sichergestellt, dass die richtige Population zum richtigen Zeitpunkt ausgewählt wird.
-
-In diesem Video wird erläutert, wie Sie die Ermüdungsverwaltung in Adobe Campaign mithilfe von Typologieregeln implementieren.
-
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
 
 ## Zusätzliche Ressourcen
 
