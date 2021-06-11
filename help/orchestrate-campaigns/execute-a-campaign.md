@@ -1,5 +1,5 @@
 ---
-title: Kampagne ausführen
+title: Ausführen von Kampagnen
 description: Erfahren Sie, wie Sie eine Kampagne ausführen, einen E-Mail-Versand überprüfen und die Versandeigenschaften festlegen.
 feature: Kampagnen, E-Mail
 kt: 7786
@@ -14,12 +14,12 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
-# Kampagne ausführen
+# Ausführen von Kampagnen
 
 Erfahren Sie, wie Sie eine Kampagne ausführen, einen E-Mail-Versand überprüfen und die Versandeigenschaften festlegen.
 
