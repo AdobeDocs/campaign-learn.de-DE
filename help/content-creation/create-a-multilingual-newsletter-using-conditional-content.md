@@ -1,5 +1,5 @@
 ---
-title: Mehrsprachige Newsletter mit bedingtem Inhalt erstellen
+title: Erstellen von mehrsprachigen Newslettern mit bedingtem Inhalt
 description: Erfahren Sie, wie Sie einem Versand bedingte Inhalte hinzufügen können, beispielsweise einen mehrsprachigen Newsletter.
 feature: Dynamische Inhalte
 kt: 7792
@@ -10,14 +10,14 @@ team: TM
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 
-# Mehrsprachige Newsletter mit bedingtem Inhalt erstellen
+# Erstellen von mehrsprachigen Newslettern mit bedingtem Inhalt
 
 Die Konfiguration bedingter Inhalte erlaubt einen weitreichenden Personalisierungsgrad. Vollständige Absätze oder Bildbereiche werden ersetzt, wenn eine bestimmte Bedingung erfüllt ist.
 
@@ -28,4 +28,4 @@ Erfahren Sie, wie Sie einem Versand bedingte Inhalte hinzufügen können, beispi
 ## Zusätzliche Ressourcen
 
 * [Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Personalisieren von E-Mails mithilfe von Personalisierungsfeldern](/help/content-creation/personalize-emails-using-personalization-fields.md)
+* [Personalisieren von E-Mails mit Personalisierungsfeldern](/help/content-creation/personalize-emails-using-personalization-fields.md)
