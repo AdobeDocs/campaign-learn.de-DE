@@ -11,14 +11,14 @@ role: Business Practitioner
 level: Beginner
 exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 # Erstellen von Briefpost-Sendungen
 
-Erfahren Sie, wie [!UICONTROL Briefpost] in [!UICONTROL Adobe Campaign] funktioniert, und lernen Sie, wie Sie einen [!UICONTROL Briefpost-Versand ]erstellen, formatieren und ausführen.
+Erfahren Sie, wie [!UICONTROL Briefpost] in [!UICONTROL Adobe Campaign] funktioniert und wie Sie einen [!UICONTROL Briefpost-Versand] erstellen, formatieren und ausführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12)
