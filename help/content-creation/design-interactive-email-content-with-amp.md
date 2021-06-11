@@ -1,5 +1,5 @@
 ---
-title: Interaktive E-Mail-Inhalte mit AMP erstellen
+title: Gestalten interaktiver E-Mail-Inhalte mit AMP
 description: Erfahren Sie, wie Sie E-Mail-Inhalte im AMP-Format konfigurieren.
 feature: E-Mail, Entwurf von E-Mails
 kt: 7946
@@ -14,16 +14,16 @@ hidefromtoc: true
 source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
 
-# Definieren interaktiver E-Mail-Inhalte mit AMP
+# Gestalten interaktiver E-Mail-Inhalte mit AMP
 
-AMP for Email ist ein neues Open-Source-Format, mit dem Entwickler dynamische und interaktive E-Mails erstellen können. Über moderne App-Funktionen, die direkt in E-Mails verfügbar sind, können Empfänger dynamisch mit Inhalten in der Nachricht selbst interagieren.
+„AMP for Email“ ist ein neues Open-Source-Format, mit dem Entwickler dynamische und interaktive E-Mails erstellen können. Über moderne Mobile-App-Funktionen, die direkt in E-Mails verfügbar sind, können Empfänger dynamisch mit Inhalten in der Nachricht selbst interagieren.
 
-Derzeit unterstützen nur Gmail, Outlook und Mail.ru das AMP-Format.
+Zurzeit unterstützen nur Gmail, Outlook und Mail.ru das AMP-Format.
 
 Im folgenden Video wird erläutert, wie Sie AMP in Adobe Campaign Classic aktivieren und nutzen können.
 
@@ -32,4 +32,4 @@ Im folgenden Video wird erläutert, wie Sie AMP in Adobe Campaign Classic aktivi
 ## Zusätzliche Ressourcen
 
 * [AMP-Editor](https://playground.amp.dev/)
-* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email)
+* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=de#about-amp-for-email)
