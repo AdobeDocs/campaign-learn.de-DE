@@ -1,6 +1,6 @@
 ---
-title: Erweitern des App-Abonnementschemas zum Personalisieren von Push-Benachrichtigungen
-description: Erfahren Sie, wie Sie das App-Abonnementschema erweitern, um Personalisierungswerte speichern zu können, die Campaign von einer Mobile App erhält.
+title: Erweitern des Mobile-App-Abonnementschemas zum Personalisieren von Push-Benachrichtigungen
+description: Erfahren Sie, wie Sie das Mobile-App-Abonnementschema erweitern, um Personalisierungswerte speichern zu können, die Campaign von einer Mobile App erhält.
 feature: Push, Schema-Erweiterung
 kt: 7967
 thumbnail: 327306.jpg
@@ -10,9 +10,9 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Erfahren Sie, wie Sie das [!UICONTROL App-Abonnementschema] erweitern, um Person
 
 **Nächster Schritt**
 
-Schritt 2: [Konfigurieren Sie einen Android™-Dienst und erstellen Sie eine Android™ Mobile App in Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
+Schritt 2: [Konfigurieren eines Android™-Service und Erstellen einer Android™-Mobile-App in Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
