@@ -1,6 +1,6 @@
 ---
 title: 'Festlegen der Eigenschaften von Versandvorlagen '
-description: Erfahren Sie, wie Sie die Eigenschaften der Versandvorlagen konfigurieren.
+description: Erfahren Sie, wie Sie die Eigenschaften von Versandvorlagen konfigurieren.
 feature: Versandvorlagen
 kt: 7964
 thumbnail: 24067.jpg
@@ -10,15 +10,15 @@ team: TM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Eigenschaften von Versandvorlagen festlegen {#set-the-delivery-template-properties}
+# Festlegen der Eigenschaften von Versandvorlagen {#set-the-delivery-template-properties}
 
-Erfahren Sie, wie Sie die Eigenschaften der Versandvorlagen festlegen und die einzelnen Eigenschaften detailliert erklären.
+Erfahren Sie, wie Sie die Eigenschaften von Versandvorlagen festlegen und welche Eigenschaften es im Einzelnen gibt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
