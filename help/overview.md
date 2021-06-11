@@ -1,7 +1,7 @@
 ---
-title: Adobe Campaign V8 Tutorials - Überblick
-description: Adobe Campaign bietet eine Plattform zum Entwerfen kanalübergreifender Kundenerlebnisse und bietet eine Umgebung für die visuelle Kampagnenorchestrierung, Interaktionsverwaltung in Echtzeit und die kanalübergreifende Ausführung. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
-sub-product: Campaign V8
+title: Tutorials zu Adobe Campaign v8 – Übersicht
+description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+sub-product: Campaign v8
 feature: Übersicht
 role: Business Practitioner, Administrator, Developer
 level: Beginner
@@ -9,17 +9,17 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 18%
+ht-degree: 71%
 
 ---
 
-# Adobe Campaign V8 Tutorials - Überblick
+# Tutorials zu Adobe Campaign v8 – Übersicht
 
-Adobe Campaign bietet eine Plattform zum Entwerfen kanalübergreifender Kundenerlebnisse und bietet eine Umgebung für die visuelle Kampagnenorchestrierung, Interaktionsverwaltung in Echtzeit und die kanalübergreifende Ausführung. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Features von Adobe Campaign V8.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign v8.
 
 >[!NOTE]
-> Campaign v8 ist derzeit nur als verwalteter Cloud Service verfügbar und kann nicht in On-Premise- oder Hybridumgebungen bereitgestellt werden. Die Migration aus einer bestehenden Campaign Classic v7-Umgebung ist noch nicht verfügbar.
->Weitere Informationen zu den Unterschieden zwischen den beiden Versionen finden Sie in der [Classic v7 bis V8-Produktdokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) . Weitere Informationen zu Videos finden Sie im Abschnitt [Campaign Classic V7-Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) .
+> Campaign v8 ist derzeit nur als Managed Cloud Service verfügbar und kann nicht in On-Premise- oder Hybridumgebungen bereitgestellt werden. Die Migration aus einer bestehenden Campaign Classic v7-Umgebung ist noch nicht verfügbar.
+>Weitere Informationen zu den Unterschieden zwischen den beiden Versionen finden Sie in der [Produktdokumentation zu Classic v7 und v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Anleitungsvideos finden Sie im Abschnitt [Tutorials zu Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de).
 
 ## Neue Funktionen
 
@@ -74,11 +74,11 @@ Adobe Campaign bietet eine Plattform zum Entwerfen kanalübergreifender Kundener
 </td>
   <td>
     <a href="./reporting/generate-a-descriptive-analysis-report.md">
-      <img alt="Erstellen eines beschreibenden Analyseberichts" src="./assets/333994.jpg" />
+      <img alt="Erstellen eines deskriptiven Analyseberichts" src="./assets/333994.jpg" />
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
-    <strong>Erstellen eines beschreibenden Analyseberichts</strong>
+    <strong>Erstellen eines deskriptiven Analyseberichts</strong>
     </a>
     </div>
     <p>
