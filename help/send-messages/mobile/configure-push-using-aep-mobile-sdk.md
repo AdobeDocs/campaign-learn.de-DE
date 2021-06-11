@@ -11,9 +11,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
@@ -27,6 +27,6 @@ In diesem Video wird beschrieben, wie Sie das Adobe Experience Platform Mobile S
 
 ## Zusätzliche Ressourcen
 
-* [Campaign Classic-Erweiterung für Adobe Experience Platform SDK](https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acc-aep-extension.html)
+* [Campaign Classic-Erweiterung für das Adobe Experience Platform SDK](https://helpx-internal.corp.adobe.com/content/help/de/campaign/kb/acc-aep-extension.html)
 
-* [Konfigurieren der Campaign Classic-Erweiterung in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+* [Konfigurieren der Campaign-Erweiterung in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
