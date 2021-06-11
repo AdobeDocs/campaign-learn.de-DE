@@ -1,6 +1,6 @@
 ---
-title: Profile importieren
-description: 'Erfahren Sie, wie Sie Profile in Adobe Campaign importieren '
+title: Importieren von Profilen
+description: 'Erfahren Sie mehr über das Importieren von Profilen in Adobe Campaign. '
 feature: Profile
 kt: 7968
 doc-type: feature video
@@ -11,14 +11,14 @@ level: Beginner
 hide: true
 hidefromtoc: true
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 
-# Profile importieren
+# Importieren von Profilen
 
 In diesem Video wird erläutert, wie Profile in Adobe Campaign importiert werden.
 
@@ -26,4 +26,4 @@ In diesem Video wird erläutert, wie Profile in Adobe Campaign importiert werden
 
 ## Zusätzliche Ressourcen
 
-- [Profile exportieren und importieren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html)
+- [Importieren und Exportieren von Profilen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html?lang=de)
