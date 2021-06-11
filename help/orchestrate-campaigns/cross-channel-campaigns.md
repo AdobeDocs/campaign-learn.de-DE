@@ -12,15 +12,15 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 # Erstellen von Cross-Channel-Kampagnen
 
-In einer kanalübergreifenden Kampagne verwendet eine Marketing-Kommunikation mehrere Kanäle, um basierend auf dem bevorzugten Empfängerkanal eine größere Zielgruppe zu erreichen.
+Bei einer Cross-Channel-Kampagne nutzt eine einzelne Marketing-Nachricht mehrere Kanäle, um eine breitere Audience auf Basis des bevorzugten Empfängerkanals zu erreichen.
 
-Erfahren Sie, wie Sie eine kanalübergreifende Kampagne mit E-Mail-, SMS- und Briefpost-Sendungen erstellen.
+Erfahren Sie, wie Sie eine Cross-Channel-Kampagne mit E-Mail-, SMS- und Briefpost-Versand verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
