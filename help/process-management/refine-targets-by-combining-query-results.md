@@ -3,14 +3,14 @@ title: Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen
 description: Erfahren Sie, wie Sie Ihre Zielgruppe einschränken können, indem Sie Abfrageergebnisse in einem Workflow kombinieren, indem Sie die Schnitt- oder Vereinigungsaktivität verwenden.
 feature: Workflows, Zielgruppenbestimmungsaktivität, Abfrage-Tool
 kt: 7844
-thumbnail: 334235.jpg
+thumbnail: 334304.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: e57b1ed15044245c668395c7ebbba72094083be1
+source-git-commit: 7505da93d6666780e91f2c6133d42204d9d6d2b7
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihre Zielgruppe einschränken können, indem Sie Abfrageergebnisse in einem Workflow kombinieren, indem Sie die Aktivität **[!UICONTROL Schnitt]** oder **[!UICONTROL Vereinigung]** verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/334235?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
 ## Zusätzliche Ressourcen
 
