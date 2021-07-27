@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 97%
+source-wordcount: '296'
+ht-degree: 93%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 97%
 
 + [Übersicht](/help/overview.md)
 + Erste Schritte {#getting-started}
-   + [Einführung in Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Installieren und Einrichten des Adobe Campaign-Clients](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Navigation in der Benutzeroberfläche von Adobe Campaign](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [Verwalten von Marketing-Kampagnen](/help/getting-started/manage-marketing-campaigns.md)
-   + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [Durch ein Ereignis ausgelöste Kampagnen erstellen](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Einführung in Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Installieren und Einrichten des Adobe Campaign-Clients](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Navigation in der Benutzeroberfläche von Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [Verwalten von Marketing-Kampagnen](/help/get-started/manage-marketing-campaigns.md)
+   + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [Durch ein Ereignis ausgelöste Kampagnen erstellen](/help/get-started/create-event-triggered-campaigns.md)
 + Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Bestimmung der Zielgruppenprofile in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -48,7 +48,7 @@ ht-degree: 97%
       + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
    + SMS {#sms}
-      + [Erstellen Sie einen SMS-Versand](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [SMS-Versand erstellen](/help/send-messages/mobile/create-a-sms-delivery.md)
    + Push-Benachrichtigung {#push}
       + [Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -65,12 +65,12 @@ ht-degree: 97%
 + Prozessverwaltung und Automatisierung{#process-management}
    + [Erstellen eines Workflows](/help/process-management/create-a-workflow.md)
    + [Erstellen wiederkehrender und fortlaufender Sendungen](/help/process-management/recurring-deliveries.md)
-   + [Erstellen eines Zielgruppenbestimmungs-Workflows](/help/process-management/create-a-targeting-workflow.md)
-   + [Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen](/help/process-management/use-the-update-list-activity.md)
+   + [Erstellen von Zielgruppen-Workflows](/help/process-management/create-a-targeting-workflow.md)
    + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Einschränken von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Erstellen von Validierungs-Workflows](/help/process-management/create-validation-workflows.md)
    + [Verwalten von Genehmigungen](/help/process-management/manage-approvals.md)
+   + [Verwenden der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurieren von Anreicherungsaktivitäten](/help/process-management/enrichment-activity.md)
 + Daten-Management {#data-management}
    + [Importieren von Profilen](/help/data-management/import-profiles.md)
