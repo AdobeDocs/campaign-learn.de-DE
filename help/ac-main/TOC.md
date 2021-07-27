@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
+source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 93%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 93%
 + [Übersicht](/help/overview.md)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Installieren und Einrichten des Adobe Campaign-Clients](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Installieren und Einrichten der Adobe Campaign Client Console](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Navigation in der Benutzeroberfläche von Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Verwalten von Marketing-Kampagnen](/help/get-started/manage-marketing-campaigns.md)
    + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
