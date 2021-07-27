@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Multi-Channel-Kampagnen
-description: Erfahren Sie, wie Sie eine Multi-Channel-Kampagne mit E-Mail-, SMS- und Briefpost-Versand erstellen.
+description: Erfahren Sie, wie Sie eine Kampagne mit mehreren Kanälen erstellen, indem Sie E-Mail, SMS und einen Briefpost-Versand verwenden, der auf dem bevorzugten Kanal des Empfängers basiert.
 feature: Workflows
 kt: 7794
 thumbnail: 335440.jpg
@@ -10,20 +10,18 @@ team: TM
 role: User
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
-source-git-commit: 54ffd051cabc37b4d084ed6f4a36fe2164d7044b
+source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 
 # Erstellen von Multi-Channel-Kampagnen
 
-Bei einer Multi-Channel-Kampagne nutzt eine einzelne Marketing-Nachricht mehrere Kanäle, um eine breitere Audience auf Basis des bevorzugten Kanals des Empfängers zu erreichen.
+In einer kanalübergreifenden Kampagne verwendet eine Marketing-Kommunikation mehrere Kanäle, um eine breitere Zielgruppe zu erreichen. Die Kanäle sind unabhängig voneinander, d. h., die Kunden bleiben innerhalb eines Workflows in einem Kanal.
 
-Multi-Channel-Sendungen werden in einem einzigen Workflow erstellt und ausgeführt.
-
-Erfahren Sie, wie Sie eine Multi-Channel-Kampagne mit E-Mail-, SMS- und Briefpost-Versand erstellen.
+Erfahren Sie, wie Sie eine Kampagne mit mehreren Kanälen erstellen, indem Sie E-Mail, SMS und einen Briefpost-Versand verwenden, der auf dem bevorzugten Kanal des Empfängers basiert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12)
 
