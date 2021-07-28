@@ -1,28 +1,26 @@
 ---
 title: Erstellen von Cross-Channel-Kampagnen
-description: Erfahren Sie, wie Sie eine Multi-Channel-Kampagne erstellen.
+description: Erfahren Sie, wie Sie eine kanalübergreifende Kampagne erstellen, indem Sie E-Mail- und Briefpostsendungen verwenden, die auf der Interaktion des Kunden mit dem ersten Versand basieren.
 feature: Workflows
-kt: 7018
-thumbnail: 330990.jpg
+kt: 7798
+thumbnail: 335607.jpg
 doc-type: feature video
 activity: use
 team: TM
-hide: true
-hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 
 # Erstellen von Cross-Channel-Kampagnen
 
-Bei einer Cross-Channel-Kampagne nutzt eine einzelne Marketing-Nachricht mehrere Kanäle, um eine breitere Audience auf Basis des bevorzugten Empfängerkanals zu erreichen.
+In einer kanalübergreifenden Kampagne verwendet eine einzelne Marketingkommunikation verschiedene Kanäle. Daten werden zwischen den Kanälen übergeben. Der Kunde erhält die Kommunikation über mehrere Kanäle, beispielsweise aufgrund seiner Interaktion mit der vorherigen Kommunikation.
 
-Erfahren Sie, wie Sie eine Cross-Channel-Kampagne mit E-Mail-, SMS- und Briefpost-Versand verwenden.
+Erfahren Sie, wie Sie eine kanalübergreifende Kampagne erstellen, indem Sie E-Mail- und Briefpostsendungen verwenden, die auf der Interaktion des Kunden mit dem ersten Versand basieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
 
 ## Zusätzliche Ressourcen
 
