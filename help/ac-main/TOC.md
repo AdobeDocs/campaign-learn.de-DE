@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 93%
@@ -23,10 +23,10 @@ ht-degree: 93%
    + [Verwalten von Marketing-Kampagnen](/help/get-started/manage-marketing-campaigns.md)
    + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Durch ein Ereignis ausgelöste Kampagnen erstellen](/help/get-started/create-event-triggered-campaigns.md)
-+ Profil-Management {#profile-management}
++ Profilverwaltung {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Bestimmung der Zielgruppenprofile in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Kampagnenorchestrierung {#campaign-orchestration}
++ Kampagnenverwaltung {#campaign-orchestration}
    + [Ausführen von Kampagnen](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Einführung in Multi- und Cross-Channel-Kampagnen](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Erstellen von Multi-Channel-Kampagnen](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -58,7 +58,7 @@ ht-degree: 93%
       + [Konfigurieren von Versandvorlagen](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Festlegen der Eigenschaften von Versandvorlagen](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Bereitstellen einer Ad-hoc-E-Mail-Versandvorlage](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Ermüdungsverwaltung {#fatigue-management}
+   + Ermüdungsverwaltung{#fatigue-management}
       + [Typologieregeln](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vordefinierte Filter](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Konfigurieren und Verwalten von Anmelde-Services](/help/send-messages/configure-and-manage-subscription-services.md)
