@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell ge
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 93%
 + [Übersicht](/help/overview.md)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Installieren und Einrichten der Adobe Campaign Client Console](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [Installieren und Einrichten der Client-Konsole von Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Navigation in der Benutzeroberfläche von Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Verwalten von Marketing-Kampagnen](/help/get-started/manage-marketing-campaigns.md)
    + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Durch ein Ereignis ausgelöste Kampagnen erstellen](/help/get-started/create-event-triggered-campaigns.md)
-+ Profilverwaltung {#profile-management}
++ Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Bestimmung der Zielgruppenprofile in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Kampagnenverwaltung {#campaign-orchestration}
++ Kampagnenorchestrierung {#campaign-orchestration}
    + [Ausführen von Kampagnen](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Einführung in Multi- und Cross-Channel-Kampagnen](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Erstellen von Multi-Channel-Kampagnen](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 93%
       + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
    + SMS {#sms}
-      + [Erstellen Sie einen SMS-Versand](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Erstellen eines SMS-Versands](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push-Benachrichtigung {#push}
       + [Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -58,7 +58,7 @@ ht-degree: 93%
       + [Konfigurieren von Versandvorlagen](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Festlegen der Eigenschaften von Versandvorlagen](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Bereitstellen einer Ad-hoc-E-Mail-Versandvorlage](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Ermüdungsverwaltung{#fatigue-management}
+   + Ermüdungsverwaltung {#fatigue-management}
       + [Typologieregeln](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vordefinierte Filter](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Konfigurieren und Verwalten von Anmelde-Services](/help/send-messages/configure-and-manage-subscription-services.md)
@@ -67,7 +67,7 @@ ht-degree: 93%
    + [Erstellen wiederkehrender und fortlaufender Sendungen](/help/process-management/recurring-deliveries.md)
    + [Erstellen von Zielgruppen-Workflows](/help/process-management/create-a-targeting-workflow.md)
    + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
-   + [Einschränken von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
+   + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Erstellen von Validierungs-Workflows](/help/process-management/create-validation-workflows.md)
    + [Verwalten von Genehmigungen](/help/process-management/manage-approvals.md)
    + [Verwenden der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
@@ -81,7 +81,7 @@ ht-degree: 93%
 + Reporting {#reporting}
    + [Zugriff auf native Berichte](/help/reporting/access-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Monitoring    {#monitoring}
++ Monitoring     {#monitoring}
    + [Workflow-Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring/audit-trail.md)
 
