@@ -9,9 +9,9 @@ team: WWFRE
 role: User
 level: Beginner
 source-git-commit: 08e46479272cd319377fdf27f8585acc47deea06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren
 ## Nächste verfügbare Tutorials
 
 * [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
-* [Einschränken von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
+* [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
 * [Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen](/help/process-management/use-the-update-list-activity.md)
