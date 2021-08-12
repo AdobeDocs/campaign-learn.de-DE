@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 >[!NOTE]
 > Campaign v8 ist derzeit nur als Managed Cloud Service verfügbar und kann nicht in On-Premise- oder Hybridumgebungen bereitgestellt werden. Die Migration aus einer bestehenden Campaign Classic v7-Umgebung ist noch nicht verfügbar.
->Weitere Informationen zu den Unterschieden zwischen den beiden Versionen finden Sie in der [Produktdokumentation zu Classic v7 und v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Anleitungsvideos finden Sie im Abschnitt [Tutorials zu Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de).
+>Weitere Informationen zu den Unterschieden zwischen den beiden Versionen finden Sie in der [Produktdokumentation zu Classic v7 und v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=de). Anleitungsvideos finden Sie im Abschnitt [Tutorials zu Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de).
 
 ## Neue Funktionen
 
-[Wichtigste Funktionen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[Wichtigste Funktionen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de)
 
 ## Favoriten unserer Mitarbeiter
 
@@ -31,20 +31,20 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 <tr>
   <td>
     <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-      <img alt="Marketingplan, Programm und Kampagnen erstellen (Video)" src="./assets/333810.jpg"/>
+      <img alt="Marketing-Plan, -Programm und -Kampagnen erstellen (Video)" src="./assets/333810.jpg"/>
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-    <strong>Marketingplan erstellen</strong>
+    <strong>Marketing-Plan erstellen</strong>
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie einen Marketingplan, ein Programm und eine Kampagne erstellen.</em>
+    <em>Erfahren Sie, wie Sie Marketing-Plan, -Programm und -Kampagne erstellen.</em>
     <p>
   </td>
    <td>
     <a href="./content-creation/create-and-design-email-deliveries.md">
-      <img alt="E-Mail-Sendungen erstellen und entwerfen (Video)" src="./assets/333476.jpg" />
+      <img alt="Erstellen und Entwerfen von E-Mail-Sendungen (Video)" src="./assets/333476.jpg" />
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
@@ -58,15 +58,15 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="Ermüdung mithilfe von Typologieregeln verwalten (Video)" src="./assets/333787.jpg" />
+      <img alt="Ermüdungsverwaltung mithilfe von Typologieregeln (Video)" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>Ermüdung mithilfe von Typologieregeln verwalten</strong>
+    <strong>Ermüdungsverwaltung mithilfe von Typologieregeln</strong>
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie mithilfe von Typologieregeln die Ermüdungsverwaltung in Adobe Campaign implementieren.  </em>
+    <em>Erfahren Sie, wie Sie die Ermüdungsverwaltung in Adobe Campaign mithilfe von Typologieregeln implementieren. </em>
     <p>
   </td>
 </tr>
@@ -82,7 +82,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie einen [!UICONTROL beschreibenden Analysebericht] aus einem Workflow generieren.</em>
+    <em>Erfahren Sie, wie Sie anhand eines Workflows einen beschreibenden Analysebericht erstellen.</em>
     <p>
   </td>
 
@@ -90,4 +90,4 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Zusätzliche Ressourcen
 
-* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=de)
