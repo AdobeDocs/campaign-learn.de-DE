@@ -1,6 +1,6 @@
 ---
-title: Einschränken von Zielgruppen durch Ausschließen von Abfrageergebnissen
-description: Erfahren Sie, wie Sie Ihr Ziel verfeinern können, indem Sie eine  Standardausschluss für einen Workflow. Erfahren Sie, wie Sie vordefinierte Filter erstellen und Probleme beim Erstellen Ihres Workflows beheben können.
+title: Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen
+description: Erfahren Sie, wie Sie Ihre Zielgruppe einschränken, indem Sie einen Standardausschluss auf einen Workflow anwenden. Erfahren Sie, wie Sie vordefinierte Filter erstellen und Probleme mit Ihrem Workflow beheben.
 feature: Workflows, Zielgruppenbestimmungsaktivität, Abfrage-Tool
 kt: 7845
 thumbnail: 335609.jpg
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
 source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
-# Einschränken von Zielgruppen durch Ausschließen von Abfrageergebnissen
+# Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen
 
-Erfahren Sie, wie Sie Ihr Ziel verfeinern können, indem Sie eine  Standardausschluss für einen Workflow. Erfahren Sie, wie Sie vordefinierte Filter erstellen und Probleme beim Erstellen Ihres Workflows beheben können.
+Erfahren Sie, wie Sie Ihre Zielgruppe einschränken, indem Sie einen Standardausschluss auf einen Workflow anwenden. Erfahren Sie, wie Sie vordefinierte Filter erstellen und Probleme mit Ihrem Workflow beheben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
