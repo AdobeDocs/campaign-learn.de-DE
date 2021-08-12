@@ -11,17 +11,17 @@ role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
-# Ermüdung mithilfe von Typologieregeln verwalten
+# Ermüdungsverwaltung mithilfe von Typologieregeln
 
 Die Ermüdungsverwaltung steuert die Häufigkeit und Menge der Nachrichten, um eine Überforderung von Empfängern zu vermeiden. Häufig wird sie mithilfe einer Typologieregel umgesetzt.
 
-Erfahren Sie, wie Sie mithilfe von Typologieregeln die Ermüdungsverwaltung in Adobe Campaign implementieren.
+Erfahren Sie, wie Sie die Ermüdungsverwaltung in Adobe Campaign mithilfe von Typologieregeln implementieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
 
