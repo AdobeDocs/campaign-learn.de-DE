@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 98%
+source-wordcount: '318'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 # Tutorials zu Adobe Campaign v8 {#tutorials}
 
 + [Übersicht](/help/overview.md)
++ [Die wichtigsten Funktionen von Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
    + [Installieren und Einrichten der Client-Konsole von Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
