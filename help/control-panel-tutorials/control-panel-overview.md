@@ -8,7 +8,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 04659ac7587f21644110bdb4c2c2bf65bc5a49c6
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 64%
@@ -37,11 +37,11 @@ Mit dem Adobe Campaign Control Panel können Adobe Campaign-Administratoren wich
     <p>
   </td>
   <td>
-    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
+    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
       <img alt="Herstellen einer Verbindung zu einem SFTP-Server" src="./assets/36386.jpg" />
     </a>
     <div>
-      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
+      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
     <strong>Generieren und Installieren von GPG-Schlüsseln zur Datenverschlüsselung</strong>
     </a>
     </div>
