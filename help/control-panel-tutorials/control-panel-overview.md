@@ -1,23 +1,23 @@
 ---
 title: Control Panel – Übersicht
-description: Mit dem Adobe Campaign Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Verwaltung von GPG-Schlüsseln oder Subdomains und Zertifikaten.
-landing-page-description: Mit dem Control Panel können Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. das Verwalten von SFTP-Datenspeicherung, GPG-Schlüsseln oder Subdomains und Zertifikaten.
+description: Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Zulassungsauflistung von IP-Adressen oder die Verwaltung von GPG-Schlüsseln.
+landing-page-description: Mit dem Adobe Campaign Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Zulassungsauflistung von IP-Adressen oder die Verwaltung von GPG-Schlüsseln.
 feature: Control Panel
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 64%
+source-wordcount: '216'
+ht-degree: 51%
 
 ---
 
 # Control Panel – Übersicht
 
-Mit dem Adobe Campaign Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Verwaltung von GPG-Schlüsseln oder Subdomains und Zertifikaten.
+Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Zulassungsauflistung von IP-Adressen oder die Verwaltung von GPG-Schlüsseln.
 
 ## Favoriten unserer Mitarbeiter
 
