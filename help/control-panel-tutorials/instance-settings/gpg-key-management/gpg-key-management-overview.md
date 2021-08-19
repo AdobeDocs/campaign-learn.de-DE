@@ -5,7 +5,7 @@ feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 31%
@@ -18,7 +18,7 @@ GPG (GnuPG) verschlüsselt Nachrichten mit asymmetrischen individuellen Schlüss
 
 Erfahren Sie, wie Sie ein öffentlich-privates Schlüsselpaar in einer angegebenen [!DNL Campaign]-Instanz generieren und installieren.
 
-1. [Generieren und Installieren von GPG-Schlüsseln zur Datenverschlüsselung](./generate-and-install-gpg-keys-for-data-encryption.md)
+1. [Generieren und Installieren von GPG-Schlüsseln zur Datenverschlüsselung](./generate-and-install-gpg-keys.md)
 2. [Verschlüsseln von Daten mit einem GPG-Schlüssel](./use-a-gpg-key-to-encrypt-data.md)
 3. [Entschlüsseln von Daten](./decrypt-data.md)
 
