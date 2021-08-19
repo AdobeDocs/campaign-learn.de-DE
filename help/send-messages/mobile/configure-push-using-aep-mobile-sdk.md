@@ -11,12 +11,13 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 88%
 
 ---
+
 
 # Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK
 
@@ -27,4 +28,4 @@ In diesem Video wird beschrieben, wie Sie das Adobe Experience Platform Mobile S
 
 ## Zusätzliche Ressourcen
 
-* [Konfigurieren der Campaign-Erweiterung in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+* [Konfigurieren der Campaign Classic v7-Erweiterung in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
