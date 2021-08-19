@@ -1,14 +1,14 @@
 ---
-title: E-Mail-Versandaktivität im Vergleich zu Versandaktivität in Adobe Campaign Classic
+title: E-Mail-Versandaktivität im Vergleich zu Versandaktivität
 description: In diesem Video wird beschrieben, wie Sie eine Versandvorlage konfigurieren und verwenden.
 feature: Versandvorlagen
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
