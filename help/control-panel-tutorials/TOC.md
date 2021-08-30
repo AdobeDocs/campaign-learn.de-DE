@@ -8,9 +8,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 49%
    + [Erstellen eines SSH-Schlüssels](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Instanzeneinstellungen {#instance-settings}
-   + [IP-Adressen der Zulassungsliste](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
+   + [IP-Adressen auf der Zulassungsliste](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [Hinzufügen von URL-Berechtigungen](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Verwaltung von GPG-Schlüsseln {#gpg-key-management}
       + [Übersicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generieren und Installieren von GPG-Schlüsseln](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
+      + [Erzeugen und Installieren von GPG-Schlüsseln](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Entschlüsseln von Daten](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Leistungsüberwachung {#performance-monitoring}
