@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen von URL-Genehmigungen
-description: Erfahren Sie, wie Sie eine Verbindung zwischen Ihrer Adobe Campaign --Instanz und einer externen URL herstellen.
+title: Hinzufügen von URL-Berechtigungen
+description: Erfahren Sie, wie Sie eine Verbindung zwischen Ihrer Adobe Campaign-Instanz und einer externen URL herstellen.
 feature: Control Panel
 kt: 8514
 thumbnail: 28149.jpg
@@ -10,15 +10,15 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-# Hinzufügen von URL-Genehmigungen
+# Hinzufügen von URL-Berechtigungen
 
-Erfahren Sie, wie Sie eine Verbindung zwischen Ihrer [!UICONTROL Adobe Campaign ]-Instanz und einer externen URL herstellen.
+Erfahren Sie, wie Sie eine Verbindung zwischen Ihrer [!UICONTROL Adobe Campaign]-Instanz und einer externen URL herstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
