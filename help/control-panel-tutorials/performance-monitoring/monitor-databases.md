@@ -11,15 +11,15 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # Überwachen von Datenbanken
 
-Alle Assets, Workflows und Daten Ihrer Campaign-Instanz werden in der Datenbank gespeichert. Wenn die Datenbank ihre maximale Kapazität erreicht, kann es zu Problemen mit Ihrer Instanz kommen (Unfähigkeit, sich anzumelden, E-Mails zu versenden usw.). Daher ist es wichtig, die Datenbanken Ihrer Instanzen regelmäßig zu überwachen, um eine optimale Leistung zu gewährleisten.
+Alle Assets, Workflows und Daten Ihrer Campaign-Instanz werden in der Datenbank gespeichert. Wenn Ihre Datenbank ihre maximale Kapazität erreicht, kann es zu Problemen mit Ihrer Instanz kommen (Unfähigkeit, sich anzumelden, E-Mails zu senden usw.). Daher ist es wichtig, die Datenbanken Ihrer Instanzen regelmäßig zu überwachen, um eine optimale Leistung zu gewährleisten.
 
 Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen überwachen.
 
