@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 78%
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign v8.
 
 >[!INFO]
-> Hast du Fragen? Möchten Sie Ihre Erfahrungen austauschen oder mit anderen tauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Nehmen Sie an der Konversation im [Adobe Campaign Lerncommunity-Thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096) teil!
+> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lerngemeinschaft](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096?profile.language=de)!
 
 >[!NOTE]
 > Campaign v8 ist derzeit nur als Managed Cloud Service verfügbar und kann nicht in On-Premise- oder Hybridumgebungen bereitgestellt werden. Die Migration aus einer bestehenden Campaign Classic v7-Umgebung ist noch nicht verfügbar.
@@ -26,9 +26,9 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+* **[Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=de)**
 
-   *Erfahren Sie, wie Sie wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Zulassungsauflistung von IP-Adressen oder die Verwaltung von GPG-Schlüsseln.*
+   *Erfahren Sie, wie Sie wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, von Zulassungslisten von IP-Adressen oder von GPG-Schlüsseln.*
 
 ## Favoriten unserer Mitarbeiter
 
