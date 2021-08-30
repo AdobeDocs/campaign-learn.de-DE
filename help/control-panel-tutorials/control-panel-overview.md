@@ -1,7 +1,7 @@
 ---
 title: Control Panel – Übersicht
-description: Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Zulassungsauflistung von IP-Adressen oder die Verwaltung von GPG-Schlüsseln.
-landing-page-description: Mit dem Adobe Campaign Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Zulassungsauflistung von IP-Adressen oder die Verwaltung von GPG-Schlüsseln.
+description: Über das Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben durchführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz, der IP-Adressen in der Zulassungsliste oder der GPG-Schlüssel.
+landing-page-description: Über das Adobe Campaign Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben durchführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz, der IP-Adressen in der Zulassungsliste oder der GPG-Schlüssel.
 feature: Control Panel
 doc-type: feature video
 activity: use
@@ -9,15 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
 # Control Panel – Übersicht
 
-Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung des SFTP-Speichers nach Instanz, die Zulassungsauflistung von IP-Adressen oder die Verwaltung von GPG-Schlüsseln.
+Über das Control Panel können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben durchführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz, der IP-Adressen in der Zulassungsliste oder der GPG-Schlüssel.
 
 ## Favoriten unserer Mitarbeiter
 
