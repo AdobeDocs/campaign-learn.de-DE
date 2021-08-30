@@ -1,6 +1,6 @@
 ---
 title: Überwachen der Server-Kapazität
-description: Erfahren Sie, wie Sie Ihren SFTP-Speicher nach Instanz überwachen und verwalten und IP-Adressen zur Zulassungsliste hinzufügen können.
+description: Erfahren Sie, wie Sie Ihren SFTP-Speicher nach Instanzen überwachen und verwalten und IP-Adressen zu Zulassungslisten hinzufügen können.
 feature: Control Panel
 audience: administrator
 kt: 8510
@@ -11,9 +11,9 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Um die Subdomain-Verwaltung in [!UICONTROL Control Panel]aufzurufen, gehen Sie z
    oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Überwachen Sie die Serverkapazität, die IP-Adressen [!UICONTROL Zulassungsliste] und fügen Sie SSH-Schlüssel hinzu.
+## Überwachen der Server-Kapazität, [!UICONTROL Setzen von IP-Adressen auf Zulassungslisten] und Hinzufügen von SSH-Schlüsseln
 
 Erfahren Sie, wie Sie die Speicherkapazität Ihrer SFTP-Server überwachen.
 
