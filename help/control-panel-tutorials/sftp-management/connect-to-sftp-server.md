@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1febbcfc007f231ef797ef203830df9c0ef1a14e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -27,13 +27,13 @@ Um auf die SFTP-Verwaltung im Control Panel zuzugreifen, navigieren Sie zu:
    oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
-## Herstellen einer Verbindung zu einem SFTP-Server
+## So stellen Sie eine Verbindung zu einem SFTP-Server her
 
 Für Verbindungen mit SFTP-Servern ist Folgendes erforderlich:
 
 * Setzen der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen, auf die Zulassungsliste
-* Paar aus privatem/öffentlichem Schlüssel, das bei Adobe Campaign registriert werden muss
-* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch die SFTP-Client-Software
+* Schlüsselpaar aus privatem/öffentlichem Schlüssel, das bei Adobe Campaign registriert werden muss
+* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch SFTP-Client-Software.
 
 In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
 
