@@ -9,38 +9,38 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
 # Fehlerbehebung im [!UICONTROL Control Panel]
 
-Erfahren Sie, wie Sie die Fehlerbehebung im Control Panel durchführen.
+Erfahren Sie, wie Sie Fehler im Control Panel beheben.
 
 ## Anmelden und Homepage
 
-### Symptom: Anmeldung bei Experience Cloud nicht möglich
+### Problem: Anmeldung bei Experience Cloud nicht möglich
 
 **Vorgehensweise:**
-Der Benutzer muss seine IMS-Organisations-ID (xxx) finden. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil &quot;Campaign-xxx-Admins&quot;hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich selbst als Benutzer hinzufügen.
+Der Benutzer muss seine IMS-Organisations-ID (xxx) suchen. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil „Campaign-xxx-Admins“ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
 
-### Symptom: Links auf der Experience Cloud-Startseite für den Zugriff auf [!UICONTROL Control Panel] werden für einen Benutzer nicht angezeigt
+### Problem: Links auf der Experience Cloud-Startseite für den Zugriff auf das [!UICONTROL Control Panel] werden einem Benutzer nicht angezeigt.
 
 **Ursache:**
-Benutzer sehen die Links erst, nachdem sie als Benutzer zum Produktprofil  _Campaign-xxx-Administrators/Admin_ hinzugefügt wurden.
+Diese Links werden Benutzern erst dann angezeigt, nachdem sie dem Produktprofil _Campaign-xxx-Administrators/Admin_ als Benutzer hinzugefügt wurden.
 
 **Vorgehensweise:**
-Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil  _Campaign-xxx-_  Admins hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich selbst als Benutzer hinzufügen.
+Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil _Campaign-xxx-Admins_ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
 
-### Symptom: Eine Instanz wird im [!UICONTROL Control Panel] nicht aufgeführt
+### Problem: Eine Instanz wird im [!UICONTROL Control Panel] nicht aufgeführt.
 
-**Ursache:**
-Der Benutzer muss höchstwahrscheinlich als  ** BenutzerProduktprofil  _Campaign-xxx-Administrators/_ Administrator für die fehlende Instanz hinzugefügt werden.
+**Ursache:****
+Der Benutzer muss wahrscheinlich für die fehlende Instanz dem Produktprofil _Campaign-xxx-Administrators/Admin_ als Benutzer hinzugefügt werden.
 
 **Vorgehensweise:**
-Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil  _Campaign-xxx-_  Admins hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich selbst als &quot;Benutzer&quot;hinzufügen.
+Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil _Campaign-xxx-Admins_ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
 
 ### Nützliche Videos
 
@@ -55,16 +55,16 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 ### Nützliche Dokumentation
 
 * [Funktionsweise des Control Panels](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
-* [[!UICONTROL Verwalten von Berechtigungen für das ]Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [[!UICONTROL Verwalten von Berechtigungen für das ]Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
 
 ## Herstellen einer Verbindung zum SFTP-Server (Client oder API)
 
 Für Verbindungen mit SFTP-Servern ist Folgendes erforderlich:
 
 * [!UICONTROL Setzen auf die Zulassungsliste] der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen
-* Paar aus privatem/öffentlichem Schlüssel, das bei Adobe Campaign registriert werden muss
-* Um eine direkte Verbindung zum SFTP-Server herzustellen, benötigen Sie auch die SFTP-Client-Software
+* Schlüsselpaar aus privatem/öffentlichem Schlüssel, das bei Adobe Campaign registriert werden muss
+* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch SFTP-Client-Software.
 
 ### Nützliche Dokumentation {#helpful-docs}
 
-* [Anmeldung bei Ihrem SFTP-Server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Anmeldung bei Ihrem SFTP-Server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
