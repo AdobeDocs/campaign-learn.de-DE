@@ -1,14 +1,14 @@
 ---
 product: adobe campaign
-sub-product: Campaign v8
+sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: bd4a1a00c23e70d7e59946255a93511ee7a65e79
+workflow-type: tm+mt
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -76,6 +76,7 @@ ht-degree: 100%
 + Daten-Management {#data-management}
    + [Importieren von Profilen](/help/data-management/import-profiles.md)
    + [Datenreplikation](/help/data-management/data-replication.md)
+   + [Tutorial: Verwenden von SOAP-APIs](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=en)
 + Herstellen von Verbindungen zu anderen Lösungen {#connect}
    + [Verwaltung von Big Data in Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integrieren mit Dynamics 365](/help/connect/dynamics365-integration.md)
