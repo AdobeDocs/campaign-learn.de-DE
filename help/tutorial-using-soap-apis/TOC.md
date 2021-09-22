@@ -2,11 +2,11 @@
 user-guide-title: Verwenden der SOAP-APIs von Campaign
 user-guide-description: Erfahren Sie, wie Sie Adobe Campaign Soap-APIs verwenden und einen erweiterten Versand-Workflow erstellen.
 breadcrumb-title: Verwenden der SOAP-APIs von Campaign
-breadcrumb-url: /docs/campaign-learn/using-soap-apis/introduction.html
-source-git-commit: ee6980355860a0fee79bbdfd3f11533e287b7f21
+breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
+source-git-commit: 708f78633c52f1ae65d424dfcb956abd2ceb48f4
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 2%
+source-wordcount: '75'
+ht-degree: 1%
 
 ---
 
@@ -16,4 +16,8 @@ ht-degree: 2%
 + [Einleitung](/help/tutorial-using-soap-apis/introduction.md)
 + [Schritt 1: Erste Schritte mit SOAP-APIs](/help/tutorial-using-soap-apis/get-started-with-soap-apis.md)
 + [Schritt 2: Hinzufügen von Empfängern und Artikeln mithilfe der SOAP-API-Anfrage](/help/tutorial-using-soap-apis/add-recipients-and-articles-using-using-soap-api-requests.md)
-+ [Schritt 3: Benutzer über die SOAP-API abonnieren](/help/tutorial-using-soap-apis/subscribe-users-via-soap-api.md)
++ [Schritt 3: Anmelden von Benutzern über die SOAP-API](/help/tutorial-using-soap-apis/subscribe-users-via-soap-api.md)
++ Schritt 4: Erstellen eines Inhaltsdigest mit einem Workflow {#content-digest}
+   + [Erstellen eines Inhaltsdigest mit einem Workflow](/help/process-management/create-a-content-digest/create-a-content-digest-overview.md)
+   + [Abfrage von Artikeln und Abonnementwerten von Empfängern](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md)
+   + [Spalten verbinden und E-Mail-Versand senden](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
