@@ -7,9 +7,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 20dc3aa4b30d8b6ee1d87b10607fb24afc09292a
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,5 @@ Erfahren Sie, wie Sie einen Workflow erstellen, der Empfänger von neuen Artikel
 
 *Abfragen von Daten mit unterschiedlichen Zielgruppen- und Filterdimensionen sowie Anleitung zum Verbinden der Ausgaben mithilfe einer Schnittmenge.*
 
-**Schritt 2:** [Spalten verbinden und E-Mail-Versand senden](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
-
-*Erfahren Sie, wie Sie zwei Segmenten beitreten und dem im vorherigen Schritt erstellten Newsletter-Abonnement-Workflow einen personalisierten E-Mail-Versand mit den Artikelinformationen hinzufügen, die über eine API empfangen wurden.*
+**Schritt 2:** [Versand an abonnierte ](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+*Empfänger senden Erfahren Sie, wie Sie Daten aus zwei Segmenten verbinden, eine Warnungen-E-Mail für Artikel erstellen und basierend auf Daten personalisieren können, die von einer externen API empfangen wurden.*

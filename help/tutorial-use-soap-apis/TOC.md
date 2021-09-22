@@ -3,7 +3,7 @@ user-guide-title: Verwenden der SOAP-APIs von Campaign
 user-guide-description: Erfahren Sie, wie Sie Adobe Campaign Soap-APIs verwenden und einen erweiterten Versand-Workflow erstellen.
 breadcrumb-title: Verwenden der SOAP-APIs von Campaign
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 + Schritt 4: Erstellen eines Warnungen-Versands für einen Artikel{#article-alert-email}
    + [Erstellen eines Warnungsversands](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
    + [Teil 1: Abfragen von Artikeln und Abonnementwerten von Empfängern](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [Teil 2 - Spalten verbinden und E-Mail-Versand senden](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+   + [Teil 2: Versand an abonnierte Empfänger senden](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
