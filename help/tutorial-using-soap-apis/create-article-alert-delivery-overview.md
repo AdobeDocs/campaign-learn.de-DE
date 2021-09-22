@@ -1,5 +1,5 @@
 ---
-title: Erstellen eines E-Mail-Versands mit dem Hinweis "neuer Artikel - Warnhinweis" für Abonnenten - Übersicht
+title: Warnungsbereitstellung für Artikel erstellen - Übersicht
 description: Erfahren Sie, wie Sie einen Workflow erstellen, der Empfänger von neuen Artikeln benachrichtigt, die sie über einen E-Mail-Versand abonniert haben.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Erstellen eines E-Mail-Versands mit dem Hinweis &quot;neuer Artikel - Warnhinweis&quot; für Abonnenten - Übersicht
+# Warnungsbereitstellung für Artikel erstellen - Übersicht
 
 Erfahren Sie, wie Sie einen Workflow erstellen, der Empfänger von neuen Artikeln benachrichtigt, die sie über einen E-Mail-Versand abonniert haben.
 
