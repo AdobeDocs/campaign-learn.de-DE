@@ -9,9 +9,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 4f6c43abc595a9dd19a9fcfbca0ad35ceb084e9e
+source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Automatisierten E-Mail-Versand senden
 
-Erfahren Sie, wie Sie zwei Segmenten beitreten und dem im vorherigen Schritt erstellten Newsletter-Abonnement-Workflow einen personalisierten E-Mail-Versand mit einer Inhaltsangabe hinzufügen: Video [Abfrage von Artikeln und Empfängeranmeldewerten](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md)
+Erfahren Sie, wie Sie zwei Segmente verbinden und einen personalisierten E-Mail-Versand hinzufügen können.  mit den Artikelinformationen, die über eine API empfangen wurden, zum Newsletter-Abonnement-Workflow, der im vorherigen Schritt erstellt wurde: Video [Abfrage von Artikeln und Empfängeranmeldewerten](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)
