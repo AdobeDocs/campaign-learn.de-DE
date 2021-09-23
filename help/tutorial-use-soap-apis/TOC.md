@@ -1,17 +1,17 @@
 ---
-user-guide-title: Verwenden der SOAP-APIs von Campaign
+user-guide-title: SOAP-APIs verwenden
 user-guide-description: Erfahren Sie, wie Sie Adobe Campaign Soap-APIs verwenden und einen erweiterten Versand-Workflow erstellen.
-breadcrumb-title: Verwenden der SOAP-APIs von Campaign
+breadcrumb-title: SOAP-APIs verwenden
 breadcrumb-url: /campaign-learn/use-soap-apis/introduction.html
-source-git-commit: 475a1e30c2aa0c65eb1644e6d84f7544b684bde1
+source-git-commit: c6c343f3087f91fa79291695f99c5878352e4678
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 
-# Verwenden der SOAP-APIs von Campaign™ {#using-soap-apis}
+# Verwenden der SOAP-APIs von Campaign™ {#use-soap-apis}
 
 + [Tutorial - Verwenden von SOAP-APIs](/help/tutorial-use-soap-apis/introduction.md)
 + [Schritt 1: Erste Schritte mit SOAP-APIs](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)
