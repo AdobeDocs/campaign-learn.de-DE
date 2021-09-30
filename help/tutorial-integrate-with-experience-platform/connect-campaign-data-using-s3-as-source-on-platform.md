@@ -1,5 +1,5 @@
 ---
-title: Campaign-Daten mithilfe einer Quelle in Adobe Experience Platform verbinden
+title: Campaign-Daten mit S3 als Quelle in Adobe Experience Platform verbinden
 description: Erfahren Sie, wie Sie Daten mithilfe eines Quell-Connectors in Experience Platform erfassen, um die Profildaten mit den exportierten Kampagnenprotokollen zu aktualisieren.
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---
 
 
-# Campaign-Daten mithilfe einer Quelle in Adobe Experience Platform verbinden
+# Campaign-Daten mit S3 als Quelle in Adobe Experience Platform verbinden
 
 Erfahren Sie, wie Sie Daten mithilfe eines Quell-Connectors in Experience Platform erfassen, um die Profildaten mit den exportierten Kampagnenprotokollen zu aktualisieren.
 
