@@ -1,0 +1,24 @@
+---
+title: Empfängerdaten aus Experience Platform in Campaign importieren
+description: Erfahren Sie, wie Sie ein externes Konto in Adobe Campaign konfigurieren, um Empfängerdaten aus Adobe Experience Platform in Campaign zu importieren. Hier erfahren Sie, wie Sie einen Workflow erstellen, mit dem Sie die von der Experience Platform empfangenen Empfänger hochladen und ansprechen können.
+feature: Data Import/Export, Workflows
+kt: 8173
+thumbnail: 336641.jpg
+doc-type: feature video
+activity: use
+team: TM
+role: User
+level: Experienced
+source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 0%
+
+---
+
+
+# Empfängerdaten aus Experience Platform importieren und E-Mail senden
+
+Erfahren Sie, wie Sie ein externes Konto in Adobe Campaign konfigurieren, um Empfängerdaten aus Adobe Experience Platform in Campaign zu importieren. Hier erfahren Sie, wie Sie einen Workflow erstellen, mit dem Sie die von der Experience Platform empfangenen Empfänger hochladen und ansprechen können.
+
+>[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12)
