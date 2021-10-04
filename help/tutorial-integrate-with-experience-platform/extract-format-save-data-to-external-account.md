@@ -1,6 +1,6 @@
 ---
 title: Export-Workflow erstellen (Teil 2) - Daten in ein externes Konto extrahieren, formatieren und speichern
-description: In diesem zweiten Teil des Tutorials zum Erstellen eines Export-Workflows erfahren Sie, wie Sie die Daten für den Export formatieren und in einem externen Konto speichern können. 
+description: In diesem zweiten Teil des Tutorials zum Erstellen eines Export-Workflows erfahren Sie, wie Sie die Daten für den Export formatieren und in einem externen Konto speichern können.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -9,13 +9,13 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
+exl-id: ac29b75c-a838-4183-8ec5-034281290725
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
 
 ---
-
 
 # Export-Workflow erstellen (Teil 2): Daten in ein externes Konto extrahieren, formatieren und speichern
 
