@@ -1,6 +1,6 @@
 ---
-title: Versand an abonnierte Empfänger senden
-description: Erfahren Sie, wie Sie Daten aus zwei Segmenten zusammenführen, eine Warnungsmail für Artikel erstellen und basierend auf Daten, die von einer externen API empfangen wurden, personalisieren können.
+title: Nachrichten an Abonnenten senden
+description: Erfahren Sie, wie Sie Daten aus zwei Segmenten zusammenführen, eine Benachrichtigungs-Mail für Artikel erstellen und basierend auf Daten, die von einer externen API empfangen wurden, personalisieren.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
@@ -9,16 +9,16 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 3280371c-b088-4da9-bc2c-f7a401719db8
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Nachrichten an Abonnenten senden
 
-# Versand an abonnierte Empfänger senden
-
-Erfahren Sie, wie Sie Daten aus zwei Segmenten zusammenführen, eine Warnungsmail für Artikel erstellen und basierend auf Daten, die von einer externen API empfangen wurden, personalisieren können. Der im vorherigen Schritt erstellte Workflow wird weiter erstellt: Video [Abfrage von Artikeln und Empfängeranmeldewerten](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
+Erfahren Sie, wie Sie Daten aus zwei Segmenten zusammenführen, eine Benachrichtigungs-Mail für Artikel erstellen und basierend auf Daten, die von einer externen API empfangen wurden, personalisieren. Wir setzen den Aufbau des im vorherigen Schritt erstellten Workflows fort: Video [Abfrage von Artikeln und Werten der Abonnenten](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)
