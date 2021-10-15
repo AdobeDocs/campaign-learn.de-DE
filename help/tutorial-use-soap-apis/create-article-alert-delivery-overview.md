@@ -1,26 +1,27 @@
 ---
-title: Warnungsbereitstellung für Artikel erstellen - Übersicht
-description: Erfahren Sie, wie Sie einen Workflow erstellen, der Empfänger von neuen Artikeln benachrichtigt, die sie über einen E-Mail-Versand abonniert haben.
+title: Versand von Warnhinweisen für Artikel erstellen – Übersicht
+description: Erfahren Sie, wie Sie einen Workflow erstellen, der Empfänger über neue Artikel benachrichtigt, die sie per E-Mail-Versand abonniert haben.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
 activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 9f95ebbbd5fb9fbb1b586eb8edee6e68599a2dec
-workflow-type: tm+mt
+exl-id: e911cb89-bd27-4424-b4cd-2333321ffc08
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Warnungsbereitstellung für Artikel erstellen - Übersicht
+# Versand von Warnhinweisen für Artikel erstellen – Übersicht
 
-Erfahren Sie, wie Sie einen Workflow erstellen, der Empfänger von neuen Artikeln benachrichtigt, die sie über einen E-Mail-Versand abonniert haben.
+Erfahren Sie, wie Sie einen Workflow erstellen, der Empfänger über neue Artikel benachrichtigt, die sie per E-Mail-Versand abonniert haben.
 
 **Schritt 1:** [Abfragen von Artikeln und Abonnementwerten von Empfängern](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
 
-*Abfragen von Daten mit unterschiedlichen Zielgruppen- und Filterdimensionen sowie Anleitung zum Verbinden der Ausgaben mithilfe einer Schnittmenge.*
+*Abfragen von Daten unter Verwendung unterschiedlicher Zielgruppen- und Filterdimensionen sowie Anleitung zum Verbinden der Ergebnisse mithilfe einer Schnittmenge.*
 
-**Schritt 2:** [Versand an abonnierte ](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
-*Empfänger senden Erfahren Sie, wie Sie Daten aus zwei Segmenten verbinden, eine Warnungen-E-Mail für Artikel erstellen und basierend auf Daten personalisieren können, die von einer externen API empfangen wurden.*
+**Schritt 2:** [Nachrichten an Abonnenten senden](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
+*Erfahren Sie, wie Sie Daten aus zwei Segmenten verbinden, eine Benachrichtigungs-E-Mail für Artikel erstellen und die E-Mail basierend auf Daten, die von einer externen API empfangen werden, personalisieren.*
