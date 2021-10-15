@@ -1,5 +1,5 @@
 ---
-title: Export-Workflow erstellen (Teil 1) - Letztes Änderungsdatum für eine Empfängerliste ermitteln
+title: Export-Workflow erstellen (Teil 1) – Letztes Änderungsdatum für eine Empfängerliste ermitteln
 description: In diesem ersten Teil des Tutorials zum Erstellen eines Export-Workflows erfahren Sie, wie Sie einen Workflow erstellen, der das Datum der letzten Änderung für eine Empfängerliste findet, die aus einem Experience Platform-Segment erstellt wurde.
 feature: Data Import/Export, Workflows
 kt: 8162
@@ -11,13 +11,13 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Export-Workflow erstellen (Teil 1) - Letztes Änderungsdatum für eine Empfängerliste ermitteln
+# Export-Workflow erstellen (Teil 1) – Letztes Änderungsdatum für eine Empfängerliste ermitteln
 
 In diesem ersten Teil des Tutorials zum Erstellen eines Export-Workflows erfahren Sie, wie Sie einen Workflow erstellen, der das Datum der letzten Änderung für eine Empfängerliste findet, die aus einem Experience Platform-Segment erstellt wurde.
 
@@ -64,4 +64,4 @@ JavaScript zum Festlegen von Datumsbereichen:
 
 ## Nächstes Video
 
-[Export-Workflow erstellen (Teil 2) - Daten in ein externes Konto extrahieren, formatieren und speichern](extract-format-save-data-to-external-account.md)
+[Export-Workflow erstellen (Teil 2) – Daten in ein externes Konto extrahieren, formatieren und speichern](extract-format-save-data-to-external-account.md)
