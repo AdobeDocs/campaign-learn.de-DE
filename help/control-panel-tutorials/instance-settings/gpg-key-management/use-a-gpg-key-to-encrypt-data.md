@@ -1,5 +1,5 @@
 ---
-title: 'Verschlüsseln von Daten mit einem GPG-Schlüssel '
+title: Verschlüsseln von Daten mit einem GPG-Schlüssel
 description: Erfahren Sie, wie Sie Daten mit einem im Control Panel installierten GPG-Schlüssel exportieren können.
 feature: Control Panel
 kt: 8518
@@ -9,9 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: ht
-source-wordcount: '59'
+exl-id: d423f8e2-6ee0-4ed1-a39b-1a654d6bc023
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---

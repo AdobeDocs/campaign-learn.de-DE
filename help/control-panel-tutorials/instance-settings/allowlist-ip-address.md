@@ -1,7 +1,7 @@
 ---
 title: IP-Adressen auf der Zulassungsliste
 description: Erfahren Sie, wie Sie den Zulassungslisten von Campaign-Instanzen einen IP-Bereich hinzufügen und Bereiche mithilfe des Control Panels aus der Zulassungsliste entfernen.
-seo-description: Im folgenden Video erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen.
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
 feature: Control Panel
 kt: 8515
 thumbnail: 28726.jpg
@@ -10,9 +10,10 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '208'
+exl-id: 0d5b1733-e6c4-461f-bd15-743fb664ae74
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '187'
 ht-degree: 100%
 
 ---
@@ -28,9 +29,7 @@ Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, in
 
 Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Sie zu:
 
-* [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Einstellungen der Instanzen**-Karte
-
-
+* [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Instanzeinstellungen**-Karte
 
 oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
