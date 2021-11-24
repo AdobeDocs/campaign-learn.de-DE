@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
+source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 93%
+source-wordcount: '374'
+ht-degree: 91%
 
 ---
 
@@ -65,17 +65,22 @@ ht-degree: 93%
 + Prozessverwaltung und Automatisierung{#process-management}
    + [Erstellen eines Workflows](/help/process-management/create-a-workflow.md)
    + [Erstellen wiederkehrender und fortlaufender Sendungen](/help/process-management/recurring-deliveries.md)
-   + [Erstellen von Zielgruppen-Workflows](/help/process-management/create-a-targeting-workflow.md)
-   + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
-   + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [Verwalten von Genehmigungen](/help/process-management/manage-approvals.md)
-   + [Verwenden der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
+   + Zielgruppen-Workflows {#targeting workflows}
+      + [Erstellen von Zielgruppen-Workflows](/help/process-management/create-a-targeting-workflow.md)
+      + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
+      + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
+   + Genehmigungs- und Validierungs-Workflows {#create-approvals-and-validation-workflows}
+   + [Verwendung der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurieren von Anreicherungsaktivitäten](/help/process-management/enrichment-activity.md)
-   + Validierungs-Workflows für die Genehmigung erstellen {#create-validation-workflows}
+      + [Einleitung](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
+      + [Verwalten von Genehmigungen](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Validierungen für Kampagnen konfigurieren](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
       + [Konfigurieren von Genehmigungen für Sendungen](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
       + [Erstellen eines Validierungsprozesses in einem Workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + Daten-Management {#data-management}
+   + [Verwalten von Genehmigungen](/help/process-management/manage-approvals.md)
+   + [Verwenden der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
+   + [Konfigurieren von Anreicherungsaktivitäten](/help/process-management/enrichment-activity.md)
    + [Erstellen und Erweitern eines Schemas](/help/data-management/create-and-extend-a-schema.md)
    + [Importieren von Profilen](/help/data-management/import-profiles.md)
    + [Datenreplikation](/help/data-management/data-replication.md)
