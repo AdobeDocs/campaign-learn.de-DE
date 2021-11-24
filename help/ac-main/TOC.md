@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
+source-git-commit: fb36cc755154d4567a68ef8312b14e35d83d81e4
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 93%
 
 ---
@@ -72,11 +72,10 @@ ht-degree: 93%
    + Genehmigungs- und Validierungs-Workflows {#create-approvals-and-validation-workflows}
       + [Einleitung](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Verwalten von Genehmigungen](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Validierungen für Kampagnen konfigurieren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Configure approvals for campaigns](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [Konfigurieren von Genehmigungen für Sendungen](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Validierungsaktivität in einem Workflow erstellen](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Daten-Management {#data-management}
-   + [Verwalten von Genehmigungen](/help/process-management/manage-approvals.md)
    + [Verwenden der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurieren von Anreicherungsaktivitäten](/help/process-management/enrichment-activity.md)
    + [Erstellen und Erweitern eines Schemas](/help/data-management/create-and-extend-a-schema.md)
