@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 7b6cc248aac3544425c35b9df66f33d9146b7bbf
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,3 @@ ht-degree: 100%
 Machen Sie sich mit dem Konzept von Listen in Adobe Campaign vertraut und erfahren Sie, wie Sie mithilfe der Aktivität „Liste aktualisieren“ in einem Workflow eine Liste erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [Bestimmung der Zielgruppenprofile in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-* [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
-* [Einschränken von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
