@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: fb36cc755154d4567a68ef8312b14e35d83d81e4
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '365'
 ht-degree: 93%
 
 ---
@@ -72,7 +72,7 @@ ht-degree: 93%
    + Genehmigungs- und Validierungs-Workflows {#create-approvals-and-validation-workflows}
       + [Einleitung](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Verwalten von Genehmigungen](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Configure approvals for campaigns](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Validierungen für Kampagnen konfigurieren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [Konfigurieren von Genehmigungen für Sendungen](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Validierungsaktivität in einem Workflow erstellen](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Daten-Management {#data-management}
@@ -81,6 +81,7 @@ ht-degree: 93%
    + [Erstellen und Erweitern eines Schemas](/help/data-management/create-and-extend-a-schema.md)
    + [Importieren von Profilen](/help/data-management/import-profiles.md)
    + [Datenreplikation](/help/data-management/data-replication.md)
+   + [API-Staging-Mechanismus](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: Verwenden von SOAP-APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=de)
 + Herstellen von Verbindungen zu anderen Lösungen {#connect}
    + [Verwaltung von Big Data in Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
