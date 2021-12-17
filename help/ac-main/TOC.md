@@ -7,7 +7,7 @@ breadcrumb-title: Tutorials
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -69,12 +69,12 @@ ht-degree: 93%
       + [Erstellen von Zielgruppen-Workflows](/help/process-management/create-a-targeting-workflow.md)
       + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + Genehmigungs- und Validierungs-Workflows {#create-approvals-and-validation-workflows}
+   + Validierungen und Validierungs-Workflows {#create-approvals-and-validation-workflows}
       + [Einleitung](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
-      + [Verwalten von Genehmigungen](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Validierungen für Kampagnen konfigurieren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Konfigurieren von Genehmigungen für Sendungen](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
-      + [Validierungsaktivität in einem Workflow erstellen](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Verwalten von Validierungen](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
+      + [Konfigurieren von Validierungen für Kampagnen](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Konfigurieren von Validierungen für Sendungen ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Erstellen einer Validierungsaktivität in einem Workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Daten-Management {#data-management}
    + [Verwenden der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurieren von Anreicherungsaktivitäten](/help/process-management/enrichment-activity.md)
