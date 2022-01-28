@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 93%
+source-wordcount: '411'
+ht-degree: 78%
 
 ---
 
@@ -27,18 +27,17 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
+* **[Ändern der Datenquelle](/help/data-management/change-data-source.md)**
+
+   *Erfahren Sie, wie Sie die Datenquelle einer Workflow-Arbeitstabelle mithilfe der Aktivität Datenquelle ändern ändern ändern können, um Daten über verschiedene Datenquellen wie FDA, FFDA und lokale Datenbanken hinweg flexibel zu verwalten.*
+
+* **[Grundlagen des Daten-Managements mit Workflows](/help/data-management/data-management-fundamentals.md)**
+
+   *Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten über verschiedene Datenquellen hinweg verwaltet.*
+
 * **[API-Staging-Mechanismus mit FFDA](/help/data-management/api-staging-mechanism.md)**
 
    *Erfahren Sie, wie der API-Staging-Mechanismus mit vollständiger FDA funktioniert.*
-
-* **[Erstellen und Erweitern eines Schemas](/help/data-management/create-and-extend-a-schema.md)**
-
-   *Erfahren Sie, wie Sie ein neues Schema erstellen und ein vorhandenes Schema erweitern.*
-
-* **[Integration mit Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=de)**
-
-   *Erfahren Sie, wie Sie Campaign- und Experience Cloud-Daten importieren und exportieren und so die Kommunikation zwischen den beiden Lösungen ermöglichen.*
-
 
 ## Favoriten unserer Mitarbeiter
 
