@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ Die Ermüdungsverwaltung steuert die Häufigkeit und Menge der Nachrichten, um e
 Erfahren Sie, wie Sie die Ermüdungsverwaltung in Adobe Campaign mithilfe von Typologieregeln implementieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [Über Kampagnentypologien](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=de)
-* [Verwalten der Marketing-Ermüdung anhand von Druckregeln](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=de)

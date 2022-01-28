@@ -10,9 +10,9 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,3 @@ Ein Gestaltungsbaustein ist dynamisch und personalisiert und enthält spezifisch
 Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung von Content für Ihren E-Mail-Versand verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [Personalisieren von E-Mails mit Personalisierungsfeldern](/help/content-creation/personalize-emails-using-personalization-fields.md)
-* [Erstellen von mehrsprachigen Newslettern mit bedingtem Inhalt](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
