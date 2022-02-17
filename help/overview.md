@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -29,15 +29,15 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 * **[Ändern der Datenquelle](/help/data-management/change-data-source.md)**
 
-   *Erfahren Sie, wie Sie die Datenquelle einer Workflow-Arbeitstabelle mithilfe der Aktivität Datenquelle ändern ändern ändern können, um Daten über verschiedene Datenquellen wie FDA, FFDA und lokale Datenbanken hinweg flexibel zu verwalten.*
+   *Erfahren Sie, wie Sie die Datenquelle einer Workflow-Arbeitstabelle mithilfe der Aktivität &quot;Datenquelle ändern&quot; ändern können, um Daten in verschiedenen Datenquellen wie FDA, FFDA und lokalen Datenbanken flexibel zu verwalten.*
 
 * **[Grundlagen des Daten-Managements mit Workflows](/help/data-management/data-management-fundamentals.md)**
 
-   *Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten über verschiedene Datenquellen hinweg verwaltet.*
+   *Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.*
 
 * **[API-Staging-Mechanismus mit FFDA](/help/data-management/api-staging-mechanism.md)**
 
-   *Erfahren Sie, wie der API-Staging-Mechanismus mit vollständiger FDA funktioniert.*
+   *Erfahren Sie, wie der API-Staging-Mechanismus mit FFDA funktioniert.*
 
 ## Favoriten unserer Mitarbeiter
 
@@ -102,4 +102,4 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 </table>
 
-Siehe [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=de) für weitere Informationen zu dieser Funktion.
+Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=de).
