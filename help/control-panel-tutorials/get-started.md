@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '226'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -55,4 +55,4 @@ Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administra
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-Besuchen Sie die [Control Panel Help Center](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) für weitere Informationen zu dieser Funktion.
+Besuchen Sie das [Control Panel-Hilfezentrum](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) für weitere Informationen zu dieser Funktion.
