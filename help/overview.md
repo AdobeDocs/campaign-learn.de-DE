@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: ht
-source-wordcount: '411'
-ht-degree: 100%
+source-git-commit: 50b72be4f33e791986cb5bf6d9cc3e1554d427bf
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 91%
 
 ---
 
@@ -19,13 +19,17 @@ ht-degree: 100%
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign v8.
 
 >[!INFO]
-> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lerngemeinschaft](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096?profile.language=de)!
+> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lerngemeinschaft](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 
 >[!NOTE]
 > Campaign v8 ist derzeit nur als Managed Cloud Service verfügbar und kann nicht in On-Premise- oder Hybridumgebungen bereitgestellt werden. Die Migration aus einer bestehenden Campaign Classic v7-Umgebung ist noch nicht verfügbar.
 >Weitere Informationen zu den Unterschieden zwischen den beiden Versionen finden Sie in der [Produktdokumentation zu Classic v7 und v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=de). Anleitungsvideos finden Sie im Abschnitt [Tutorials zu Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de).
 
 ## Neue Funktionen
+
+* **[Integration mit Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+
+*Erfahren Sie, wie Sie Adobe Campaign mit Adobe Experience Manager verbinden, um E-Mail-Versandvorlagen, Assets und Formulare in Experience Manager verwalten zu können.*
 
 * **[Ändern der Datenquelle](/help/data-management/change-data-source.md)**
 
@@ -35,9 +39,6 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
    *Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.*
 
-* **[API-Staging-Mechanismus mit FFDA](/help/data-management/api-staging-mechanism.md)**
-
-   *Erfahren Sie, wie der API-Staging-Mechanismus mit FFDA funktioniert.*
 
 ## Favoriten unserer Mitarbeiter
 
