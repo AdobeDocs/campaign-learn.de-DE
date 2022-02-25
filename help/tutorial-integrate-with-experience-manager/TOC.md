@@ -14,7 +14,7 @@ ht-degree: 1%
 
 + [Überblick](/help/tutorial-integrate-with-experience-manager/overview.md)
 + [Integration von Campaign mit Experience Manager konfigurieren](/help/tutorial-integrate-with-experience-manager/configure-campaign-for-aem-integration.md)
-+ Create a Campaign Delivery with content from Experience Manager {#create-a-campaign-delivery-with-content-from-experience-manager}
++ Erstellen eines Kampagnenversands mit Inhalt aus einem Experience Manager {#create-a-campaign-delivery-with-content-from-experience-manager}
    + [Experience Manager genehmigen und in Campaign veröffentlichen](/help/tutorial-integrate-with-experience-manager/approve-and-publish-aem-content-to-campaign.md)
    + [Versand in Campaign synchronisieren und senden](/help/tutorial-integrate-with-experience-manager/synchronize-and-send-an-aem-delivery-in-campaign.md)
 
