@@ -1,5 +1,5 @@
 ---
-title: Experience Manager-E-Mail-Versand in Campaign synchronisieren und senden
+title: Synchronisieren und Senden eines Experience Manager-E-Mail-Versands in Campaign
 description: Hier erfahren Sie, wie Sie einen in Experience Manager erstellten Newsletter in Campaign testen und versenden können.
 feature: Experience Manager Integration
 kt: 9606
@@ -10,13 +10,13 @@ team: TM
 role: Admin, Developer
 level: Experienced
 source-git-commit: 9ba0862edca7be243e9b26d5b0b99d2b5b5900b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Experience Manager-E-Mail-Versand in Campaign synchronisieren und senden
+# Synchronisieren und Senden eines Experience Manager-E-Mail-Versands in Campaign
 
 Hier erfahren Sie, wie Sie einen in Experience Manager erstellten Newsletter in Campaign testen und versenden können.
 
