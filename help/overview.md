@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Integration mit Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=de)**
+* **[Integration mit Adobe Target](/help/connect/target-integration.md)
+
+   *Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.*
+
+* **[Integration mit Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=de)**
 
    *Erfahren Sie, wie Sie Adobe Campaign mit Adobe Experience Manager verbinden, um E-Mail-Versandvorlagen, Assets und Formulare in Experience Manager verwalten zu können.*
 
 * **[Ändern der Datenquelle](/help/data-management/change-data-source.md)**
 
    *Erfahren Sie, wie Sie die Datenquelle einer Workflow-Arbeitstabelle mithilfe der Aktivität &quot;Datenquelle ändern&quot; ändern können, um Daten in verschiedenen Datenquellen wie FDA, FFDA und lokalen Datenbanken flexibel zu verwalten.*
-
-* **[Grundlagen des Daten-Managements mit Workflows](/help/data-management/data-management-fundamentals.md)**
-
-   *Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.*
 
 
 ## Favoriten unserer Mitarbeiter
@@ -100,7 +100,33 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     <em>Erfahren Sie, wie Sie anhand eines Workflows einen beschreibenden Analysebericht erstellen.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="Grundlagen des Daten-Managements mit Workflows" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>Grundlagen des Daten-Managements mit Workflows</strong>
+    </a>
+    </div>
+    <p>
+    <em>Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="API-Staging-Mechanismus mit FFDA" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>API-Staging-Mechanismus mit FFDA</strong>
+    </a>
+    </div>
+    <p>
+    <em>Erfahren Sie, wie der API-Staging-Mechanismus mit FFDA funktioniert.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=de).
