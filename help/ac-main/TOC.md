@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
    + [Durch ein Ereignis ausgelöste Kampagnen erstellen](/help/get-started/create-event-triggered-campaigns.md)
 + Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
+   + [Importieren von Profilen](/help/profile-management/import-profiles.md)
    + [Bestimmung der Zielgruppenprofile in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Kampagnenorchestrierung {#campaign-orchestration}
    + [Ausführen von Kampagnen](/help/orchestrate-campaigns/execute-a-campaign.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [Erstellen eines Workflows](/help/process-management/create-a-workflow.md)
    + [Erstellen wiederkehrender und fortlaufender Sendungen](/help/process-management/recurring-deliveries.md)
    + Zielgruppen-Workflows {#targeting-workflows}
-      + [Erstellen von Zielgruppen-Workflows](/help/process-management/create-a-targeting-workflow.md)
+      + [Erstellen eines Zielgruppenbestimmungs-Workflows](/help/process-management/create-a-targeting-workflow.md)
       + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Validierungen und Validierungs-Workflows {#create-approvals-and-validation-workflows}
