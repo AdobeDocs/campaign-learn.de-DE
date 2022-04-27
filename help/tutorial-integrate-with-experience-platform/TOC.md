@@ -14,10 +14,10 @@ ht-degree: 100%
 
 + [Überblick](/help/tutorial-integrate-with-experience-platform/overview.md)
 + Importieren von Experience Platform-Daten in Campaign{#import-experience-platform-data-into-campaign}
-   + [Campaign mit Experience Platform als Ziel verbinden](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
-   + [Empfängerdaten aus Experience Platform importieren und E-Mail senden](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
-+ Campaign-Protokolle in Experience Platform exportieren{#export-campaign-logs-into-experience-platform}
-   + [Export-Workflow erstellen (Teil 1)](/help/tutorial-integrate-with-experience-platform/workflow-to-find-last-modified-date.md)
-   + [Export-Workflow erstellen (Teil 2)](/help/tutorial-integrate-with-experience-platform/extract-format-save-data-to-external-account.md)
+   + [Verbinden von Campaign mit Experience Platform als Ziel](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
+   + [Importieren von Empfängerdaten aus Experience Platform senden einer E-Mail](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
++ Exportieren von Campaign-Protokolle in Experience Platform{#export-campaign-logs-into-experience-platform}
+   + [Erstellen eines Export-Workflows (Teil 1)](/help/tutorial-integrate-with-experience-platform/workflow-to-find-last-modified-date.md)
+   + [Erstellen eines Export-Workflows (Teil 2)](/help/tutorial-integrate-with-experience-platform/extract-format-save-data-to-external-account.md)
    + [Erstellen eines Kampagnenprotokollschemas und Datensatzes in Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
-   + [Campaign-Daten über eine Quelle in Experience Platform verbinden](/help/tutorial-integrate-with-experience-platform/connect-campaign-data-using-s3-as-source-on-platform.md)
+   + [Verbinden von Campaign-Daten über eine Quelle in Experience Platform](/help/tutorial-integrate-with-experience-platform/connect-campaign-data-using-s3-as-source-on-platform.md)
