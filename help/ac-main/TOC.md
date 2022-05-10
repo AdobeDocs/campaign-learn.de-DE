@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 95%
 + Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Importieren von Profilen](/help/profile-management/import-profiles.md)
-   + [Bestimmung der Zielgruppenprofile in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
+   + [Auswählen von Profilen in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Kampagnenorchestrierung {#campaign-orchestration}
    + [Ausführen von Kampagnen](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Einführung in Multi- und Cross-Channel-Kampagnen](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
