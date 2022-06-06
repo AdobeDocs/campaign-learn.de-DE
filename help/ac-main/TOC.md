@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: d24b89f7bff0242b788a3e226a70a61557deaf92
+source-git-commit: dbdb6d0a4d09dd95ac1776e783bfd77cdc313f29
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 100%
+source-wordcount: '403'
+ht-degree: 97%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 100%
       + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
    + SMS {#sms}
+      + [SMS für Adobe Campaign einrichten](https://experienceleague.adobe.com/docs/campaign-learn/configure-sms-account/overview.html)
       + [Erstellen eines SMS-Versands](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push-Benachrichtigung {#push}
       + [Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -82,13 +83,12 @@ ht-degree: 100%
    + [Verwenden der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurieren von Anreicherungsaktivitäten](/help/process-management/enrichment-activity.md)
    + [Erstellen und Erweitern eines Schemas](/help/data-management/create-and-extend-a-schema.md)
-   + [Importieren von Profilen](/help/data-management/import-profiles.md)
    + [Datenreplikation](/help/data-management/data-replication.md)
    + [API-Staging-Mechanismus](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: Verwenden von SOAP-APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=de)
 + Herstellen von Verbindungen zu anderen Lösungen {#connect}
    + [Integration mit Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=de)
-   + [Integration mit Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=de)
+   + [Integration mit Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
    + [Integration mit Adobe Target](/help/connect/target-integration.md)
    + [Integration mit Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
