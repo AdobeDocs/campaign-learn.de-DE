@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 97%
+source-wordcount: '417'
+ht-degree: 94%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 97%
       + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
    + SMS {#sms}
+      + [SMS für Adobe Campaign einrichten](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [Erstellen eines SMS-Versands](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push-Benachrichtigung {#push}
       + [Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,7 +89,7 @@ ht-degree: 97%
    + [Tutorial: Verwenden von SOAP-APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=de)
 + Herstellen von Verbindungen zu anderen Lösungen {#connect}
    + [Integration mit Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=de)
-   + [Integration mit Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=de)
+   + [Integration mit Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
    + [Integration mit Adobe Target](/help/connect/target-integration.md)
    + [Integration mit Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
