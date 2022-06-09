@@ -1,6 +1,6 @@
 ---
 title: Erstellen und Verwalten von Profilen
-description: Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern und Profile manuell erstellen und verwalten können. Machen Sie sich mit den Anforderungen zur Einhaltung der Datenschutz-Grundverordnung (DSGVO) und des California Consumer Privacy Act (CCPA) vertraut.
+description: Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile erstellen und durch Ihre Kreationen sortieren und filtern können, um die Funktionalität zu vereinfachen. Außerdem erfahren Sie, wie Sie die Datenschutz-Grundverordnung (DSGVO) und den California Consumer Privacy Act (CCPA) einhalten.
 feature: Profiles
 kt: 7843
 thumbnail: 334111.jpg
@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4d50e834-5fca-4974-a0e2-081bd0aada8a
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '87'
+ht-degree: 57%
 
 ---
 
