@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Integration mit Adobe Target](/help/connect/target-integration.md)**
+* **[Einführung in SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+   *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet*
 
-   *Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.*
+* **[SMS-Konto für einen standardmäßigen SMPP-Provider einrichten](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[Integration mit Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=de)**
+   *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Passen Sie Ihre SMS-Einstellungen zur Verarbeitung von Verbindungsbeschränkungen an, richten Sie den maximalen Durchsatz, das Übertragungsfenster und die Verschlüsselung mit TLS ein.*
 
-   *Erfahren Sie, wie Sie Adobe Campaign mit Adobe Experience Manager verbinden, um E-Mail-Versandvorlagen, Assets und Formulare in Experience Manager verwalten zu können.*
+* **[SMS-Connector an Ihren SMPP-Provider anpassen](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[Ändern der Datenquelle](/help/data-management/change-data-source.md)**
+   *Erfahren Sie, wie Sie Ihre SMS-Einstellungen optimieren können, um Verbindungsbeschränkungen zu handhaben, den maximalen Durchsatz festzulegen, das Übertragungsfenster einzurichten und die Verschlüsselung mit TLS durchzuführen.*
 
-   *Erfahren Sie, wie Sie die Datenquelle einer Workflow-Arbeitstabelle mithilfe der Aktivität &quot;Datenquelle ändern&quot; ändern können, um Daten in verschiedenen Datenquellen wie FDA, FFDA und lokalen Datenbanken flexibel zu verwalten.*
+* **[Maximieren Sie Ihren E-Mail-ROI und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen.](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *Erfahren Sie, wie Sie den E-Mail-ROI maximieren und Best Practices für die Rückgewinnung von Abonnenten erlernen. Entdecken Sie die Strategien zur Verbesserung der Interaktion Ihrer Abonnenten und verstehen Sie den Gesamterfolg Ihrer E-Mail-Kampagnen.*
 
 ## Favoriten unserer Mitarbeiter
 
