@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '510'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -29,19 +29,19 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 * **[Einführung in SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
-   *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet*
+   *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet.*
 
-* **[SMS-Konto für einen standardmäßigen SMPP-Provider einrichten](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
+* **[Einrichten eines SMS-Kontos für einen standardmäßigen SMPP-Provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Passen Sie Ihre SMS-Einstellungen zur Verarbeitung von Verbindungsbeschränkungen an, richten Sie den maximalen Durchsatz, das Übertragungsfenster und die Verschlüsselung mit TLS ein.*
+   *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Optimieren Sie Ihre SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen und richten Sie den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS ein.*
 
-* **[SMS-Connector an Ihren SMPP-Provider anpassen](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[Anpassen des SMS-Connectors an Ihren SMPP-Provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-   *Erfahren Sie, wie Sie Ihre SMS-Einstellungen optimieren können, um Verbindungsbeschränkungen zu handhaben, den maximalen Durchsatz festzulegen, das Übertragungsfenster einzurichten und die Verschlüsselung mit TLS durchzuführen.*
+   *Erfahren Sie, wie Sie SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen optimieren und den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS einrichten können.*
 
-* **[Maximieren Sie Ihren E-Mail-ROI und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen.](/help/strategy/campaign-maximize-email-best-practices.md)**
+* **[Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnent*innen](/help/strategy/campaign-maximize-email-best-practices.md)**
 
-   *Erfahren Sie, wie Sie den E-Mail-ROI maximieren und Best Practices für die Rückgewinnung von Abonnenten erlernen. Entdecken Sie die Strategien zur Verbesserung der Interaktion Ihrer Abonnenten und verstehen Sie den Gesamterfolg Ihrer E-Mail-Kampagnen.*
+   *Erfahren Sie, wie Sie Ihren E-Mail-ROI maximieren können, und lernen Sie Best Practices für die Rückgewinnung von Abonnent*innen kennen. Lernen Sie Strategien zur Verbesserung der Interaktion mit Abonnent*innen kennen und erfahren Sie mehr über den Gesamterfolg Ihrer E-Mail-Kampagnen.*
 
 ## Favoriten unserer Mitarbeiter
 
