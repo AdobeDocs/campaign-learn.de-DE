@@ -1,6 +1,6 @@
 ---
 title: Erstellen und Verwalten von Profilen
-description: Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile erstellen und durch Ihre Kreationen sortieren und filtern können, um die Funktionalität zu vereinfachen. Außerdem erfahren Sie, wie Sie die Datenschutz-Grundverordnung (DSGVO) und den California Consumer Privacy Act (CCPA) einhalten.
+description: Erfahren Sie, wie Sie Profildaten aufrufen, Profile erstellen sowie erstellte Inhalte sortieren und filtern können, um vereinfachte Funktionalität zu erhalten. Außerdem lernen Sie, wie Sie die Datenschutz-Grundverordnung (DSGVO) und den California Consumer Privacy Act (CCPA) einhalten können.
 feature: Profiles
 kt: 7843
 thumbnail: 334111.jpg
@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 4d50e834-5fca-4974-a0e2-081bd0aada8a
 source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
