@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '417'
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
       + [Problembehebung beim E-Mail-Versand](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [SMS für Adobe Campaign einrichten](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
       + [Erstellen eines SMS-Versands](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push-Benachrichtigung {#push}
       + [Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,17 +88,17 @@ ht-degree: 0%
    + [Tutorial: Verwenden von SOAP-APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=de)
 + Herstellen von Verbindungen zu anderen Lösungen {#connect}
    + [Integration mit Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=de)
-   + [Integration mit Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integration mit Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=de)
    + [Integration mit Adobe Target](/help/connect/target-integration.md)
    + [Integration mit Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
    + [Zugriff auf native Berichte](/help/reporting/access-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Monitoring      {#monitoring}
++ Monitoring       {#monitoring}
    + [Workflow-Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring/audit-trail.md)
 + Administration {#administration}
    + [Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=de)
-+ Strategie- und Gedankenführerschaft{#strategy}
-   + [Maximieren Sie den E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnenten.](/help/strategy/campaign-maximize-email-best-practices.md)
++ Strategie und Vordenkerposition{#strategy}
+   + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnent*innen](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
