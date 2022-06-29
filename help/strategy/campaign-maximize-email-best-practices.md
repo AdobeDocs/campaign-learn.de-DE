@@ -1,81 +1,81 @@
 ---
-title: Maximieren Sie Ihren E-Mail-ROI und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen.
-description: Erfahren Sie, wie Sie den E-Mail-ROI maximieren, und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen. Lernen Sie Strategien kennen, mit denen sich die Interaktion Ihrer Abonnenten ankurbeln lässt, und begreifen Sie den Gesamterfolg Ihrer E-Mail-Kampagnen.
+title: Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnent*innen
+description: Erfahren Sie, wie Sie Ihren E-Mail-ROI maximieren können, und lernen Sie Best Practices für die Rückgewinnung von Abonnent*innen kennen. Lernen Sie Strategien zur Verbesserung der Interaktion mit Abonnent*innen kennen und erfahren Sie mehr über den Gesamterfolg Ihrer E-Mail-Kampagnen.
 solution: Campaign
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
 source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
 source-wordcount: '1471'
-ht-degree: 3%
+ht-degree: 98%
 
 ---
 
-# E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnenten
+# E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnent*innen
 
-E-Mail-Marketing ist ein wertvolles Werkzeug zur Entwicklung der Markentreue und zur Steigerung des Umsatzes. Angesichts der großen Anzahl von E-Mails, die Menschen täglich erhalten - von den anderen digitalen Inhalten ganz zu schweigen, die sie konsumieren - ist es jedoch wichtig, dass sich Ihr Inhalt von der Menge abhebt. Und es ist wichtig, dass es den individuellen Bedürfnissen Ihrer Zielgruppe entspricht.
+E-Mail-Marketing ist ein wertvolles Werkzeug für die Entwicklung von Markentreue und Steigerung von Umsätzen. Aufgrund der hohen Zahl von E-Mails, die Menschen täglich erhalten – von anderen digitalen Inhalten, die sie konsumieren, ganz zu schweigen –, ist es jedoch wichtig, dass sich Ihr Content von der übrigen Masse abhebt. Außerdem müssen Sie darauf achten, dass der Content den individuellen Bedürfnissen Ihrer Audience entspricht.
 
-In diesem Artikel werden vier Strategien vorgestellt, um die Interaktion Ihrer Abonnenten und den Gesamterfolg Ihrer E-Mail-Kampagnen zu verbessern. Wir besprechen auch die Ermüdung von E-Mails, die Identifizierung innerhalb Ihrer Audiences und beschreiben einfache Schritte, die Sie zur Verbesserung Ihrer Abonnentenerfahrung unternehmen können.
+In diesem Artikel stellen wir Ihnen vier Strategien vor, mit denen Sie die Interaktion mit Abonnent*innen und den Gesamterfolg Ihrer E-Mail-Kampagnen verbessern können. Zudem erörtern wir Ermüdung durch zu viele E-Mails und wie Sie das in Ihren Audiences erkennen können. Anschließend beschreiben wir einfache Maßnahmen, die Sie zur Verbesserung des Abonnentenerlebnisses ergreifen können.
 
 ## Was ist Zustellbarkeit?
 
-Es kann zu Verwechslungen zwischen den Begriffen Versand und Zustellbarkeit kommen. Die Zustellbarkeit ist ein Maß für den Erfolg von E-Mail-Kampagnen. ob sie an den Posteingang des Abonnenten, den Junk-Ordner oder vom ISP blockiert werden. Wenn wir es als Gleichung betrachten würden, wäre es die Aktion, eine E-Mail zu senden, die Fähigkeit, im Posteingang zu landen, und die Fähigkeit, dies kontinuierlich zu tun.
+Die Begriffe Versand und Zustellbarkeit werden oft verwechselt. Zustellbarkeit ist ein Maß für den Erfolg von E-Mail-Kampagnen. Dabei geht es um die Frage, ob E-Mails an den Posteingang von Abonnent*innen bzw. den Junk-Ordner zugestellt oder vom ISP blockiert werden. Wenn wir den Vorgang als Gleichung betrachten, würde es sich darum handeln, eine E-Mail zu versenden, sie bis in den Posteingang zu bekommen und das immer wieder zu tun.
 
-Wie gut verfolgt Ihr Unternehmen die Zustellbarkeit Ihrer E-Mail-Kampagnen und wissen Sie, wo Ihre E-Mails enden?
+Wie genau verfolgt Ihr Unternehmen die Zustellbarkeit Ihrer E-Mail-Kampagnen? Und wissen Sie, wo Ihre E-Mails landen?
 
-## Spamfilterung
+## Spam-Filter
 
-Bevor Sie sich mit der Strategie befassen, sollten Sie sich der häufigsten Probleme mit Spam-Filtern bewusst sein, die sich auf Ihre Kampagnenergebnisse auswirken könnten. Wenn Sie weiterhin E-Mails an inaktive Abonnenten senden, die Ihre E-Mails nicht öffnen, gibt es einige Dinge, mit denen Sie möglicherweise seit über einem Jahr konfrontiert sind:
+Bevor Sie sich mit der Strategie befassen, sollten Sie häufige Probleme im Zusammenhang mit Spam-Filtern kennen, die sich auf die Ergebnisse Ihrer Kampagnen auswirken können. Wenn Sie weiter E-Mails an inaktive Abonnent*innen senden, die Ihre E-Mails seit mehr als einem Jahr nicht mehr öffnen, können Sie mit folgenden Herausforderungen konfrontiert sein:
 
-* Blockierungslisten und Zulassungslisten
+* Sperrlisten und Zulassungslisten
 * Inhaltsfilter
 * IP- und Domain-Reputation
 * Authentifizierung
 * Beschwerden
 * Benutzeraktionen
 
-## E-Mail-ROI maximieren
+## Maximieren Sie Ihren E-Mail-ROI
 
-Wussten Sie, dass es in nur einer Minute im Internet über eine Million Videoansichten, zwei Millionen Google-Suchanfragen, sechs Millionen Facebook-Aufrufe und 200 Millionen E-Mails gibt? Da so viel passiert, ist es wichtig sicherzustellen, dass Ihr Inhalt nicht durch den Lärm verloren geht. Besonders wenn Sie während einer Urlaubszeit eine Kampagne erstellen, ist es noch schwieriger, Ihre E-Mails vor potenziellen und wiederkehrenden Kunden zu versenden.
+Wussten Sie, dass im Internet in nur einer Minute über eine Million Videoansichten, zwei Millionen Google-Suchanfragen und sechs Millionen Facebook-Aufrufe stattfinden sowie 200 Millionen E-Mails versendet werden? Darum müssen Sie dafür sorgen, dass Ihre Inhalte nicht im Lärm untergehen. Wenn Sie zum Beispiel eine Kampagne während der Urlaubszeit erstellen, wird es noch schwerer, Ihre E-Mails vor die Augen potenzieller und wiederkehrender Kund*innen zu bekommen.
 
-Von November bis Anfang Januar nimmt das Volumen der gesendeten Marketing-E-Mails erheblich zu. Posteingangsanbieter (ISPs) werden wesentlich mehr Traffic auf ihre Server bringen als im Rest des Jahres und werden daher ihre Kunden (Ihre Abonnenten) noch wachsamer schützen.
+Von November bis Anfang Januar nimmt das Volumen der gesendeten Marketing-E-Mails dramatisch zu. Provider von Posteingängen (ISPs) haben wesentlich mehr Traffic auf ihren Servern als im Rest des Jahres und achten daher noch genauer auf den Schutz ihrer Kund*innen (sprich: Ihrer Abonnent*innen).
 
-Im Folgenden finden Sie vier Schlüsselstrategien zur Maximierung Ihres ROI:
+Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kennen:
 
 ### 1. Vorbereiten des Inhaltskalenders
 
-* ISPs verfolgen Ihren durchschnittlichen Versand von einer IP-Adresse aus. Verteilen Sie daher die Menge so weit wie möglich, um zu vermeiden, dass eine rote Markierung erstellt und an Spam gesendet wird.
-* Richten Sie Ihren Inhaltskalender im Voraus ein und bereiten Sie Ihre Inhaltsautoren auf eine Steigerung des Versandvolumens vor
-* Überlegen Sie, wie Sie Ihre E-Mails planen und eine enorme Steigerung des Versandvolumens vermeiden. Betrachten Sie einige Taktiken, z. B.:
-   * Senden einer Explosion nicht zur gleichen Zeit, sondern über einige Tage
-   * Strategische Planung für Tageszeiten, in denen E-Mail-Überlastungen auftreten, z. B. 8-10 Uhr
-   * Wenn Sie es nicht über Tage verteilen können, versuchen Sie es für Stunden
+* ISPs verfolgen Ihre durchschnittlichen Versandzahlen von einer IP-Adresse. Verteilen Sie die Menge also so gut wie möglich, um zu verhindern, dass eine Warnung erstellt wird und Ihre Nachrichten im Spam-Ordner landen.
+* Richten Sie Ihren Inhaltskalender im Voraus ein und bereiten Sie Ihre Inhaltsautor*innen auf eine Steigerung des Versandvolumens vor.
+* Überlegen Sie, wie Sie Ihre E-Mails zeitlich planen und große Spitzen beim Versandvolumen vermeiden können. Erwägen Sie zum Beispiel folgende Taktiken:
+   * Senden Sie nicht plötzlich ganz viele E-Mails, sondern lieber weniger Nachrichten über mehrere Tage hinweg.
+   * Planen Sie strategisch für Tageszeiten, in denen Personen mit E-Mails bombardiert werden (z. B. zwischen 8 und 10 Uhr morgens).
+   * Wenn Sie den Versand nicht auf mehrere Tage verteilen können, versuchen Sie es mit mehreren Stunden.
 
 ### 2. Infrastruktur
 
-* Stellen Sie sicher, dass die E-Mail-Authentifizierung ordnungsgemäß eingerichtet ist, indem Sie einen Test mit Ihrer eigenen E-Mail durchführen
-* Machen Sie sich mit der Bounce-Handhabung vertraut und überprüfen Sie die Leistung Ihrer ISPs.
-   * Gibt es potenzielle Probleme oder Blöcke mit einem bestimmten ISP?
-   * Erkennen Sie Ihre Probleme, bevor Sie mit dem Versand großer Mengen beginnen, um unangenehme Überraschungen und schlechte Kampagnenleistung zu vermeiden.
+* Stellen Sie sicher, dass E-Mail-Authentifizierung richtig eingerichtet ist, indem Sie einen Test mit Ihrer eigenen E-Mail-Adresse durchführen.
+* Machen Sie sich mit der Bounce-Handhabung vertraut und prüfen Sie die Leistung Ihrer ISPs.
+   * Gibt es potenzielle Probleme oder Sperrungen bei einem bestimmten ISP?
+   * Seien Sie sich der Herausforderungen bewusst, bevor Sie mit dem Versand großer E-Mail-Mengen beginnen, um unangenehme Überraschungen und ungenügende Kampagnenleistung zu verhindern.
 
 ### 3. Daten
 
-* Identifizieren Sie alle Akquisetechniken, insbesondere Ihre Anmeldeprozesse und die DSGVO.
-* Seien Sie bei Ihren Abonnenten so transparent wie möglich, wenn Sie nach ihrer E-Mail-Adresse fragen:
-   * Welche Inhalte werden gesendet (Newsletter, Promotions, Ereignisse)
-   * Wie viele E-Mails werden gesendet (täglich, wöchentlich, monatlich)
+* Identifizieren Sie alle Akquiseverfahren, insbesondere Ihre Anmeldeprozesse und DSGVO-Anforderungen.
+* Seien Sie bei Abonnent*innen so transparent wie möglich, wenn Sie sie nach ihrer E-Mail-Adresse fragen:
+   * Welche Inhalte werden Sie versenden (Newsletter, Angebote, Veranstaltungen)?
+   * Wie oft werden Sie E-Mails senden (täglich, wöchentlich, monatlich)?
 
-* Senden Sie eine Begrüßungs-E-Mail an neue Abonnenten:
-   * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnenten von neuen Inhalten blind werden, und sich nicht abmelden oder als Spam markieren.
-   * Willkommens-E-Mails sind auch ein guter Indikator für die Leistung. Wenn sie nicht erfolgreich bereitgestellt oder damit interagiert werden, wissen Sie, dass dies ein Zeichen für eine schlechte Leistung oder eine schlechte Datenerfassung ist.
+* Schicken Sie eine Begrüßungs-E-Mail an neue Abonnent*innen:
+   * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnent*innen unvorbereitet sind und sich gleich wieder abmelden bzw. Nachrichten als Spam markieren.
+   * Außerdem dienen Begrüßungs-E-Mails als guter Indikator für die Leistung. Wenn sie nicht erfolgreich zugestellt werden oder kaum Interaktion mit ihnen stattfindet, wissen Sie, dass das ein Zeichen für mangelhafte Leistung oder eine schlechte Datenerfassung ist.
 
 ### 4. E-Mail-Verwaltung
 
-* Segmentieren Sie Ihre Abonnenten und überwachen Sie, wo sie sich im Lebenszyklus Ihrer Marke befinden.
-* Verwenden Sie Strategien zur Personalisierung von Inhalten, um die Relevanz Ihrer E-Mails zu verbessern
+* Segmentieren Sie Ihre Abonnent*innen und überwachen Sie, wo im Lebenszyklus Ihrer Marke sie sich befinden.
+* Nutzen Sie Strategien zur Personalisierung von Inhalten, um die Relevanz Ihrer E-Mails zu erhöhen.
 
-## E-Mail-Interaktion steigern und E-Mail-Ermüdung beheben
+## Verbessern der Interaktion mit E-Mails und Verhindern von Ermüdung durch zu viele E-Mails
 
-E-Mail-Müdigkeit tritt auf, wenn Ihre Abonnenten keine E-Mail mehr erhalten. E-Mail-Müdigkeit kann aus verschiedenen Gründen auftreten. Vielleicht sind sie schon zu lange auf Ihrer Liste und haben es satt, von Ihnen zu hören, oder Ihr aktueller Inhalt ist nicht mehr relevant. Es liegt an Ihnen und Ihrem Team, zu bestimmen, welche Kunden E-Mail-Müdigkeit erleben und warum. Worauf sollten wir also achten?
+Ermüdung durch zu viele E-Mails tritt auf, wenn Ihre Abonnent*innen keine E-Mails mehr von Ihnen erhalten möchten. Das kann verschiedene Ursachen haben. Vielleicht befinden sich Abonnent*innen schon zu lang auf Ihrer Liste und sind es leid, von Ihnen zu hören. Möglicherweise sind Ihre aktuellen Inhalte für sie auch nicht mehr relevant. Sie und Ihr Team müssen ermitteln, welche Kund*innen von Ermüdung betroffen sind und warum. Worauf sollten Sie achten?
 
 Zu den zu überwachenden Schlüsselmetriken gehören:
 
@@ -83,58 +83,58 @@ Zu den zu überwachenden Schlüsselmetriken gehören:
 * Niedrigere Klickraten
 * Höhere Abmelderaten
 
-Leider werden die meisten Abonnenten, die E-Mail-Müdigkeit erleben, es nicht einfach für Sie machen. Sie werden sich nicht selbst abmelden, eine eindeutige Kennzeichnung, dass sie mit Inhalt nicht zufrieden sind. Viele löschen einfach Ihre E-Mails oder ignorieren sie, sodass Sie immer noch Öffnungen von Abonnenten sehen können, die nicht interagiert haben. Das Fazit lautet: Wenn Sie nicht reagieren, wenn Ihre Abonnenten Gewohnheiten ändern, kann dies Ihrer AbsenderReputation schaden, was letztendlich Ihren Gesamterfolg beeinträchtigt.
+Leider werden es Ihnen die meisten Abonnent*innen, die an Ermüdung leiden, nicht leicht machen. Sie werden ihre Abonnements nicht selbst kündigen (ein klares Zeichen dafür, dass sie mit dem Inhalt nicht zufrieden sind). Vielmehr werden viele Abonnent*innen Ihre E-Mails einfach löschen oder ignorieren, sodass Sie ggf. weiterhin Öffnungen von Abonnent*innen sehen, die eigentlich kein Interesse mehr haben. Fazit: Wenn Sie nicht auf sich ändernde Gewohnheiten Ihrer Abonnent*innen reagieren, kann das Ihrer Reputation als Absender schaden, was letztendlich den Gesamterfolg beeinträchtigt.
 
-In diesem Zusammenhang finden Sie einige Best Practices, mit denen Sie Ihre Abonnenten binden und vorhersagen können, welche Art von Inhalt sie erhalten möchten, um Abmeldungen und inaktive Zielgruppen zu vermeiden.
+In dem Zusammenhang gibt es einige Best Practices, mit denen Sie Abonnent*innen an sich binden und vorhersagen können, welche Art von Content sie erhalten möchten. So lassen sich Abmeldungen und inaktive Audiences vermeiden.
 
-### 1. Erstellen einer Strategie für die E-Mail-Häufigkeit
+### 1. Erstellen einer Strategie für E-Mail-Häufigkeit.
 
-Leider gibt es keine richtige Antwort, wie viele E-Mails pro Woche gesendet werden. Um die richtige Zahl zu finden, berücksichtigen Sie Folgendes:
+Leider gibt es keine richtige Antwort auf die Frage, wie viele E-Mails pro Woche in Ordnung sind. Berücksichtigen Sie beim Ermitteln der richtigen Häufigkeit folgende Aspekte:
 
-* Wo befindet sich Ihr Kunde im Kundenlebenszyklus?
-* Wie beschäftigt sie sich mit Ihren E-Mails?
-   * E-Mail zum Abbruch eines Warenkorbs im Vergleich zum Newsletter
-   * Reaktivierung von E-Mail vs. Verkaufsstart
-   * Warenkorbabbruch-E-Mail im Vergleich zur neuen Produkteinführung
-* Wie kann Ihr Kunde Inhalte von Ihrer Marke empfangen?
-* Welches sind die saisonalen Präferenzen Ihres Kunden?
+* Wo im Kundenlebenszyklus befinden sich Kund*innen?
+* Wie stark interagieren sie mit Ihren E-Mails?
+   * E-Mail zu Warenkorbabbruch vs. Newsletter
+   * Reaktivierungs-E-Mail vs. Verkaufsstart
+   * E-Mail zu Warenkorbabbruch vs. Einführung eines neuen Produkts
+* Welche Kapazität haben Kund*innen hinsichtlich des Erhalts von Inhalten Ihrer Marke?
+* Wie sehen die saisonalen Präferenzen Ihrer Kund*innen aus?
 
-### 2. Den Status Ihrer Abonnenten identifizieren
+### 2. Identifizieren des Status Ihrer Abonnent*innen
 
-Der Status Ihrer Abonnenten (aktiv, verfallen oder inaktiv) hängt davon ab, wie oft Sie ihnen Inhalte senden. Von dort aus können Sie bestimmen, wie engagiert sie sind.
+Der Status Ihrer Abonnent*innen (aktiv, abgelaufen oder inaktiv) hängt davon ab, wie oft Sie ihnen Inhalte senden. Davon ausgehend können Sie ermitteln, wie stark sie interagieren.
 
-Im Folgenden finden Sie eine einfache Tabelle, die Sie bei der Prüfung unterstützt:
+Im Folgenden finden Sie eine einfache Tabelle, die Sie bei der Überprüfung unterstützt:
 
 ![Abonnentenstatus](assets/subscriber-status.png)
 
-Wenn Sie beispielsweise Kunden täglich per E-Mail senden, sollten sie innerhalb des letzten Monats mit einer dieser E-Mails interagiert haben, um als aktiv und interagiert zu gelten. Wenn Sie dagegen Kunden monatlich per E-Mail schicken und diese nicht innerhalb von 9-14 Monaten interagiert haben, können sie als inaktiv betrachtet werden.
+Wenn Sie Kund*innen beispielsweise täglich eine E-Mail senden, sollten diese innerhalb des letzten Monats mit mindestens einer E-Mail interagiert haben, damit sie als aktiv und interagierend gelten. Wenn Sie Kund*innen hingegen monatlich eine E-Mail schicken und diese in den letzten 9 bis 14 Monaten nicht reagiert haben, können Sie sie als inaktiv einstufen.
 
-Für veraltete und inaktive Benutzer sollten Sie sich das Datum ansehen, an dem sich der Benutzer angemeldet hat, um den Grad der Interaktion zu ermitteln. Haben sie sich beispielsweise am Tag eines Wettbewerbs oder einer anderen Marketing-Kampagne angemeldet? Haben sie sich von einem Website-Popup mit einem Rabattangebot angemeldet? Nachdem Sie Ihre veralteten und inaktiven Benutzer identifiziert haben, ist es wichtig, Ihre Strategie zu ändern, um ihre Zufriedenheit zu verbessern und sie wieder in einen aktiven Abonnenten umzuwandeln.
+Bei abgelaufenen und inaktiven Abonnements sollten Sie sich das Datum ansehen, an dem sich die Benutzer*innen angemeldet haben, um den Grad der Interaktion zu ermitteln. Haben sie sich beispielsweise am Tag eines Wettbewerbs bzw. einer anderen Marketing-Kampagne angemeldet? Haben sie sich über ein Website-Popup mit einem Rabattangebot angemeldet? Nachdem Sie abgelaufene und inaktive Abonnements identifiziert haben, sollten Sie Ihre Strategie ändern, um die Zufriedenheit der Benutzer*innen zu verbessern und sie wieder in aktive Abonnent*innen zu verwandeln.
 
-### 3. Umsetzung von Rückgewinnungsstrategien
+### 3. Implementieren von Strategien zur Rückgewinnung
 
-Schlüsseln Sie diesen Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmuster und b) kreativer Inhalt der E-Mails selbst. Im Folgenden werden die einzelnen Bereiche genauer beschrieben:
+Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmuster und b) kreative Inhalte der E-Mails selbst. Im Folgenden werden die beiden Bereiche genauer beschrieben:
 
-**Versandmuster und -pläne aktualisieren**
+**Aktualisieren von Versandmustern und -plänen**
 
-* **Langsam starten** - Es ist ein Marathon, kein Sprint. Es ist keine Lösung, die Sie an einem Tag implementieren können. Erwägen Sie, mit einem kleinen Prozentsatz Ihrer Zielgruppe, 4-5 % oder so zu beginnen und die Leistung sorgfältig zu überwachen.
+* **Langsam anfangen** – Es handelt sich hierbei um einen Marathon, nicht um einen Sprint. Es gibt keine Lösung, die Sie an einem Tag implementieren können. Erwägen Sie, mit einem kleinen Teil Ihrer Audience (vielleicht 4–5 %) zu beginnen, und überwachen Sie die Leistung genau.
 
-* **Markenbekanntheit berücksichtigen** - Stellen Sie sicher, dass der E-Mail-Traffic zu inaktiven Segmenten keine Reputationsprobleme verursacht.
+* **Markenreputation berücksichtigen** – Stellen Sie sicher, dass E-Mail-Traffic an inaktive Segmente keine Reputationsprobleme verursacht.
 
-* **Automatisieren von Workflows** - Halten Sie Ihre Listen sauber und ordentlich.
+* **Workflows automatisieren** – Sorgen Sie dafür, dass Ihre Listen sauber und ordentlich sind.
 
-* **Druckregeln** - Schließen Sie Abonnenten aus dem Rückgewinnungsprogramm vom Empfang anderer E-Mails aus.
+* **Druckregeln** – Verhindern Sie, dass Abonnent*innen im Rückgewinnungsprogramm andere E-Mails erhalten.
 
-**Kreativ und Inhalt**
+**Kreativinhalte und Content**
 
-* **Angebot einer klaren OPT-IN/OPT-OUT** - Machen Sie es den Benutzern einfach, schnell zu entscheiden, ob sie von Ihnen hören möchten. Sie können mit einem Opt-in belohnt werden, dass Sie zuerst auf ihre Bedürfnisse achten, anstatt sich auf die geschäftlichen Anforderungen für Interaktionen zu konzentrieren.
+* **Klare OPT-IN-/OPT-OUT-Optionen bieten** – Machen Sie es Benutzer*innen leicht, schnell zu entscheiden, ob sie von Ihnen hören möchten oder nicht. Ggf. werden Sie mit einem Opt-in belohnt, wenn Sie zuerst auf ihre Bedürfnisse achten, anstatt sich auf den geschäftlichen Interaktionsbedarf zu konzentrieren.
 
-* **Erstellen eines Präferenzzentrums** - So können Sie Ihren Abonnenten zusätzliche Kontrolle erteilen, sodass sie aus unterschiedlichen E-Mail-Inhalten wie Newslettern, Werbeangeboten, Veranstaltungen usw. sowie aus unterschiedlichen Regelmäßigkeiten auswählen können. Denken Sie daran, wenn Sie sich dafür entscheiden, dies anzubieten, stellen Sie sicher, dass Sie Ihre Zielgruppe verfolgen und ordnungsgemäß segmentieren können, um diese Voreinstellungen zu erfüllen.
+* **Zentrale Verwaltung von Vorlieben** – Hiermit können Sie Abonnent*innen zusätzliche Kontrollmöglichkeiten verschaffen, damit sie zwischen unterschiedlichen E-Mail-Inhalten wie Newslettern, Werbeangeboten, Veranstaltungen usw. und zwischen unterschiedlichen Häufigkeiten wählen können. Denken Sie daran: Wenn Sie sich für ein solches Angebot entscheiden, sollten Sie sicherstellen, dass Sie Ihre Audience verfolgen und ordnungsgemäß segmentieren können, um ihre Vorlieben zu erfüllen.
 
-* **Starke Betreffzeilen** - Achten Sie darauf, dass sie sich von anderen Markeninhalten unterscheiden
+* **Überzeugende Betreffzeilen** – Achten Sie darauf, dass diese sich von den Inhalten anderer Marken unterscheiden.
 
-* **Testen und Lernen** - Ein guter Testplan ist wichtig, um sicherzustellen, dass Ihre Bemühungen die gewünschte Wirkung zeigen. Erfahren Sie, was funktioniert und was nicht, und navigieren Sie entsprechend.
+* **Testen und lernen** – Sie benötigen einen guten Testplan um sicherzustellen, dass Ihre Bemühungen die gewünschte Wirkung zeigen. Finden Sie heraus, was funktioniert und was nicht, und handeln Sie entsprechend.
 
-Eine Zusammenfassung dieses Artikels und eine Live-Demo zur Implementierung von Rückgewinnungsstrategien finden Sie in unserer [Webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+Eine Zusammenfassung des Artikels sowie eine Live-Demo zur Implementierung von Rückgewinnungsstrategien finden Sie in unserem [Webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
 Erfahren Sie mehr über Strategie und Gedankenführung auf der [Kundenerfolg](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) Hub.
