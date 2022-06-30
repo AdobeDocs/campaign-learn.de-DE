@@ -3,7 +3,7 @@ title: Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von 
 description: Erfahren Sie, wie Sie Ihren E-Mail-ROI maximieren können, und lernen Sie Best Practices für die Rückgewinnung von Abonnent*innen kennen. Lernen Sie Strategien zur Verbesserung der Interaktion mit Abonnent*innen kennen und erfahren Sie mehr über den Gesamterfolg Ihrer E-Mail-Kampagnen.
 solution: Campaign
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
+source-git-commit: f52e9f8cdb630c71af5e0a8c048c91a1db6b7d7b
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 98%
@@ -137,4 +137,4 @@ Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmu
 
 Eine Zusammenfassung des Artikels sowie eine Live-Demo zur Implementierung von Rückgewinnungsstrategien finden Sie in unserem [Webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf der [Kundenerfolg](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) Hub.
+Erfahren Sie mehr über Strategie und Gedankenführung auf der [Kundenerfolg](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) Hub.
