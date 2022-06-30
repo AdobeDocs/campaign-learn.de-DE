@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+workflow-type: tm+mt
+source-wordcount: '483'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,14 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
+* **[Durchsätze und Latenz überwachen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *Erfahren Sie, wie Sie den Versanddurchsatz und die Latenz von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
+
+* **[Einführung in SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=de)**
+
+   *Erfahren Sie, wie der SMS funktioniert und wie Adobe Campaign SMS sendet*
+
 * **[Einführung in SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
    *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet.*
@@ -34,14 +42,6 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 * **[Einrichten eines SMS-Kontos für einen standardmäßigen SMPP-Provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
    *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Optimieren Sie Ihre SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen und richten Sie den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS ein.*
-
-* **[Anpassen des SMS-Connectors an Ihren SMPP-Provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *Erfahren Sie, wie Sie SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen optimieren und den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS einrichten können.*
-
-* **[Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnent*innen](/help/strategy/campaign-maximize-email-best-practices.md)**
-
-   *Erfahren Sie, wie Sie Ihren E-Mail-ROI maximieren können, und lernen Sie Best Practices für die Rückgewinnung von Abonnent*innen kennen. Lernen Sie Strategien zur Verbesserung der Interaktion mit Abonnent*innen kennen und erfahren Sie mehr über den Gesamterfolg Ihrer E-Mail-Kampagnen.*
 
 ## Favoriten unserer Mitarbeiter
 
