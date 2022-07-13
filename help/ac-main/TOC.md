@@ -2,12 +2,12 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
-user-guide-description: Adobe Campaign bietet Marketing-Experten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
+user-guide-description: Adobe Campaign bietet Marketing-Fachleuten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '419'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -94,11 +94,11 @@ ht-degree: 98%
 + Reporting {#reporting}
    + [Zugriff auf native Berichte](/help/reporting/access-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Monitoring       {#monitoring}
++ Monitoring        {#monitoring}
    + [Workflow-Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring/audit-trail.md)
 + Administration {#administration}
-   + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target=&quot;_blank&quot;}
 + Strategie und Vordenkerposition{#strategy}
-   + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnent*innen](/help/strategy/campaign-maximize-email-best-practices.md)
+   + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
