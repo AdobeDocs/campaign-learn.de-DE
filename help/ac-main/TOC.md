@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Fachleuten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
+source-git-commit: d1ba1a3c22b4a95dca19418f3d490872257b93cd
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '417'
 ht-degree: 100%
 
 ---
@@ -82,7 +82,6 @@ ht-degree: 100%
    + [Verwenden der Aktivität &quot;Liste aktualisieren&quot;](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurieren von Anreicherungsaktivitäten](/help/process-management/enrichment-activity.md)
    + [Erstellen und Erweitern eines Schemas](/help/data-management/create-and-extend-a-schema.md)
-   + [Importieren von Profilen](/help/data-management/import-profiles.md)
    + [Datenreplikation](/help/data-management/data-replication.md)
    + [API-Staging-Mechanismus](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: Verwenden von SOAP-APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=de)
