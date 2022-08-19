@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Fachleuten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: d1ba1a3c22b4a95dca19418f3d490872257b93cd
+source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -48,7 +48,6 @@ ht-degree: 100%
       + [Problembehebung beim E-Mail-Versand](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
       + [Erstellen eines SMS-Versands](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push-Benachrichtigung {#push}
       + [Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -98,6 +97,7 @@ ht-degree: 100%
    + [Audit-Protokoll](/help/monitoring/audit-trail.md)
 + Administration {#administration}
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target=&quot;_blank&quot;}
+   + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
 + Strategie und Vordenkerposition{#strategy}
    + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)

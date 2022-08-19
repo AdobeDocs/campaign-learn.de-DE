@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: ht
-source-wordcount: '505'
-ht-degree: 100%
+source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,22 +27,17 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
+* **[SMPP-Protokoll vertieft Tauchgänge und Fehlerbehebung](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie SMPP Daten über PDUs austauscht. Informationen zur Fehlerbehebung bei Verbindungen.*
 
 * **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=de){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie die temporäre Speicherauslastung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
 
-* **[Control Panel – Überwachen von Durchsätzen und Latenzzeiten](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target=&quot;_blank&quot;}**
+* **[Control Panel – Überwachen von Durchsätzen und Latenzen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
-
-* **[Einführung in SMS](/help/tutorial-sms/introduction-to-sms.md)**
-
-   *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet.*
-
-* **[Einrichten eines SMS-Kontos für einen standardmäßigen SMPP-Provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Optimieren Sie Ihre SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen und richten Sie den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS ein.*
 
 ## Favoriten unserer Mitarbeitenden
 
