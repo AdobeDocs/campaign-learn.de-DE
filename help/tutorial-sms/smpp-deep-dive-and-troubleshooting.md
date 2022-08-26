@@ -1,21 +1,21 @@
 ---
-title: SMPP-Protokoll vertieft Tauchgänge und Fehlerbehebung
-description: Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie SMPP Daten über PDUs austauscht. Informationen zur Fehlerbehebung bei Verbindungen.
+title: Erläuterungen zum SMPP-Protokoll und Fehlerbehebung
+description: Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie der Datenaustausch mit dem SMPP über PDUs erfolgt. Informationen zur Fehlerbehebung bei Verbindungen.
 feature: SMS
 thumbnail: 346489.jpg
 kt: 9739
-source-git-commit: 2e93092e1a433ae57515f08f8a70afa4b85bccf4
-workflow-type: tm+mt
+exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
+source-git-commit: ea2db5e52d4e1d14485eb64388d9afde9209b6ee
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
+# Erläuterungen zum SMPP-Protokoll und Fehlerbehebung
 
-# SMPP-Protokoll vertieft Tauchgänge und Fehlerbehebung
+![Gilt für v7 und v8](../assets/V7-V8-stamp.png)
 
-![Gilt für V7 und V8](../assets/V7-V8-stamp.png)
-
-Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie SMPP Daten über PDUs austauscht. Informationen zur Fehlerbehebung bei Verbindungen.
+Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie der Datenaustausch mit dem SMPP über PDUs erfolgt. Informationen zur Fehlerbehebung bei Verbindungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12)
