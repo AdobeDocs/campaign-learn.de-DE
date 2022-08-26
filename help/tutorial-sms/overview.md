@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie ein SMS-Konto für SMTP-Provider konfiguriere
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ Folgende Themen werden behandelt:
 
    *Erfahren Sie, wie Sie SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen optimieren und den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS einrichten können.*
 
-* **[SMPP-Protokoll vertieft Tauchgänge und Fehlerbehebung](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[Erläuterungen zum SMPP-Protokoll und Fehlerbehebung](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
-   *Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie SMPP Daten über PDUs austauscht. Informationen zur Fehlerbehebung bei Verbindungen.*
+   *Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie der Datenaustausch mit dem SMPP über PDUs erfolgt. Informationen zur Fehlerbehebung bei Verbindungen.*
 
 >[!NOTE]
 >
