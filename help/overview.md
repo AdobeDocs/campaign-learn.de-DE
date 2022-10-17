@@ -1,6 +1,6 @@
 ---
 title: Tutorials zu Adobe Campaign v8 – Übersicht
-description: Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Kundenerlebnisse und eine Umgebung für die visuelle Kampagnenorchestrierung, Interaktionsverwaltung in Echtzeit und die kanalübergreifende Ausführung. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
+description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
@@ -8,15 +8,15 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '464'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # Tutorials zu Adobe Campaign v8 – Übersicht
 
-Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Kundenerlebnisse und eine Umgebung für die visuelle Kampagnenorchestrierung, Interaktionsverwaltung in Echtzeit und die kanalübergreifende Ausführung. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign v8.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign v8.
 
 >[!INFO]
 > Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lern-Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
@@ -24,7 +24,7 @@ Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Ku
 >[!NOTE]
 > Campaign v8 ist derzeit nur als Managed Cloud Service verfügbar und kann nicht in On-Premise- oder Hybridumgebungen bereitgestellt werden. Die automatische Migration aus einer bestehenden Campaign Classic v7-Umgebung ist noch nicht verfügbar.
 >
->Siehe [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) Weitere Informationen zur Umstellung von Classic v7 auf V8.
+>Weitere Informationen zur Umstellung von Classic v7 auf v8 finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=de) .
 
 ## Neue Funktionen
 
@@ -32,11 +32,11 @@ Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Ku
 
    *Erfahren Sie, wie SMPP-Verbindungen hergestellt und Daten per SMPP über PDUs ausgetauscht werden. Informationen zur Behebung von Verbindungsfehlern.*
 
-* **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
+* **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=de){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie die temporäre Speicherauslastung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
 
-* **[Control Panel – Überwachen von Durchsätzen und Latenzen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
+* **[Control Panel – Überwachen von Durchsätzen und Latenzen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
 
