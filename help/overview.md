@@ -6,15 +6,14 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
-workflow-type: ht
-source-wordcount: '464'
-ht-degree: 100%
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 99%
 
 ---
 
-# Tutorials zu Adobe Campaign v8 – Übersicht
+# Adobe Campaign V8-Tutorials
 
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign v8.
 
@@ -25,6 +24,8 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 > Campaign v8 ist derzeit nur als Managed Cloud Service verfügbar und kann nicht in On-Premise- oder Hybridumgebungen bereitgestellt werden. Die automatische Migration aus einer bestehenden Campaign Classic v7-Umgebung ist noch nicht verfügbar.
 >
 >Weitere Informationen zur Umstellung von Classic v7 auf v8 finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=de) .
+
+<div id="whats-new-section">
 
 ## Neue Funktionen
 
@@ -40,7 +41,18 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
    *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
 
-## Favoriten unserer Mitarbeitenden
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+
+## Mitarbeiterauswahl
 
 <table>
 <tr>
@@ -128,5 +140,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
   </td>
 </tr>
 </table>
+
+</div>
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=de).
