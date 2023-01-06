@@ -1,8 +1,8 @@
 ---
-source-git-commit: c2b4ec492f591c5b0f06f74d42b94ff527d5cdeb
-workflow-type: ht
-source-wordcount: '430'
-ht-degree: 100%
+source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
+workflow-type: tm+mt
+source-wordcount: '424'
+ht-degree: 95%
 
 ---
 # Artikel beitragen
@@ -15,13 +15,13 @@ Dieses Projekt beachtet den [Adobe Open Source Code of Conduct](code-of-conduct.
 
 ## Wissenswertes über Beiträge zu Adobe-Inhalten
 
-Weitere Informationen finden Sie im [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Weitere Informationen finden Sie im [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 Wie Sie Beiträge einbringen, hängt davon ab, wer Sie sind und welche Art von Änderungen Sie beitragen möchten:
 
 ### Geringfügige Änderungen
 
-Wenn Sie geringfügige Aktualisierungen beisteuern möchten, rufen Sie den entsprechenden Artikel auf und klicken Sie darin auf den Link **Edit** (Bearbeiten), der zur GitHub-Quelle des Artikels führt. Verwenden Sie anschließend die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Weitere Informationen finden Sie im allgemeinen [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Wenn Sie geringfügige Aktualisierungen beisteuern möchten, rufen Sie den entsprechenden Artikel auf und klicken Sie darin auf den Link **Edit** (Bearbeiten), der zur GitHub-Quelle des Artikels führt. Verwenden Sie anschließend die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Weitere Informationen finden Sie im allgemeinen [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 Die von Ihnen für die Dokumentationen und Code-Beispiele in diesem Repository eingereichten geringfügigen Korrekturen oder Erläuterungen unterliegen den Nutzungsbedingungen von Adobe.
 
@@ -43,7 +43,7 @@ Technische Redakteure, Programm-Manager oder Entwickler im Produkt-Team einer Ad
 
 Community-Mitwirkende können über die GitHub-Benutzeroberfläche grundlegende Bearbeitungen vornehmen oder das Repository forken, um wichtige Beiträge beizusteuern.
 
-Weitere Informationen finden Sie im [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Weitere Informationen finden Sie im [Adobe Docs Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Formatieren Ihres Themas via Markdown
 
