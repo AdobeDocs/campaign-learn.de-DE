@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 11778
 last-substantial-update: 20230130
-source-git-commit: 6467bac851fe5805dce2a20c3df7a186ab929e41
+source-git-commit: 34175eeac8c0a6f74f85de2c6188e1edf9034616
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 0%
@@ -28,14 +28,6 @@ Der erste Schritt, um Ihren Erfolg mit [!DNL Adobe Campaign] ist es, Ihre Tools 
 Adobe Campaign ist ein flexibles Tool, mit dem Sie Nachrichten auf vielfältige Weise ausführen und orchestrieren können. [Die Hälfte der Kunden arbeitet während jedes Journey-Kaufs mit drei bis fünf Kanälen zusammen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kunden zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
 
 ## 2. Kundendaten dokumentieren und verstehen
-
-<!-- Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
-
-"A study by Hubspot revealed that 30% of the marketers who participated in it used market segmentation techniques to improve email engagement. Segmented campaigns had 14.31% higher open rates and saw 101% more clicks than non-segmented campaigns.
-
-"Email marketers who segmented their audience before campaigning stated that the revenue generated increased to up to 760%. Targeted and segmented emails bring in 58% of all revenue." [Link](https://www.notifyvisitors.com/blog/segmentation-statistics/) 
-
-I added that second paragraph about 760% revenue and broke up the rest of the section, touched it up to help make the Hubspot example a little more impactful. If I altered this section too much, you can reject the change. It didn't have mistakes, but it felt like it didn't tie the segment example strongly enough to the point about data design. See if this is okay...-->
 
 Gemäß [Hubspot-Studie](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen)hatten segmentierte Kampagnen 14,31 % höhere Öffnungsraten und 101 % mehr Klicks als nicht segmentierte Kampagnen. E-Mail-Marketer, die ihre Zielgruppe vor der Kampagne segmentiert haben, erklärten, dass der generierte Umsatz um bis zu 760 % gestiegen ist.
 
