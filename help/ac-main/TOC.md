@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Fachleuten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: 89b99c200f6169194e9607f4a0f335abc7d81ee0
+source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 97%
@@ -100,6 +100,6 @@ ht-degree: 97%
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target="_blank"}
    + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
 + Strategie und Vordenkerposition{#strategy}
-   + [Zehn Best Practices für den Erfolg von Adobe Campaign für Marketing-Experten](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
-   + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy-and-thought-leadrship/campaign-maximize-email-best-practices.md)
+   + [Zehn Best Practices für den Erfolg von Adobe Campaign für Marketing-Experten](/help/strategy/10-best-practices-for-marketers.md)
+   + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
