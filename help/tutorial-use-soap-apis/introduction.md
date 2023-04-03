@@ -8,8 +8,8 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: ad2e46b7-d5d1-4530-b126-62b8446d7e31
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Adobe Campaign SOAP-APIs verwenden und auf der Basis der über die API empfangenen Daten einen erweiterten Versand-Workflow erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on)
 
 Nächstes Video zum Ansehen: [Schritt 1: Erste Schritte mit SOAP-APIs](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)
