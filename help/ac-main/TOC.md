@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Fachleuten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [Erstellen von mehrsprachigen Newslettern mit bedingtem Inhalt](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Konfigurieren von Landingpages](/help/content-creation/configure-landingpages.md)
+   + [Umfrage erstellen](/help/content-creation/create-a-survey.md)
 + Senden von Nachrichten {#sending-messages}
    + E-Mail {#email}
       + [Durchführen und Validieren von Testsendungen für einen E-Mail-Versand](/help/send-messages/email/send-and-validate-proofs.md)
