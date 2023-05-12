@@ -1,6 +1,6 @@
 ---
-title: Wiederkehrenden und kontinuierlichen E-Mail-Versand erstellen
-description: Erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und wie sich die beiden Ansätze unterscheiden.
+title: Erstellen wiederkehrender und fortlaufender E-Mail-Sendungen
+description: Erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und worin sich die beiden Ansätze unterscheiden.
 feature: Workflows
 kt: 7982
 thumbnail: 342637.jpg
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# Wiederkehrenden und kontinuierlichen E-Mail-Versand erstellen
+# Erstellen wiederkehrender und fortlaufender E-Mail-Sendungen
 
-In diesem Tutorial erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und wie sich die beiden Ansätze unterscheiden.
+In diesem Tutorial erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und worin sich die beiden Ansätze unterscheiden.
 
 ## Tracking des wiederkehrenden und des fortlaufenden Versands {#recurring-and-continuous-delivery-tracking}
 
