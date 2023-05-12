@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Adobe Campaign bietet Marketing-Fachleuten eine visuell gestützte Umgebung für die Konzeption umfassender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 97%
       + [Erstellen von mehrsprachigen Newslettern mit bedingtem Inhalt](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Konfigurieren von Landingpages](/help/content-creation/configure-landingpages.md)
-   + [Umfrage erstellen](/help/content-creation/create-a-survey.md)
+   + [Erstellen einer Umfrage](/help/content-creation/create-a-survey.md)
 + Senden von Nachrichten {#sending-messages}
    + E-Mail {#email}
       + [Durchführen und Validieren von Testsendungen für einen E-Mail-Versand](/help/send-messages/email/send-and-validate-proofs.md)
@@ -101,6 +101,6 @@ ht-degree: 97%
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target="_blank"}
    + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
 + Strategie und Vordenkerposition{#strategy}
-   + [Zehn Best Practices für den Erfolg von Adobe Campaign für Marketing-Experten](/help/strategy/10-best-practices-for-marketers.md)
+   + [Zehn Best Practices für den Erfolg mit Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
