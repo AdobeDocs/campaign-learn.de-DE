@@ -2,7 +2,7 @@
 title: Ermüdungsverwaltung mithilfe vordefinierter Filter
 description: Erfahren Sie, wie Sie die Ermüdungsverwaltung in Adobe Campaign mithilfe von Filtern implementieren.
 feature: Fatigue Management
-kt: 7958
+jira: KT-7958
 thumbnail: 333778.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
-source-wordcount: '47'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
