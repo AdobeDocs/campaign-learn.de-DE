@@ -2,7 +2,7 @@
 title: Personalisieren von E-Mails mit Personalisierungsfeldern
 description: Erfahren Sie, wie Sie der Betreffzeile und dem Inhalt eines E-Mail-Versands ein Personalisierungsfeld hinzufügen.
 feature: Dynamic Content
-kt: 7942
+jira: KT-7942
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
