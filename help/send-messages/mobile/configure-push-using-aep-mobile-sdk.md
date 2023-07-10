@@ -2,7 +2,7 @@
 title: Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK
 description: Erfahren Sie, wie Sie den Push-Kanal mit dem Experience Cloud Mobile SDK konfigurieren.
 feature: Push
-kt: 7960
+jira: KT-7960
 doc-type: feature video
 activity: setup
 team: PM
@@ -11,9 +11,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
-source-wordcount: '47'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
