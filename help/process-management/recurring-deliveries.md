@@ -2,7 +2,7 @@
 title: Erstellen wiederkehrender und fortlaufender E-Mail-Sendungen
 description: Erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und worin sich die beiden Ansätze unterscheiden.
 feature: Workflows
-kt: 7982
+jira: KT-7982
 thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
-source-wordcount: '232'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Der wiederkehrende und der fortlaufende Versand unterscheiden sich bezüglich de
 
 * Beim **fortlaufenden Versand** können Sie einem bestehenden Versand neue Empfänger hinzufügen, sodass Sie nicht jedes Mal einen neuen Versand erstellen müssen, wenn ein neuer Empfänger hinzugefügt wird. Sie können die kreativen Inhalte direkt im Kampagnen-Workflow aktualisieren, wodurch die Vorlage im Ressourcen-Ordner für Versandvorlagen aktualisiert wird.
 
-   Bei einem fortlaufenden Versand wird EIN Versand erstellt. Versand-Logs (broadLog) und Trackinglogs, die auf diesen Versand verweisen, werden bei jeder Ausführung hinzugefügt.
+  Bei einem fortlaufenden Versand wird EIN Versand erstellt. Versand-Logs (broadLog) und Trackinglogs, die auf diesen Versand verweisen, werden bei jeder Ausführung hinzugefügt.
 
 ![Versand (fortlaufend)](/help/assets/delivery_continuous.jpg)
 
