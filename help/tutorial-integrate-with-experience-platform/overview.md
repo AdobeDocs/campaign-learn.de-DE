@@ -2,15 +2,15 @@
 title: Integration in Experience Platform – Übersicht
 description: Erfahren Sie, wie Sie Campaign- und Experience Cloud-Daten importieren und exportieren und so die Kommunikation zwischen den beiden Lösungen ermöglichen.
 feature: API
-kt: 9094
+jira: KT-9094
 thumbnail: 336643.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
-source-wordcount: '84'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
