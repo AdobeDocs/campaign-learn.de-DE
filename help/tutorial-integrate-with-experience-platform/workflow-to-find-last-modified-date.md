@@ -2,7 +2,7 @@
 title: Export-Workflow erstellen (Teil 1) – Letztes Änderungsdatum für eine Empfängerliste ermitteln
 description: In diesem ersten Teil des Tutorials zum Erstellen eines Export-Workflows erfahren Sie, wie Sie einen Workflow erstellen, der das Datum der letzten Änderung für eine Empfängerliste findet, die aus einem Experience Platform-Segment erstellt wurde.
 feature: Data Import/Export, Workflows
-kt: 8162
+jira: KT-8162
 thumbnail: 336387.jpg
 doc-type: feature video
 activity: setup
@@ -10,9 +10,9 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
-source-wordcount: '120'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
