@@ -30,16 +30,13 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 ## Neue Funktionen
 
 * **[Erklärung des SMPP-Protokolls und Fehlerbehebung](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=de)**
-
-   *Erfahren Sie, wie SMPP-Verbindungen hergestellt und Daten per SMPP über PDUs ausgetauscht werden. Informationen zur Fehlerbehebung bei Verbindungen.*
+  *Erfahren Sie, wie SMPP-Verbindungen hergestellt und Daten per SMPP über PDUs ausgetauscht werden. Informationen zur Fehlerbehebung bei Verbindungen.*
 
 * **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=de){target="_blank"}**
-
-   *Erfahren Sie, wie Sie die temporäre Speicherauslastung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
+  *Erfahren Sie, wie Sie die temporäre Speicherauslastung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
 
 * **[Control Panel – Überwachen von Durchsätzen und Latenzen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target="_blank"}**
-
-   *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
+  *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
 
 </div>
 

@@ -20,19 +20,16 @@ Die Tutorials in diesem Abschnitt richten sich an Administratoren, die mit der E
 Folgende Themen werden behandelt:
 
 * **[Einführung in SMS](/help/tutorial-sms/introduction-to-sms.md)**:
-   *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet.*
+  *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet.*
 
 * **[Einrichten eines SMS-Kontos für einen standardmäßigen SMPP-Provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Optimieren Sie Ihre SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen und richten Sie den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS ein.*
+  *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Optimieren Sie Ihre SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen und richten Sie den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS ein.*
 
 * **[Anpassen des SMS-Connectors an Ihren SMPP-Provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *Erfahren Sie, wie Sie SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen optimieren und den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS einrichten können.*
+  *Erfahren Sie, wie Sie SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen optimieren und den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS einrichten können.*
 
 * **[Erläuterungen zum SMPP-Protokoll und Fehlerbehebung](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
-
-   *Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie der Datenaustausch mit dem SMPP über PDUs erfolgt. Informationen zur Fehlerbehebung bei Verbindungen.*
+  *Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie der Datenaustausch mit dem SMPP über PDUs erfolgt. Informationen zur Fehlerbehebung bei Verbindungen.*
 
 >[!NOTE]
 >
