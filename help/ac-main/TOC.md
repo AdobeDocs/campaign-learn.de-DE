@@ -27,7 +27,7 @@ ht-degree: 100%
 + Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Importieren von Profilen](/help/profile-management/import-profiles.md)
-   + [Auswählen von Profilen in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
+   + [Zielgruppenprofile in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Kampagnenorchestrierung {#campaign-orchestration}
    + [Ausführen von Kampagnen](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Einführung in Multi- und Cross-Channel-Kampagnen](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
