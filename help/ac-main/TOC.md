@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
-user-guide-description: Videos und Tutorials für Adobe Campaign v8.
-breadcrumb-title: Campaign v8 Tutorials
+user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign V8 Client Console verwenden.
+breadcrumb-title: Client Console - Tutorials
 auto-video-transcripts: true
-source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
+source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 97%
+source-wordcount: '387'
+ht-degree: 95%
 
 ---
 
