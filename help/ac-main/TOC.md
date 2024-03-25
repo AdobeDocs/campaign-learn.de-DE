@@ -2,20 +2,20 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign – Tutorials
-user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign V8 Client-Console verwenden.
-breadcrumb-title: Client-Console – Tutorials
+user-guide-description: Erfahren Sie, wie Sie die Funktionen der Client-Konsole von Adobe Campaign V8 verwenden.
+breadcrumb-title: Client-Konsole – Tutorials
 auto-video-transcripts: true
 source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign v8 Client Console-Tutorials {#tutorials}
+# Tutorials zur Client-Konsole von Adobe Campaign v8 {#tutorials}
 
-+ [Tutorials der Clientkonsole in Campaign v8](/help/overview.md)
++ [Tutorials zur Client-Konsole von Campaign v8](/help/overview.md)
 + [Die wichtigsten Funktionen von Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
@@ -95,7 +95,7 @@ ht-degree: 95%
 + Reporting {#reporting}
    + [Zugriff auf native Berichte](/help/reporting/access-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Überwachung {#monitoring}
++ Monitoring {#monitoring}
    + [Workflow-Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring/audit-trail.md)
 + Administration {#administration}
@@ -105,4 +105,4 @@ ht-degree: 95%
    + [Zehn Best Practices für den Erfolg mit Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
-+ [Tutorials zur Adobe Campaign-Webbenutzeroberfläche](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [Tutorials für die Adobe Campaign Web-Benutzeroberfläche](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=de)
