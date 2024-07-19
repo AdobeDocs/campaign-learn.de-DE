@@ -4,7 +4,7 @@ user-guide-description: Erfahren Sie, wie Sie Adobe Campaign Soap-APIs verwenden
 breadcrumb-title: SOAP-APIs verwenden
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
