@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Client-Konsole von Adobe Campaign V8 verwenden.
 breadcrumb-title: Client-Konsole – Tutorials
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -49,6 +49,8 @@ ht-degree: 100%
       + [Verwenden von Kontrollgruppen](/help/send-messages/email/use-control-groups.md)
       + [Problembehebung beim E-Mail-Versand](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
    + SMS {#sms}
       + [Erstellen eines SMS-Versands](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push-Benachrichtigung {#push}
@@ -103,6 +105,4 @@ ht-degree: 100%
    + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
 + Strategie und Vordenkerposition{#strategy}
    + [Zehn Best Practices für den Erfolg mit Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
-   + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
 + [Tutorials für die Adobe Campaign Web-Benutzeroberfläche](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=de)
