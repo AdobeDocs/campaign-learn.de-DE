@@ -6,7 +6,7 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
+source-git-commit: 01b114a7da816d25abcad8b0a12c7c02c6ebba02
 workflow-type: tm+mt
 source-wordcount: '1475'
 ht-degree: 100%
@@ -141,3 +141,4 @@ Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmu
 Eine Zusammenfassung des Artikels sowie eine Live-Demo zur Implementierung von Rückgewinnungsstrategien finden Sie in unserem [Webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
 Erfahren Sie mehr über Strategie und innovatives Denken im [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=de) Hub.
+
