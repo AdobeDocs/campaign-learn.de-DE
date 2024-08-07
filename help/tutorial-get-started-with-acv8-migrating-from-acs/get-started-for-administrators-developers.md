@@ -1,37 +1,37 @@
 ---
-title: Erste Schritte mit Adobe Campaign v8 für Administratoren und Entwickler.
-description: In diesem Tutorial erhalten Sie einen Überblick über die wichtigsten Verwaltungs- und Datenverwaltungsfunktionen von Campaign v8. Er richtet sich an Administratoren und technische Marketingexperten, die von Campaign Standard zu Campaign v8 migrieren.
+title: Erste Schritte mit Adobe Campaign v8 für Admins und Entwicklerinnen und Entwickler.
+description: Dieses Tutorial bietet einen Überblick über die wichtigsten Verwaltungs- und Daten-Management-Funktionen von Campaign v8. Es richtet sich an Admins und technische Marketing-Fachleute, die von Campaign Standard zu Campaign v8 migrieren.
 role: Admin, Developer
 level: Beginner, Experienced
 jira: KT-15787
 source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
-workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 24%
+workflow-type: ht
+source-wordcount: '290'
+ht-degree: 100%
 
 ---
 
 
-# Erste Schritte für Administratoren und Entwickler
+# Erste Schritte für Admins und Entwicklerinnen und Entwickler
 
-In diesem Tutorial erhalten Sie einen Überblick über die wichtigsten Verwaltungs- und Datenverwaltungsfunktionen von Campaign v8. Es richtet sich an Administratoren und technische Marketingexperten, die von Campaign Standard zu Campaign v8 migrieren.
+Dieses Tutorial bietet einen Überblick über die wichtigsten Verwaltungs- und Daten-Management-Funktionen von Campaign v8. Es richtet sich an Admins und technische Marketing-Fachleute, die von Campaign Standard zu Campaign v8 migrieren.
 
-## Architektur von Campaign v8
+## Verstehen der Architektur von Campaign v8
 
-Unter [Erste Schritte mit der Campaign-Architektur](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"} finden Sie Informationen zur Campaign-Architektur, bevor Sie mit der Struktur und Organisation Ihrer Instanz beginnen.
+Sehen Sie sich [Erste Schritte mit der Architektur von Campaign](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"} an, um die Architektur von Campaign zu verstehen, bevor Sie mit der Strukturierung und Organisation Ihrer Instanz beginnen.
 
 
 ## Installieren der Client-Konsole
 
-Die Hauptverwaltungsaufgaben und Konfigurationsaufgaben werden in der [Admin Console] ausgeführt. Der erste Schritt besteht darin, Ihre Umgebung einzurichten. Im folgenden Video erfahren Sie, wie Sie die Adobe Campaign Client Console herunterladen und installieren und Ihre Verbindung zu Ihrer Instanz verwalten.
+Die wichtigsten Administrations- und Konfigurationsaufgaben werden in der [Admin Console] durchgeführt. Der erste Schritt besteht darin, Ihre Umgebung einzurichten. Das folgende Video erklärt, wie Sie die Adobe Campaign-Client-Konsole herunterladen und installieren und wie Sie die Verbindung zu Ihrer Instanz verwalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-Weitere Informationen finden Sie unter [Verbindung mit Campaign mit der Clientkonsole herstellen](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}.
+Weitere Informationen finden Sie unter [Herstellen einer Verbindung mit Campaign über die Client-Konsole](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
-## Zugriff einrichten und verwalten
+## Einrichten und Verwalten des Zugriffs
 
-Mit Adobe Campaign können Sie die den Benutzern zugewiesenen Berechtigungen definieren und verwalten:
+Mit Adobe Campaign können Sie die den Benutzenden zugewiesenen Rechte definieren und verwalten:
 
 * Zugriff auf bestimmte Fähigkeiten
 * Zugriff auf bestimmte Daten
@@ -39,15 +39,15 @@ Mit Adobe Campaign können Sie die den Benutzern zugewiesenen Berechtigungen def
 
   Weitere Informationen finden Sie unter [Verwalten von Benutzerberechtigungen](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}.
 
-## Instanz konfigurieren
+## Konfigurieren Ihrer Instanz
 
-* Lesen Sie die [Richtlinien zur Implementierung von Campaign](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"} , um zu erfahren, wie Sie Adobe Campaign an die Anforderungen Ihres Unternehmens anpassen und Ihre Implementierung strukturieren und organisieren können.
-* [Kanal hier einrichten](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Experience Cloud Trigger-Konfiguration](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* Lesen Sie die [Leitlinien für die Implementierung von Campaign](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}, um zu erfahren, wie Sie Adobe Campaign an die Anforderungen Ihres Unternehmens anpassen und Ihre Implementierung strukturieren und organisieren können.
+* [Kanal hier einrichten](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [Konfiguration von Experience Cloud Triggers](https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## Bereitstellung
 
-* [Package-Import/-Export](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/packages){target="_blank"}
+* [Package-Import/-Export](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/developer/packages){target="_blank"}
 
 ## Daten-Management
 

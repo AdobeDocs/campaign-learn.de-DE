@@ -1,39 +1,39 @@
 ---
-title: Erste Schritte mit Adobe Campaign v8 nach der Migration vom Campaign Standard - Übersicht
-description: Diese Tutorials führen Sie durch die Schritte, die für die ersten Schritte mit Ihrer neuen Campaign v8-Anwendung erforderlich sind.
+title: Erste Schritte mit Adobe Campaign v8 nach der Migration von Campaign Standard – Überblick
+description: Diese Tutorials führen Sie gezielt durch die ersten Schritte mit Ihrer neuen Anwendung Campaign v8.
 team: TM
 role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog
 source-git-commit: 60613a5e1d268fa4b1f8ea01696ee034bc1c6002
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Erste Schritte mit Adobe Campaign v8 nach der Migration vom Campaign Standard - Übersicht
+# Erste Schritte mit Adobe Campaign v8 nach der Migration von Campaign Standard – Überblick
 
-Willkommen bei Adobe Campaign v8!
+Herzlich willkommen bei Adobe Campaign v8!
 
-Dieses Referenzhandbuch wurde für Benutzer entwickelt, die von Campaign Standard zu Campaign v8 migriert wurden. Dies hilft Ihnen, sich mit Ihrer neuen Campaign-Instanz vertraut zu machen und Sie durch die Schritte zu führen, die zum Einstieg in Ihre Rolle erforderlich sind.
+Dieses Referenzhandbuch wurde für Benutzerinnen und Benutzer entwickelt, die von Campaign Standard zu Campaign v8 migriert haben. Es hilft Ihnen, sich mit Ihrer neuen Campaign-Instanz vertraut zu machen, und führt Sie gezielt durch die ersten Schritte für Ihre Rolle.
 
-1. Lernen Sie die wichtigsten Funktionen und Terminologie von Campaign v8 kennen. Lesen Sie den Leitfaden ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration) für den [Campaign Standard-Übergang zu Campaign v8
+1. Lernen Sie die wichtigsten Funktionen und die Terminologie von Campaign v8 kennen. Sehen Sie sich das [Handbuch zum Wechsel von Campaign Standard zu Campaign v8](https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/acs-migration) an
 
-2. Wählen Sie anschließend Ihre Rolle unten aus, um auf das relevante Referenzhandbuch für Ihre Rolle zuzugreifen:
+2. Wählen Sie anschließend unten Ihre Rolle aus, um auf das passende Referenzhandbuch für Ihre Rolle zuzugreifen:
 
 <table>
 <tr>
   <td>
     <a href="get-started-for-marketers.md">
-      <img alt="Kampagnen-Manager"src="./_assets/digital_marketing.jpeg"/>
+      <img alt="Kampagnenverantwortliche Benutzerinnen und Benutzer"src="./_assets/digital_marketing.jpeg"/>
     </a>
     <div>
   </td>
   <td>
   <a href="get-started-for-administrators-developers.md">
-    <img alt="Administrator oder Entwickler" src="./_assets/admin.jpeg"/>
+    <img alt="Admins oder Entwicklerinnen bzw. Entwickler" src="./_assets/admin.jpeg"/>
     </a>
     <div>
   </td>
@@ -41,20 +41,20 @@ Dieses Referenzhandbuch wurde für Benutzer entwickelt, die von Campaign Standar
   <tr>
     <td>
     <a href="get-started-for-marketers.md">
-    <strong>Marketer</strong>
+    <strong>Marketing-Fachleute</strong>
     </a>
     </td>
     <td>
       <a href="get-started-for-administrators-developers.md">
-      <strong>Administrator oder Entwickler</strong>
+      <strong>Admins oder Entwicklerinnen bzw. Entwickler</strong>
       </a>
     </td>
   </tr>
     <td>
-    <em>Kampagnen-Manager, Media Marketing Specialist</em>
+    <em>Kampagnen-Managerinnen und -Manager, Fachleute für Medien-Marketing</em>
     </td>
     <td>
-      <em> Systemadministrator, technischer Marketingspezialist</em>
+      <em> Systemadmins, Fachleute für technisches Marketing</em>
     </td>
   <tr>
     <td>
@@ -67,11 +67,11 @@ Dieses Referenzhandbuch wurde für Benutzer entwickelt, die von Campaign Standar
   <tr>
     <td>
       <li>Erstellen von Marketing-Kampagnen
-      <li>Workflows entwerfen
-      <li>Kampagnen testen und ausführen
-      <li>Bereitstellen von Mehrkanal-Kampagnen
+      <li>Entwerfen von Workflows
+      <li>Testen und Ausführen von Kampagnen
+      <li>Bereitstellen von Multi-Channel-Kampagnen
       <li>Optimieren von Kampagnen
-      <li>Automatisierte Kampagnen optimieren
+      <li>Optimieren von automatisierten Kampagnen
     </td>
     <td>
         <li>Zugriffsverwaltung 
