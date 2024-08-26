@@ -4,9 +4,9 @@ description: Dieses Tutorial bietet Ihnen einen Überblick über die wichtigsten
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
-workflow-type: ht
-source-wordcount: '863'
+source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
+workflow-type: tm+mt
+source-wordcount: '849'
 ht-degree: 100%
 
 ---
@@ -29,8 +29,6 @@ Sie können über die Client-Konsole oder die Web-Benutzeroberfläche auf Adobe 
 2. [Durchsuchen und Filtern von Listen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/list-filters)
 
 ## Hilfe und Anleitung
-
-Verwenden Sie die [KI-gestützte kontextuelle Hilfe](https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/using-ai){target="_blank"}, um innerhalb der Benutzeroberfläche auf die Produktdokumentation zuzugreifen.
 
 [Dokumentation zur Web-Benutzeroberfläche von Adobe Campaign](https://experienceleague.adobe.com/de/docs/campaign-web/v8/campaign-web-home)
 
