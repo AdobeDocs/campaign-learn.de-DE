@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Client-Konsole von Adobe Campaign V8 verwenden.
 breadcrumb-title: Client-Konsole – Tutorials
 auto-video-transcripts: true
-source-git-commit: ebca0bb940fbcd5b8e3505d30f1e4caa339853bf
-workflow-type: ht
-source-wordcount: '411'
-ht-degree: 100%
+source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+workflow-type: tm+mt
+source-wordcount: '405'
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 + [Die wichtigsten Funktionen von Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Erste Schritte mit Adobe Campaign v8 nach der Migration von Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=de)
+   + [Adobe Campaign v8-Anleitung zur Adoption](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
    + [Installieren und Einrichten der Client-Konsole von Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Navigation in der Benutzeroberfläche von Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Verwalten von Marketing-Kampagnen](/help/get-started/manage-marketing-campaigns.md)
