@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign – Tutorials
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Client-Konsole von Adobe Campaign V8 verwenden.
 breadcrumb-title: Client-Konsole – Tutorials
 auto-video-transcripts: true
-source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 98%
+source-wordcount: '408'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 + [Die wichtigsten Funktionen von Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign v8-Anleitung zur Adoption](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Einführungsleitfaden für Adobe Campaign v8](https://experienceleague.adobe.com/de/docs/campaign-web/acs-to-ac/home)
    + [Installieren und Einrichten der Client-Konsole von Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Navigation in der Benutzeroberfläche von Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Verwalten von Marketing-Kampagnen](/help/get-started/manage-marketing-campaigns.md)
@@ -102,6 +102,7 @@ ht-degree: 98%
    + [Workflow-Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring/audit-trail.md)
 + Administration {#administration}
+   + [Verwalten von Benutzerberechtigungen](/help/administration/manage-user-permissions.md)
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target="_blank"}
    + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
 + Strategie und Vordenkerposition{#strategy}
