@@ -5,13 +5,13 @@ team: TM
 role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog
-source-git-commit: 60613a5e1d268fa4b1f8ea01696ee034bc1c6002
-workflow-type: ht
+exl-id: bb5979f8-4ca0-49f9-a061-2c0d21ef5b67
+source-git-commit: cab85f4ddd0ae2961b6daaa105b6e5bae428de1b
+workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 100%
 
 ---
-
 
 # Erste Schritte mit Adobe Campaign v8 nach der Migration von Campaign Standard – Überblick
 

@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren von Validierungen für Sendungen
+title: 'Konfigurieren von Validierungen für Sendungen '
 description: Erfahren Sie, wie Sie Validierungen und Validierer auf Versandebene konfigurieren.
 feature: Workflows, Approvals
 jira: KT-9339
@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 exl-id: 3ec4074e-8829-4969-aa87-2f5a8fdefa3c
 source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
 

@@ -4,13 +4,13 @@ description: Dieses Tutorial bietet einen Überblick über die wichtigsten Verwa
 role: Admin, Developer
 level: Beginner, Experienced
 jira: KT-15787
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
-workflow-type: ht
+exl-id: 29e7cde2-a611-41f8-aa7b-c05be0b53313
+source-git-commit: cab85f4ddd0ae2961b6daaa105b6e5bae428de1b
+workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 100%
 
 ---
-
 
 # Erste Schritte für Admins und Entwicklerinnen und Entwickler
 

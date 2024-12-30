@@ -9,7 +9,7 @@ last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: e84d43a8-6553-4657-9383-5ea91867e811
 source-git-commit: 7400ef4957d267496033292cc61575ffe2e08811
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Optimie
 
 >[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
 
-Unter [SMS-Connector-Protokoll und Einstellungen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=de#sending-messages) erhalten Sie weitere Informationen zum SMPP-Protokoll sowie Details zu externen Kontoeinstellungen bzw. zur Fehlerbehebung bei häufigen Problemen.
+Siehe [SMS-Connector-Protokoll und Einstellungen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=de#sending-messages), um weitere Informationen zum SMPP-Protokoll sowie Details zu externen Kontoeinstellungen bzw. zur Fehlerbehebung bei häufigen Problemen zu erhalten.

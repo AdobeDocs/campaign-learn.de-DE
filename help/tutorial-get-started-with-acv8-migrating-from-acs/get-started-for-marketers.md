@@ -4,13 +4,13 @@ description: Dieses Tutorial bietet Ihnen einen Überblick über die wichtigsten
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
-workflow-type: ht
+exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
+source-git-commit: cab85f4ddd0ae2961b6daaa105b6e5bae428de1b
+workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 100%
 
 ---
-
 
 # Erste Schritte für Marketing-Fachleute
 
@@ -313,5 +313,3 @@ Die folgenden Integrationen sind über die Adobe Campaign-Client-Konsole verfüg
 * Zielgruppenfreigabe für Adobe Experience Cloud (Adobe Audience Manager). [Weitere Informationen](https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud){target="_blank"}
 * Integration mit Adobe Target. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-at){target="_blank"}
 * Integration mit Adobe Experience Cloud Triggers.  [Weitere Informationen](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-triggers){target="_blank"}
-
-

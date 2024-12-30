@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 053a657f-e399-44a8-8c4b-17d08e82e4a9
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ Erfahren Sie, wie Sie Daten mit unterschiedlichen Zielgruppen- und Filterdimensi
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
 
-Nächster Schritt: [Versand an abonnierte Empfangende](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
+Nächster Schritt: [Versand an abonnierte Empfänger](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

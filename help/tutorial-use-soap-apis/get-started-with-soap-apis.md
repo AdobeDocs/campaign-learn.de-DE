@@ -9,7 +9,7 @@ level: Experienced
 exl-id: dd09f4ea-4f5a-4674-9652-e8e0369d9bab
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
@@ -20,4 +20,4 @@ Erfahren Sie, wie Sie mit Postman ein Sitzungs-Token zur Verwendung in API-Anfra
 
 >[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
 
-Nächstes Video: [Schritt 2: Hinzufügen von Empfängern und Artikeln unter Verwendung von SOAP-API-Anfragen](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)
+Nächstes Video zum Ansehen: [Schritt 2: Hinzufügen von Empfängern und Artikeln unter Verwendung von SOAP-API-Anfragen](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

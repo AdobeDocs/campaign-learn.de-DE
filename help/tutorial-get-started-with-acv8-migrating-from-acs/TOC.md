@@ -3,7 +3,7 @@ user-guide-title: Erste Schritte mit Adobe Campaign v8
 user-guide-description: Dieses Tutorial hilft Ihnen bei den ersten Schritten mit Campaign v8.
 breadcrumb-title: Erste Schritte mit Adobe Campaign v8
 source-git-commit: 74485da582b2aefb75629700b9d1c42496b28f46
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
