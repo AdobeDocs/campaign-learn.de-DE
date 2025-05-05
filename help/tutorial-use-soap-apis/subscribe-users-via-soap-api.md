@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit SOAP-API-Aufrufen einen Newsletter-Service einrichten und die Anmeldung zu einem Abonnement ermöglichen
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446026?quality=12&learn=on&captions=ger){transcript=true}
 
 Fahren Sie fort mit: [Schritt 4: Erstellen eines Inhalts mit einem Workflow](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)

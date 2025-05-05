@@ -39,10 +39,10 @@ Der wiederkehrende und der fortlaufende Versand unterscheiden sich bezüglich de
 
 In diesem Video wird erläutert, wie Sie einen wiederkehrenden Versand und eine Planungsaktivität konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446883?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Einrichten eines fortlaufenden Versands {#how-to-set-up-a-continuous-delivery}
 
 In diesem Video wird gezeigt, wie Sie einen fortlaufenden Versand mit einer inkrementellen Abfrage konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444576?quality=12&learn=on&captions=ger){transcript=true}

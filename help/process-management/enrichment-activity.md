@@ -23,4 +23,4 @@ Die Anreicherungsaktivität ist ein Workflow-Objekt, das Daten zur Arbeitstabell
 
 Erfahren Sie, wie Sie eine Anreicherungsaktivität basierend auf Versand-Log-Informationen konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452177?quality=12&learn=on&captions=ger){transcript=true}

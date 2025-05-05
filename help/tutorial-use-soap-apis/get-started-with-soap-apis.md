@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit Postman ein Sitzungs-Token zur Verwendung in API-Anfragen generieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449484?quality=12&learn=on&captions=ger){transcript=true}
 
 Nächstes Video zum Ansehen: [Schritt 2: Hinzufügen von Empfängern und Artikeln unter Verwendung von SOAP-API-Anfragen](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Daten aus zwei Segmenten zusammenführen, eine Benachrichtigungs-Mail für Artikel erstellen und basierend auf Daten, die von einer externen API empfangen wurden, personalisieren. Wir setzen den Aufbau des im vorherigen Schritt erstellten Workflows fort: Video [Abfrage von Artikeln und Werten der Abonnenten](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
 
->[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449573?quality=12&learn=on&captions=ger){transcript=true}

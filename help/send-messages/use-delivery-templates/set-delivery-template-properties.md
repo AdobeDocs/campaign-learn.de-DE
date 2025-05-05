@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Eigenschaften von Versandvorlagen festlegen und welche Eigenschaften es im Einzelnen gibt.
 
->[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443410?quality=12&learn=on&captions=ger){transcript=true}

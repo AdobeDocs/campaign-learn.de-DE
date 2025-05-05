@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453266?quality=12&learn=on&captions=ger){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie mehr über die Benutzeroberfläche von Adobe Campaign v8 und die Navigation durch ihre Hauptfunktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426435?quality=12&learn=on&captions=ger){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine Kampagne ausführen, einen E-Mail-Versand überprüfen und die Versandeigenschaften festlegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334908?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452973?quality=12&learn=on&captions=ger){transcript=true}

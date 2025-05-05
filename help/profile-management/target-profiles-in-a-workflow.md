@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren Sie, wie Sie einen Workflow erstellen und Filterbedingungen verwenden, um Profile in einem Workflow auszuwählen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453585?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Nächste verfügbare Tutorials
 

@@ -23,4 +23,4 @@ Die Ermüdungsverwaltung steuert die Häufigkeit und Menge der Nachrichten, um e
 
 Erfahren Sie, wie Sie die Ermüdungsverwaltung in Adobe Campaign mithilfe von Typologieregeln implementieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448340?quality=12&learn=on&captions=ger){transcript=true}

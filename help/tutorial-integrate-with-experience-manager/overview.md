@@ -21,5 +21,5 @@ Verbinden Sie Adobe Campaign mit Adobe Experience Manager, um E-Mail-Versandvorl
 
 Im folgenden Video erfahren Sie, was Sie lernen werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346034?quality=12&learn=on&captions=ger){transcript=true}
 

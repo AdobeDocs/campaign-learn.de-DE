@@ -23,4 +23,4 @@ Validierungen bieten Benutzern die Gelegenheit, an bestimmten Etappen des Workfl
 
 Erfahren Sie, wie Sie Genehmigungen und Kampagnen einrichten und zwischen Versand- und Workflow-Genehmigungen unterscheiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426627?quality=12&learn=on&captions=ger){transcript=true}

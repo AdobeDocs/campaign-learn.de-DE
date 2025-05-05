@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihre Zielgruppe einschränken, indem Sie einen Standardausschluss auf einen Workflow anwenden. Erfahren Sie, wie Sie vordefinierte Filter erstellen und Probleme mit Ihrem Workflow beheben.
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452947?quality=12&learn=on&captions=ger){transcript=true}

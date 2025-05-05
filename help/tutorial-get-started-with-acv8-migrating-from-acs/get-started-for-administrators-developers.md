@@ -55,7 +55,7 @@ Mit Adobe Campaign können Sie die den Benutzenden zugewiesenen Rechte definiere
 
 Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452603?quality=12&learn=on&captions=ger){transcript=true}
 
 
 ### Erstellen und Erweitern eines Schemas

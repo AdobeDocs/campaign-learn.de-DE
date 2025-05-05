@@ -23,4 +23,4 @@ Mit Adobe Campaign können Sie verschiedene Landingpages auf dem Server entwerfe
 
 In diesem Video wird gezeigt, wie Sie im Webanwendungseditor von Adobe Campaign navigieren, indem Sie ein Präferenzzentrum erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450223?quality=12&learn=on&captions=ger){transcript=true}

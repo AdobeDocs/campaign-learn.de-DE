@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie Sie einen E-Mail-Testversand durchführen und validieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447008?quality=12&learn=on&captions=ger){transcript=true}

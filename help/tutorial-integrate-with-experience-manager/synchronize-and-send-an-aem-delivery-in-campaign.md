@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie Sie einen in Experience Manager erstellten Newsletter in Campaign testen und versenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444757?quality=12&learn=on&captions=ger){transcript=true}

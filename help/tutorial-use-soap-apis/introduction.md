@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Adobe Campaign SOAP-APIs verwenden und auf der Basis der über die API empfangenen Daten einen erweiterten Versand-Workflow erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438344?quality=12&learn=on&captions=ger){transcript=true}
 
 Nächstes Video zum Ansehen: [Schritt 1: Erste Schritte mit SOAP-APIs](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

@@ -24,4 +24,4 @@ In Adobe Campaign kommen Workflows in unterschiedlichsten Kontexten und zu versc
 
 In diesem Video wird beschrieben, wie Sie einen Workflow in Adobe Campaign erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30533?quality=12&learn=on&captions=ger){transcript=true}

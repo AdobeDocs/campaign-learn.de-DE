@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie Validierungen und Validierer auf Kampagnenebene konfigurie
 
 Validierungen sollten auf Kampagnenebene eingerichtet werden, wenn in Ihrem Kampagnen-Workflow für alle Sendungen dieselben Validierer vorgesehen sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446516?quality=12&learn=on&captions=ger){transcript=true}

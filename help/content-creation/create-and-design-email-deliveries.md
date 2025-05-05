@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und erfahren Sie, wie Sie E-Mail-Inhalte gestalten und personalisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444318?quality=12&learn=on&captions=ger){transcript=true}

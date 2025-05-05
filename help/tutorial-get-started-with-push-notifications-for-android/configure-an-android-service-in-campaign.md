@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie in Campaign einen [!DNL Android™]-Service konfigurieren und eine [!DNL Android™]-Mobile-App erstellen. Dieser Schritt ist erforderlich, damit Sie die Ziel-Mobile-App für die Push-Benachrichtigung definieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340729?quality=12&learn=on&captions=ger){transcript=true}
 
 **Vorheriger Schritt**
 

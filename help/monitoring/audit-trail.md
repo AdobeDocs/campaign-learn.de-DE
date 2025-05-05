@@ -27,6 +27,6 @@ Das [!UICONTROL Audit-Protokoll] erfasst in Echtzeit eine umfassende Liste von A
 
 Erfahren Sie, wie Sie auf das Audit-Protokoll zugreifen und welche Einstellungen konfiguriert werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444243?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der [Dokumentation zum Audit-Protokoll](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=de).

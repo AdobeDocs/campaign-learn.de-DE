@@ -23,4 +23,4 @@ ht-degree: 100%
 
 In diesem Video wird beschrieben, wie Sie das Adobe Experience Platform Mobile SDK konfigurieren und installieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326580?quality=12&learn=on&captions=ger){transcript=true}

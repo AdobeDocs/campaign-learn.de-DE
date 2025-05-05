@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Best Practices für die Optimierung der Zustellbarkeit auf Ihre E-Mail-Sendungen anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452012?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den verschiedenen Arten von dynamischem Content vertraut und erfahren Sie, wie Sie Gestaltungsbausteine und bedingte Anweisungen erstellen und auf einen Versand anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452877?quality=12&learn=on&captions=ger){transcript=true}

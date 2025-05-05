@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie der Datenaustausch mit dem SMPP über PDUs erfolgt. Informationen zur Fehlerbehebung bei Verbindungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453420?quality=12&learn=on&captions=ger){transcript=true}

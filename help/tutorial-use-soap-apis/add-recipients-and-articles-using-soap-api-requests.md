@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit der SOAP-API von Campaign einen neuen Empfänger erstellen. Erfahren Sie, wie Sie ein benutzerdefiniertes Artikeldatenschema erstellen und einen Artikel mit der SOAP-API senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/336386?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453541?quality=12&learn=on&captions=ger){transcript=true}
 
 Nächstes Video zum Ansehen: [Schritt 3: Anmelden von Benutzern über SOAP-API](/help/tutorial-use-soap-apis/subscribe-users-via-soap-api.md)

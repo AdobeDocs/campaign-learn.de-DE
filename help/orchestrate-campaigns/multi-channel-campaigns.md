@@ -23,4 +23,4 @@ In einer Multi-Channel-Kampagne verwendet eine Marketing-Kommunikation mehrere K
 
 Erfahren Sie, wie Sie eine Multi-Channel-Kampagne erstellen, indem Sie E-Mail-, SMS- und Briefpost-Sendungen verwenden, basierend auf dem bevorzugten Kanal des Empfängers.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452512?quality=12&learn=on&captions=ger){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Daten mithilfe eines Quell-Connectors in Experience Platform aufnehmen, um die Profildaten mit den exportierten Kampagnenprotokollen zu aktualisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452034?quality=12&learn=on&captions=ger){transcript=true}

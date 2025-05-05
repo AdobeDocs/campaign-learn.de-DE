@@ -22,4 +22,4 @@ ht-degree: 100%
 Erfahren Sie, wie Sie einen Marketing-Plan, ein Programm und eine Kampagne erstellen, Eigenschaften für eine Kampagne festlegen und die Planung verwenden können.
 Das Video führt Sie durch eine Übung, der Sie in Ihrer eigenen Instanz folgen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426473?quality=12&learn=on&captions=ger){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Machen Sie sich mit dem Konzept von Listen in Adobe Campaign vertraut und erfahren Sie, wie Sie mithilfe der Aktivität „Liste aktualisieren“ in einem Workflow eine Liste erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426457?quality=12&learn=on&captions=ger){transcript=true}

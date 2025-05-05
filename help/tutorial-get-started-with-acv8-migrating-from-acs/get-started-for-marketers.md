@@ -23,7 +23,7 @@ Sie können über die Client-Konsole oder die Web-Benutzeroberfläche auf Adobe 
 
 ## Zugriff auf die und Erkunden der Web-Benutzeroberfläche von Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453431?quality=12&learn=on&captions=ger){transcript=true}
 
 1. [Entdecken der Benutzeroberfläche](https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/user-interface)
 2. [Durchsuchen und Filtern von Listen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/list-filters)
@@ -40,13 +40,13 @@ Das allgemeine Konzept zum Erstellen und Verwalten von Zielgruppen in Campaign v
 
 1. Erfahren Sie, wie Sie mit der Campaign-Web-Benutzeroberfläche auf Profile zugreifen, diese verwalten und erkunden.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3448373?quality=12&learn=on&captions=ger){transcript=true}
 
    Weitere Informationen finden Sie unter [Erste Schritte mit Profilen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}.
 
 2. Erfahren Sie, wie Sie Zielgruppen erstellen und verwalten, wie Sie Zielgruppen für einen Versand auswählen und Kontrollgruppen definieren.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453211?quality=12&learn=on&captions=ger){transcript=true}
 
    Weitere Informationen finden Sie unter [Erste Schritte mit Zielgruppen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}.
 
@@ -99,7 +99,7 @@ Verwenden Sie Adobe Campaign Web, um Ihre Dienste wie z. B. Newsletter zu verwal
 
 1. Erfahren Sie, wie Workflows funktionieren und wie Sie einen Zielgruppen-Workflow erstellen.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453981?quality=12&learn=on&captions=ger){transcript=true}
 
 1. [Arbeiten mit Workflow-Aktivitäten](https://experienceleague.adobe.com/de/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Leitlinien und Einschränkungen für Workflows](https://experienceleague.adobe.com/de/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -110,23 +110,23 @@ Verwenden Sie Adobe Campaign Web, um Ihre Dienste wie z. B. Newsletter zu verwal
 
 Hier erfahren Sie, wie Sie einen neuen E-Mail-Versand erstellen, die Zielgruppe definieren, den Inhalt gestalten, eine Vorschau simulieren und einen Testversand durchführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454014?quality=12&learn=on&captions=ger){transcript=true}
 
 1. **Entwerfen und Definieren von Inhalten**
 
    Hier erfahren Sie, wie Sie im E-Mail-Designer navigieren. Erfahren Sie, wie Sie eine E-Mail neu strukturieren und entwerfen und wie Sie Ihre E-Mail personalisieren und testen können.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453574?quality=12&learn=on&captions=ger){transcript=true}
 
    Erfahren Sie, wie Sie eine E-Mail durch Hochladen von HTML erstellen, mit dem E-Mail-Designer kompatibel machen und in eine Vorlage umwandeln.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3447041?quality=12&learn=on&captions=ger){transcript=true}
 
 2. **Vorschau und Test**
 
    Erfahren Sie, wie Sie sich eine Vorschau des Inhalts und der Personalisierung von E-Mail-Nachrichten anzeigen lassen, Testsendungen verschicken und das E-Mail-Rendering in den gängigen Desktop-, Mobile- und Web-basierten Clients überprüfen können.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3450346?quality=12&learn=on&captions=ger){transcript=true}
 
 3. **Senden von E-Mails und Prüfen von Protokollen**
 

@@ -23,4 +23,4 @@ Erläuterung des Konzepts von Profilen. Erfahren Sie, wie Sie auf Profildaten zu
 
 In diesem Video wird auch die Einhaltung der Datenschutz-Grundverordnung (DSGVO) und des California Consumer Privacy Act (CCPA) durch Adobe Campaign erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452100?quality=12&learn=on&captions=ger){transcript=true}

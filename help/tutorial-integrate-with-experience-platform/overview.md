@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Daten zwischen Campaign und Experience Cloud freigeben.
 
->[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441273?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie überprüfen können, ob der Mobile-App-Kanal in Ihrer Instanz installiert ist, und wie Sie ihn installieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340422?quality=12&learn=on&captions=ger){transcript=true}
