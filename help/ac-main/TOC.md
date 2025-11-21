@@ -78,7 +78,7 @@ ht-degree: 96%
       + [Einleitung](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Verwalten von Validierungen](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Konfigurieren von Validierungen für Kampagnen](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Konfigurieren von Validierungen für Sendungen ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Konfigurieren von Validierungen für Sendungen &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Erstellen einer Validierungsaktivität in einem Workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Erfahren Sie mehr von Ihren Kollegen – Best Practices für Workflows](/help/process-management/workflow-best-practices-for-marketers.md)
 + Daten-Management {#data-management}
