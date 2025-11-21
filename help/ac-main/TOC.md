@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -29,12 +29,12 @@ ht-degree: 100%
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Importieren von Profilen](/help/profile-management/import-profiles.md)
    + [Zielgruppenprofile in einem Workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Kampagnenorchestrierung {#campaign-orchestration}
++ Kampagnen-Orchestrierung {#campaign-orchestration}
    + [Ausführen von Kampagnen](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Einführung in Multi- und Cross-Channel-Kampagnen](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Erstellen von Multi-Channel-Kampagnen](/help/orchestrate-campaigns/multi-channel-campaigns.md)
    + [Erstellen von Cross-Channel-Kampagnen](/help/orchestrate-campaigns/cross-channel-campaigns.md)
-+ Content-Erstellung {#content-creation}
++ Inhaltserstellung {#content-creation}
    + E-Mail {#email}
       + [Erstellen und Entwerfen von E-Mail-Sendungen](/help/content-creation/create-and-design-email-deliveries.md)
       + [Konfigurieren von dynamischem Content](/help/content-creation/configure-dynamic-content.md)
@@ -44,7 +44,7 @@ ht-degree: 100%
       + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Konfigurieren von Landingpages](/help/content-creation/configure-landingpages.md)
    + [Erstellen einer Umfrage](/help/content-creation/create-a-survey.md)
-+ Senden von Nachrichten {#sending-messages}
++ Senden von Nachrichten{#sending-messages}
    + E-Mail {#email}
       + [Durchführen und Validieren von Testsendungen für einen E-Mail-Versand](/help/send-messages/email/send-and-validate-proofs.md)
       + [Verwenden von Kontrollgruppen](/help/send-messages/email/use-control-groups.md)
@@ -54,27 +54,27 @@ ht-degree: 100%
       + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
    + SMS {#sms}
       + [Erstellen eines SMS-Versands](/help/send-messages/mobile/create-an-sms-delivery.md)
-   + Push-Benachrichtigung {#push}
+   + Push {#push}
       + [Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
-   + Briefpost {#direct-mail}
+   + Direkt-Mail {#direct-mail}
       + [Erstellen von Briefpost-Sendungen](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
-   + Verwenden von Versandvorlagen {#using-delivery-templates}
+   + Verwenden von Versandvorlagen{#using-delivery-templates}
       + [Konfigurieren von Versandvorlagen](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Festlegen der Eigenschaften von Versandvorlagen](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Bereitstellen einer Ad-hoc-E-Mail-Versandvorlage](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Ermüdungsverwaltung {#fatigue-management}
+   + Ermüdungsverwaltung{#fatigue-management}
       + [Typologieregeln](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vordefinierte Filter](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Konfigurieren und Verwalten von Anmelde-Services](/help/send-messages/configure-and-manage-subscription-services.md)
 + Prozessverwaltung und Automatisierung{#process-management}
    + [Erstellen eines Workflows](/help/process-management/create-a-workflow.md)
    + [Erstellen wiederkehrender und fortlaufender Sendungen](/help/process-management/recurring-deliveries.md)
-   + Zielgruppen-Workflows {#targeting-workflows}
+   + Zielgruppenbestimmungs-Workflows {#targeting-workflows}
       + [Erstellen eines Zielgruppenbestimmungs-Workflows](/help/process-management/create-a-targeting-workflow.md)
       + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + Validierungen und Validierungs-Workflows {#create-approvals-and-validation-workflows}
+   + Genehmigungen und Validierungs-Workflows {#create-approvals-and-validation-workflows}
       + [Einleitung](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Verwalten von Validierungen](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Konfigurieren von Validierungen für Kampagnen](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
@@ -98,13 +98,13 @@ ht-degree: 100%
 + Reporting {#reporting}
    + [Zugriff auf native Berichte](/help/reporting/access-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Monitoring {#monitoring}
++ Monitoring        {#monitoring}
    + [Workflow-Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring/audit-trail.md)
 + Administration {#administration}
    + [Verwalten von Benutzerberechtigungen](/help/administration/manage-user-permissions.md)
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target="_blank"}
    + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
-+ Strategie und Vordenkerposition{#strategy}
++ Strategie und Vordenkerrolle{#strategy}
    + [Zehn Best Practices für den Erfolg mit Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
 + [Tutorials für die Adobe Campaign Web-Benutzeroberfläche](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=de)
