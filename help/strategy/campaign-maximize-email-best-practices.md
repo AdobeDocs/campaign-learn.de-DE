@@ -140,5 +140,5 @@ Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmu
 
 Eine Zusammenfassung des Artikels sowie eine Live-Demo zur Implementierung von Rückgewinnungsstrategien finden Sie in unserem [Webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Erfahren Sie mehr über Strategie und innovatives Denken im [Customer Success](https://experienceleague.adobe.com/en/docs/customer-success/customer-success/overview) Hub.
+Erfahren Sie mehr über Strategie und innovatives Denken im [Customer Success](https://experienceleague.adobe.com/de/docs/customer-success/customer-success/overview) Hub.
 
