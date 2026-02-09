@@ -20,4 +20,4 @@ ht-degree: 10%
 
 Erfahren Sie, wie Sie die Datenquelle einer Workflow-Arbeitstabelle mithilfe der Aktivität „Daten-Source ändern“ ändern können, um Daten in verschiedenen Datenquellen wie FDA, FFDA und lokalen Datenbanken flexibel zu verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449539?captions=ger&quality=12&learn=on){transcript=true}

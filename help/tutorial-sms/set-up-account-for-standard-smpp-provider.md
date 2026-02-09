@@ -19,6 +19,6 @@ ht-degree: 95%
 
 Erfahren Sie, wie Sie mit Adobe Campaign ein SMPP-Konto einrichten, Ergebnisse des SMS-Versands analysieren und die SR-Verarbeitung an die Spezifikationen Ihres SMPP-Providers anpassen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454249?captions=ger&quality=12&learn=on){transcript=true}
 
 Siehe [SMS-Connector-Protokoll und Einstellungen](https://experienceleague.adobe.com/de/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol), um weitere Informationen zum SMPP-Protokoll sowie Details zu externen Kontoeinstellungen bzw. zur Fehlerbehebung bei häufigen Problemen zu erhalten.

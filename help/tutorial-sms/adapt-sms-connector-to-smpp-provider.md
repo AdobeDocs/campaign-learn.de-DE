@@ -19,6 +19,6 @@ ht-degree: 40%
 
 Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Optimieren Sie Ihre SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen. Erfahren Sie, wie Sie den maximalen Durchsatz, das Übertragungsfenster und die Verschlüsselung mit TLS einrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453887?captions=ger&quality=12&learn=on){transcript=true}
 
 Siehe [SMS-Connector-Protokoll und Einstellungen](https://experienceleague.adobe.com/de/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol), um weitere Informationen zum SMPP-Protokoll sowie Details zu externen Kontoeinstellungen bzw. zur Fehlerbehebung bei häufigen Problemen zu erhalten.
