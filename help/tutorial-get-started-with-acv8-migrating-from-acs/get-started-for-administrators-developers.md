@@ -5,10 +5,10 @@ role: Admin, Developer
 level: Beginner, Experienced
 jira: KT-15787
 exl-id: 29e7cde2-a611-41f8-aa7b-c05be0b53313
-source-git-commit: cab85f4ddd0ae2961b6daaa105b6e5bae428de1b
+source-git-commit: 6f1adb374b7b7066bc2613d30d04d09c9e38f42e
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 100%
+source-wordcount: '326'
+ht-degree: 61%
 
 ---
 
@@ -18,7 +18,7 @@ Dieses Tutorial bietet einen Überblick über die wichtigsten Verwaltungs- und D
 
 ## Verstehen der Architektur von Campaign v8
 
-Sehen Sie sich [Erste Schritte mit der Architektur von Campaign](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"} an, um die Architektur von Campaign zu verstehen, bevor Sie mit der Strukturierung und Organisation Ihrer Instanz beginnen.
+Siehe [Erste Schritte mit der Campaign-](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"}), um die Campaign-Architektur zu verstehen, bevor Sie mit der Strukturierung und Organisation Ihrer Instanz beginnen.
 
 
 ## Installieren der Client-Konsole
@@ -31,19 +31,25 @@ Weitere Informationen finden Sie unter [Herstellen einer Verbindung mit Campaign
 
 ## Einrichten und Verwalten des Zugriffs
 
-Mit Adobe Campaign können Sie die den Benutzenden zugewiesenen Rechte definieren und verwalten:
+1. **[Erste Schritte mit Berechtigungen in Campaign v8.](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+Erfahren Sie mehr über das allgemeine Berechtigungsmodell: Benutzer, Benutzergruppen (Rollen), spezifische Berechtigungen und Ordnerberechtigungen.
 
-* Zugriff auf bestimmte Fähigkeiten
-* Zugriff auf bestimmte Daten
-* Zugriff auf bestimmte Aktionen (Erstellen, Ändern, Löschen)
+2. Erfahren Sie, wie Sie Benutzerberechtigungen in der Client-Konsole verwalten. Weitere Informationen zu
 
-  Weitere Informationen finden Sie unter [Verwalten von Benutzerberechtigungen](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}.
+   * Hinzufügen von Benutzern über Admin Console
+   * Produktprofile einrichten
+   * Benutzergruppen erstellen und spezifische Berechtigungen zuweisen
+   * Zuordnen von Produktprofilen ⇄ Benutzergruppen
+
+>[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+
+Eine [ Anleitung ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} Schritt für Schritt finden Sie in der Produktdokumentation .
 
 ## Konfigurieren Ihrer Instanz
 
-* Lesen Sie die [Leitlinien für die Implementierung von Campaign](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}, um zu erfahren, wie Sie Adobe Campaign an die Anforderungen Ihres Unternehmens anpassen und Ihre Implementierung strukturieren und organisieren können.
+* Lesen Sie die [Implementierungsrichtlinien für Campaign](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}, um zu erfahren, wie Sie Adobe Campaign an die Anforderungen Ihres Unternehmens anpassen und Ihre Implementierung strukturieren und organisieren können.
 * [Kanal hier einrichten](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Konfiguration von Experience Cloud Triggers](https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* [Experience Cloud Trigger-Konfiguration](https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## Bereitstellung
 
@@ -55,7 +61,7 @@ Mit Adobe Campaign können Sie die den Benutzenden zugewiesenen Rechte definiere
 
 Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452603?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
 
 
 ### Erstellen und Erweitern eines Schemas
