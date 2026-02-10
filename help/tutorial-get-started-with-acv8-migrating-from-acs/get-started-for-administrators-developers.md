@@ -61,7 +61,7 @@ Eine [&#x200B; Anleitung &#x200B;](https://experienceleague.adobe.com/de/docs/ca
 
 Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452603?captions=ger&quality=12&learn=on){transcript=true}
 
 
 ### Erstellen und Erweitern eines Schemas
