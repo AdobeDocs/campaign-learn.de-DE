@@ -43,7 +43,7 @@ Erfahren Sie mehr über das allgemeine Berechtigungsmodell: Benutzer, Benutzergr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-Eine [ Anleitung ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} Schritt für Schritt finden Sie in der Produktdokumentation .
+Eine [&#x200B; Anleitung &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} Schritt für Schritt finden Sie in der Produktdokumentation .
 
 ## Konfigurieren Ihrer Instanz
 
