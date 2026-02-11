@@ -138,4 +138,4 @@ Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmu
 
 * **Testen und Lernen** – Sie benötigen einen guten Testplan um sicherzustellen, dass Ihre Bemühungen die gewünschte Wirkung zeigen. Finden Sie heraus, was funktioniert und was nicht, und handeln Sie entsprechend.
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Perspectives](https://experienceleague.adobe.com/en/perspectives).
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Perspectives](https://experienceleague.adobe.com/de/perspectives).
