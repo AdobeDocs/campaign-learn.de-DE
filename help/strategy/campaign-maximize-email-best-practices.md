@@ -6,10 +6,10 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
-ht-degree: 91%
+source-wordcount: '1461'
+ht-degree: 90%
 
 ---
 
@@ -138,7 +138,4 @@ Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmu
 
 * **Testen und Lernen** – Sie benötigen einen guten Testplan um sicherzustellen, dass Ihre Bemühungen die gewünschte Wirkung zeigen. Finden Sie heraus, was funktioniert und was nicht, und handeln Sie entsprechend.
 
-Eine Zusammenfassung des Artikels sowie eine Live-Demo zur Implementierung von Rückgewinnungsstrategien finden Sie in unserem [Webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
-
-Erfahren Sie mehr über Strategie und innovatives Denken im [Customer Success](https://experienceleague.adobe.com/de/docs/customer-success/customer-success/overview) Hub.
-
+Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Perspectives](https://experienceleague.adobe.com/en/perspectives).
