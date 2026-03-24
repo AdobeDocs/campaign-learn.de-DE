@@ -44,7 +44,7 @@ Erfahren Sie, wie Sie mit der Campaign-Web-Benutzeroberfläche auf Profile zugre
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
 
-Weitere Informationen [ Sie unter ](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} mit Profilen .
+Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} mit Profilen .
 
 #### Zielgruppen
 
@@ -52,7 +52,7 @@ Erfahren Sie, wie Sie Zielgruppen erstellen und verwalten, wie Sie Zielgruppen f
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
 
-Weitere Informationen [ Sie unter „Erste Schritte ](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} Audiences“.
+Weitere Informationen [&#x200B; Sie unter „Erste Schritte &#x200B;](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} Audiences“.
 
 ### Testprofile
 
