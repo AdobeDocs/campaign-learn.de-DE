@@ -7,15 +7,15 @@ level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
 source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
-workflow-type: tm+mt
-source-wordcount: '1461'
-ht-degree: 90%
+workflow-type: ht
+source-wordcount: '1474'
+ht-degree: 100%
 
 ---
 
 # E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten
 
-E-Mail-Marketing ist ein wertvolles Werkzeug für die Entwicklung von Markentreue und Steigerung von Umsätzen. Angesichts der hohen Zahl von E-Mails, die Menschen täglich erhalten - von anderen digitalen Inhalten, die sie konsumieren, ganz zu schweigen -, ist es jedoch wichtig, dass sich Ihre Inhalte von der Masse abheben. Außerdem müssen Sie darauf achten, dass der Content den individuellen Bedürfnissen Ihrer Zielgruppe entspricht.
+E-Mail-Marketing ist ein wertvolles Werkzeug für die Entwicklung von Markentreue und Steigerung von Umsätzen. Aufgrund der hohen Zahl von E-Mails, die Menschen täglich erhalten – von anderen digitalen Inhalten, die sie konsumieren, ganz zu schweigen –, ist es jedoch wichtig, dass sich Ihr Content von der Masse abhebt. Außerdem müssen Sie darauf achten, dass der Content den individuellen Bedürfnissen Ihrer Zielgruppe entspricht.
 
 In diesem Artikel stellen wir Ihnen vier Strategien vor, mit denen Sie die Interaktion mit Abonnentinnen und Abonnenten und den Gesamterfolg Ihrer E-Mail-Kampagnen verbessern können. Zudem erörtern wir Ermüdung durch zu viele E-Mails und wie Sie das in Ihren Zielgruppen erkennen können. Anschließend beschreiben wir einfache Maßnahmen, die Sie zur Verbesserung des Abonnentenerlebnisses ergreifen können.
 
@@ -27,7 +27,7 @@ Wie genau verfolgt Ihr Unternehmen die Zustellbarkeit Ihrer E-Mail-Kampagnen? Un
 
 ## Spam-Filter
 
-Bevor Sie sich mit der Strategie befassen, sollten Sie häufige Probleme im Zusammenhang mit Spam-Filtern kennen, die sich auf die Ergebnisse Ihrer Kampagnen auswirken können. Wenn Sie weiterhin E-Mails an inaktive Abonnentinnen und Abonnenten senden, die Ihre E-Mails seit mehr als einem Jahr nicht mehr öffnen, können Sie mit folgenden Herausforderungen konfrontiert sein:
+Bevor Sie sich mit der Strategie befassen, sollten Sie häufige Probleme im Zusammenhang mit Spam-Filtern kennen, die sich auf die Ergebnisse Ihrer Kampagnen auswirken können. Wenn Sie weiter E-Mails an inaktive Abonnentinnen und Abonnenten senden, die Ihre E-Mails seit mehr als einem Jahr nicht mehr öffnen, können Sie mit folgenden Herausforderungen konfrontiert sein:
 
 * Sperrlisten und Zulassungslisten
 * Inhaltsfilter
@@ -38,7 +38,7 @@ Bevor Sie sich mit der Strategie befassen, sollten Sie häufige Probleme im Zusa
 
 ## Maximieren Sie Ihren E-Mail-ROI
 
-Wussten Sie, dass im Internet in nur einer Minute über eine Million Videoansichten, zwei Millionen Google-Suchanfragen, sechs Millionen Facebook-Aufrufe und 200 Millionen E-Mails versendet werden? Darum müssen Sie dafür sorgen, dass Ihre Inhalte nicht im Lärm untergehen. Wenn Sie zum Beispiel eine Kampagne während der Vorweihnachtszeit erstellen, wird es noch schwerer, Ihre E-Mails vor die Augen potenzieller und wiederkehrender Kundinnen und Kunden zu bekommen.
+Wussten Sie, dass im Internet in nur einer Minute über eine Million Videoansichten, zwei Millionen Google-Suchanfragen und sechs Millionen Facebook-Aufrufe stattfinden sowie 200 Millionen E-Mails versendet werden? Darum müssen Sie dafür sorgen, dass Ihre Inhalte nicht im Lärm untergehen. Wenn Sie zum Beispiel eine Kampagne während der Vorweihnachtszeit erstellen, wird es noch schwerer, Ihre E-Mails vor die Augen potenzieller und wiederkehrender Kundinnen und Kunden zu bekommen.
 
 Von November bis Anfang Januar nimmt das Volumen der gesendeten Marketing-E-Mails dramatisch zu. Provider von Posteingängen (ISPs) haben wesentlich mehr Traffic auf ihren Servern als im Rest des Jahres und achten daher noch genauer auf den Schutz ihrer Kundinnen und Kunden (sprich: Ihrer Abonnentinnen und Abonnenten).
 
@@ -68,10 +68,10 @@ Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kenn
    * Wie oft werden Sie E-Mails senden (täglich, wöchentlich, monatlich)?
 
 * Schicken Sie eine Begrüßungs-E-Mail an neue Abonnentinnen und Abonnenten:
-   * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnentinnen und Abonnenten unvorbereitet sind und sich gleich wieder abmelden bzw. als Spam markieren.
+   * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnentinnen und Abonnenten unvorbereitet sind und sich gleich wieder abmelden bzw. Nachrichten als Spam markieren.
    * Außerdem dienen Begrüßungs-E-Mails als guter Indikator für die Performance. Wenn sie nicht erfolgreich zugestellt werden oder kaum Interaktion mit ihnen stattfindet, wissen Sie, dass das ein Zeichen für mangelhafte Performance oder eine schlechte Datenerfassung ist.
 
-### &#x200B;4. E-Mail-Verwaltung
+### &#x200B;4. E-Mail-Management
 
 * Segmentieren Sie Ihre Abonnentinnen und Abonnenten und überwachen Sie, wo im Lebenszyklus Ihrer Marke sie sich befinden.
 * Nutzen Sie Strategien zur Personalisierung von Inhalten, um die Relevanz Ihrer E-Mails zu erhöhen.
@@ -86,11 +86,11 @@ Zu den zu überwachenden Schlüsselmetriken gehören:
 * Niedrigere Klickraten
 * Höhere Abmelderaten
 
-Leider werden es Ihnen die meisten Abonnentinnen und Abonnenten, die an Ermüdung leiden, nicht leicht machen. Sie werden sich nicht selbst abmelden, ein klares Zeichen, dass sie mit dem Inhalt nicht zufrieden sind. Vielmehr werden viele Abonnentinnen und Abonnenten Ihre E-Mails einfach löschen oder ignorieren, sodass Sie ggf. weiterhin Öffnungen von Abonnentinnen und Abonnenten sehen, die eigentlich kein Interesse mehr haben. Fazit: Wenn Sie nicht auf sich ändernde Gewohnheiten Ihrer Abonnentinnen und Abonnenten reagieren, kann das Ihrer Reputation als Absender schaden, was letztendlich den Gesamterfolg beeinträchtigt.
+Leider werden es Ihnen die meisten Abonnentinnen und Abonnenten, die an Ermüdung leiden, nicht leicht machen. Sie werden ihre Abonnements nicht selbst kündigen (ein klares Zeichen dafür, dass sie mit dem Inhalt nicht zufrieden sind). Vielmehr werden viele Abonnentinnen und Abonnenten Ihre E-Mails einfach löschen oder ignorieren, sodass Sie ggf. weiterhin Öffnungen von Abonnentinnen und Abonnenten sehen, die eigentlich kein Interesse mehr haben. Fazit: Wenn Sie nicht auf sich ändernde Gewohnheiten Ihrer Abonnentinnen und Abonnenten reagieren, kann das Ihrer Reputation als Absender schaden, was letztendlich den Gesamterfolg beeinträchtigt.
 
 In dem Zusammenhang gibt es einige Best Practices, mit denen Sie Abonnentinnen und Abonnenten an sich binden und vorhersagen können, welche Art von Content sie erhalten möchten. So lassen sich Abmeldungen und inaktive Zielgruppen vermeiden.
 
-### &#x200B;1. Erstellen einer Strategie für E-Mail-Häufigkeit.
+### &#x200B;1. Erstellen einer Strategie für E-Mail-Häufigkeit
 
 Leider gibt es keine richtige Antwort auf die Frage, wie viele E-Mails pro Woche in Ordnung sind. Berücksichtigen Sie beim Ermitteln der richtigen Häufigkeit folgende Aspekte:
 
@@ -138,4 +138,4 @@ Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmu
 
 * **Testen und Lernen** – Sie benötigen einen guten Testplan um sicherzustellen, dass Ihre Bemühungen die gewünschte Wirkung zeigen. Finden Sie heraus, was funktioniert und was nicht, und handeln Sie entsprechend.
 
-Erfahren Sie mehr über Strategie und Gedankenführung auf dem [Perspectives](https://experienceleague.adobe.com/de/perspectives).
+Erfahren Sie mehr über Strategie und innovatives Denken im [Perspectives](https://experienceleague.adobe.com/de/perspectives) Hub.

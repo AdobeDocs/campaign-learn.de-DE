@@ -6,9 +6,9 @@ level: Beginner, Experienced
 jira: KT-15788
 exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
 source-git-commit: 06103a19174734f33761f05c19fd080ae5a9ca96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2242'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ Sie können über die Client-Konsole oder die Web-Benutzeroberfläche auf Adobe 
 
 ## Zugriff auf die und Erkunden der Web-Benutzeroberfläche von Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/3453431?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
 
 * [Erkunden der Benutzeroberfläche](https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/user-interface)
-* [Liste durchsuchen und filtern](https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/list-filters)
+* [Durchsuchen und Filtern von Listen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/start/list-filters)
 
 ## Hilfe und Anleitung
 
@@ -42,17 +42,17 @@ Das allgemeine Konzept zum Erstellen und Verwalten von Zielgruppen in Campaign v
 
 Erfahren Sie, wie Sie mit der Campaign-Web-Benutzeroberfläche auf Profile zugreifen, diese verwalten und erkunden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448373?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
 
-Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} mit Profilen .
+Weitere Informationen finden Sie unter [Erste Schritte mit Profilen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}.
 
 #### Zielgruppen
 
 Erfahren Sie, wie Sie Zielgruppen erstellen und verwalten, wie Sie Zielgruppen für einen Versand auswählen und Kontrollgruppen definieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453211?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
 
-Weitere Informationen [&#x200B; Sie unter „Erste Schritte &#x200B;](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} Audiences“.
+Weitere Informationen finden Sie unter [Erste Schritte mit Zielgruppen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}.
 
 ### Testprofile
 
@@ -77,7 +77,7 @@ Verwenden Sie Adobe Campaign Web, um Ihre Dienste wie z. B. Newsletter zu verwal
 <img alt="Gelegentlich" src="_assets/workflow-activities.jpeg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers"><strong>Verwalten von Abonnentinnen und Abonnenten<strong></strong></a>
+<a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers"><strong>Verwalten von Abonnierenden<strong></strong></a>
 </div>
 <p></td>
 <td>
@@ -99,14 +99,14 @@ Verwenden Sie Adobe Campaign Web, um Ihre Dienste wie z. B. Newsletter zu verwal
 
 ### Erste Schritte mit Kampagnen
 
-Weitere Informationen finden Sie in der Produktdokumentation zum mit [Kampagnen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/campaigns/gs-campaigns)
+Weitere Informationen finden Sie in der Produktdokumentation zu [Kampagnen](https://experienceleague.adobe.com/de/docs/campaign-web/v8/campaigns/gs-campaigns)
 
 
 ### Erstellen eines Workflows
 
 1. Erfahren Sie, wie Workflows funktionieren und wie Sie einen Zielgruppen-Workflow erstellen.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3453981?captions=ger&quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
 1. [Arbeiten mit Workflow-Aktivitäten](https://experienceleague.adobe.com/de/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Schutzmechanismen und Begrenzungen für Workflows](https://experienceleague.adobe.com/de/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -117,31 +117,31 @@ Weitere Informationen finden Sie in der Produktdokumentation zum mit [Kampagnen]
 
 Hier erfahren Sie, wie Sie einen neuen E-Mail-Versand erstellen, die Zielgruppe definieren, den Inhalt gestalten, eine Vorschau simulieren und einen Testversand durchführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454014?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
 
-#### &#x200B;1. Inhalte entwerfen und definieren
+#### &#x200B;1. Entwerfen und Definieren von Inhalten
 
 Hier erfahren Sie, wie Sie im E-Mail-Designer navigieren. Erfahren Sie, wie Sie eine E-Mail neu strukturieren und entwerfen und wie Sie Ihre E-Mail personalisieren und testen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453574?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
 
 Erfahren Sie, wie Sie eine E-Mail durch Hochladen von HTML erstellen, mit dem E-Mail-Designer kompatibel machen und in eine Vorlage umwandeln.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447041?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
 
-#### &#x200B;2. Vorschau und Test
+#### &#x200B;2. Vorschau und Tests
 
 Erfahren Sie, wie Sie sich eine Vorschau des Inhalts und der Personalisierung von E-Mail-Nachrichten anzeigen lassen, Testsendungen verschicken und das E-Mail-Rendering in den gängigen Desktop-, Mobile- und Web-basierten Clients überprüfen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450346?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
 
-#### &#x200B;3. E-Mail senden und Protokolle überprüfen
+#### &#x200B;3. Senden von E-Mails und Prüfen von Protokollen
 
 <!--
 CARDS
-   * https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/monitor/prepare-send
-   * https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/monitor/schedule-sending
-   * https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/monitor/delivery-logs
+   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send
+   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending
+   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -150,7 +150,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="Planen des Sendevorgangs eines Versands" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Planen des Sendevorgangs eines Versands"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Planen des Sendevorgangs eines Versands"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -173,7 +173,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/monitor/delivery-logs" title="Überwachen von Versandlogs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="Überwachen von Versandlogs"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="Überwachen von Versandlogs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -210,7 +210,7 @@ CARDS
 <img alt="Gelegentlich" src="_assets/design_sms.png">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/sms/content-sms"><strong>Gestalten eines SMS-Versands<strong></strong></a>
+<a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/sms/content-sms"><strong>Entwerfen eines SMS-Versands<strong></strong></a>
 </div>
 <p></td>
 <td>
@@ -258,7 +258,7 @@ Adobe Campaign v8 unterstützt sowohl Android™ als auch iOS Push Channel. Für
 ### Briefpost
 
 1. [Erstellen eines Briefpostversands](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
-2. [Inhalt definieren](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"}
+2. [Definieren von Inhalten](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"}
 3. [Vorschau und Senden](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"}
 
 ### Best Practices für den Versand
@@ -301,11 +301,11 @@ Adobe Campaign v8 unterstützt sowohl Android™ als auch iOS Push Channel. Für
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/personalize
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/conditions
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/offers
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -314,7 +314,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/personalize" title="Personalisieren von Inhalten in Campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Personalisieren von Inhalten in Campaign"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Personalisieren von Inhalten in Campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -322,7 +322,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" title="Personalisieren von Inhalten in Campaign">Personalisieren Ihres Inhalts in Campaign</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" title="Personalisieren von Inhalten in Campaign">Personalisieren von Inhalten in Campaign</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Inhalte in Adobe Campaign Web personalisieren</p>
                 </div>
@@ -337,7 +337,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/conditions" title="Bedingte Inhalte erstellen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="Bedingte Inhalte erstellen"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="Bedingte Inhalte erstellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -360,7 +360,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" title="Arbeiten mit Inhaltsvorlagen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="Arbeiten mit Inhaltsvorlagen"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="Arbeiten mit Inhaltsvorlagen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -383,7 +383,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments" title="Erste Schritte mit Inhaltsfragmenten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="Erste Schritte mit Inhaltsfragmenten"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="Erste Schritte mit Inhaltsfragmenten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -406,7 +406,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/offers" title="Hinzufügen von Angeboten in Ihren Nachrichten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="Hinzufügen von Angeboten in Ihren Nachrichten"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="Hinzufügen von Angeboten in Ihren Nachrichten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -414,7 +414,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/offers" target="_blank" rel="referrer" title="Hinzufügen von Angeboten in Ihren Nachrichten">Hinzufügen von Angeboten in Ihren Nachrichten</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/offers" target="_blank" rel="referrer" title="Hinzufügen von Angeboten in Ihren Nachrichten">Hinzufügen von Angeboten in Nachrichten</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Angebote hinzufügen und senden</p>
                 </div>
@@ -435,17 +435,17 @@ CARDS
 
 ## Reporting
 
-Adobe Campaign bietet drei verschiedene Typen von [Standardberichten](https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/gs-reports):
+Adobe Campaign bietet drei unterschiedliche Arten von [Standardberichten](https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/gs-reports):
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
 {title = Delivery Reports}
 {description = Offer a thorough analysis of each delivery's performance, per channel: success rates, audience engagement, and other essential metrics. They allow you to evaluate the overall effectiveness and impact of your campaign.}
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
 {title = Campaign Reports}
 {description = Provide detailed information on the performance, effectiveness, and outcomes of your individual deliveries, providing you with a comprehensive overview.}
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
 {title = Global Reports}
 {description = Offer a consolidated overall summary of traffic and engagement metrics for each channel within your Campaign instance. These reports consist of various widgets, each offering a distinct perspective on your campaign or delivery performance.}
 -->
@@ -456,7 +456,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" title="Versandberichte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="Versandberichte"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="Versandberichte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -479,7 +479,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" title="Kampagnenberichte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="Kampagnenberichte"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="Kampagnenberichte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -501,8 +501,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" title="Globale Berichte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="Globale Berichte"
+                    <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" title="Allgemeine Berichte" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="Allgemeine Berichte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -510,7 +510,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" title="Globale Berichte">Globale Berichte</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" title="Allgemeine Berichte">Allgemeine Berichte</a>
                     </p>
                     <p class="is-size-6">Bieten Ihnen eine konsolidierte Gesamtübersicht über die Traffic- und Interaktionsmetriken für jeden Kanal innerhalb Ihrer Campaign-Instanz. Diese Berichte bestehen aus verschiedenen Widgets, von denen jedes einen bestimmten Blickwinkel auf Ihre Kampagnen- oder Versandleistung bietet.</p>
                 </div>
@@ -529,8 +529,8 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/integrations/aem-assets
-* https://experienceleague.adobe.com/de/docs/campaign-web/v8/integrations/aem-content
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets
+* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -539,7 +539,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/integrations/aem-assets" title="Verwalten von Assets mit Adobe Experience Manager Assets as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Verwalten von Assets mit Adobe Experience Manager Assets as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Verwalten von Assets mit Adobe Experience Manager Assets as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -562,7 +562,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign-web/v8/integrations/aem-content" title="Verwalten von Assets mit Adobe Experience Manager as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Verwalten von Assets mit Adobe Experience Manager as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Verwalten von Assets mit Adobe Experience Manager as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -590,10 +590,10 @@ Die folgenden Integrationen sind über die Adobe Campaign-Client-Konsole verfüg
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-aa
-* https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
-* https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-at
-* https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-triggers
+* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa
+* https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
+* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at
+* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -602,7 +602,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-aa" title="Arbeiten mit Campaign und Adobe Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Arbeiten mit Campaign und Adobe Analytics"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Arbeiten mit Campaign und Adobe Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -633,7 +633,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud" target="_blank" rel="referrer" title="Freigabe von Zielgruppen mit Adobe Experience Cloud">Freigabe von Zielgruppen mit Adobe Experience Cloud</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud" target="_blank" rel="referrer" title="Freigabe von Zielgruppen mit Adobe Experience Cloud">Freigeben von Zielgruppen mit Adobe Experience Cloud</a>
                     </p>
                     <p class="is-size-6">Freigabe von Zielgruppen mit Adobe Experience Cloud</p>
                 </div>
@@ -648,7 +648,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-at" title="Campaign und Adobe Target verwenden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Campaign und Adobe Target verwenden"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Campaign und Adobe Target verwenden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -679,7 +679,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-triggers" target="_blank" rel="referrer" title="Arbeiten mit Campaign und Adobe Experience Cloud Triggers">Arbeiten mit Campaign- und Adobe Experience Cloud-Triggern </a>
+                        <a href="https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/connect/ac-triggers" target="_blank" rel="referrer" title="Arbeiten mit Campaign und Adobe Experience Cloud Triggers">Arbeiten mit Campaign und Adobe Experience Cloud-Triggern</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Campaign und Adobe Experience Cloud Triggers gemeinsam verwenden können</p>
                 </div>

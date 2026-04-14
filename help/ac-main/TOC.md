@@ -6,9 +6,9 @@ user-guide-description: Erfahren Sie, wie Sie die Funktionen der Client-Konsole 
 breadcrumb-title: Client-Konsole – Tutorials
 auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
-workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 96%
+workflow-type: ht
+source-wordcount: '496'
+ht-degree: 100%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 96%
    + Push {#push}
       + [Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
-   + Direkt-Mail {#direct-mail}
+   + Briefpost {#direct-mail}
       + [Erstellen von Briefpost-Sendungen](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Verwenden von Versandvorlagen{#using-delivery-templates}
       + [Konfigurieren von Versandvorlagen](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
@@ -70,15 +70,15 @@ ht-degree: 96%
 + Prozessverwaltung und Automatisierung{#process-management}
    + [Erstellen eines Workflows](/help/process-management/create-a-workflow.md)
    + [Erstellen wiederkehrender und fortlaufender Sendungen](/help/process-management/recurring-deliveries.md)
-   + Zielgruppenbestimmungs-Workflows {#targeting-workflows}
-      + [Erstellen eines Zielgruppenbestimmungs-Workflows](/help/process-management/create-a-targeting-workflow.md)
+   + Zielgruppen-Workflows {#targeting-workflows}
+      + [Erstellen eines Zielgruppen-Workflows](/help/process-management/create-a-targeting-workflow.md)
       + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Genehmigungen und Validierungs-Workflows {#create-approvals-and-validation-workflows}
       + [Einleitung](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Verwalten von Validierungen](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Konfigurieren von Validierungen für Kampagnen](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Konfigurieren von Validierungen für Sendungen &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Konfigurieren von Validierungen für Sendungen](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Erstellen einer Validierungsaktivität in einem Workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Erfahren Sie mehr von Ihren Kollegen – Best Practices für Workflows](/help/process-management/workflow-best-practices-for-marketers.md)
 + Daten-Management {#data-management}
@@ -98,7 +98,7 @@ ht-degree: 96%
 + Reporting {#reporting}
    + [Zugriff auf native Berichte](/help/reporting/access-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Monitoring        {#monitoring}
++ Monitoring {#monitoring}
    + [Workflow-Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring/audit-trail.md)
 + Administration {#administration}

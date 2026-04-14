@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -30,6 +30,6 @@ Eine Vorlage kann systematisch Folgendes enthalten:
 * Content, Firmenlogo oder Signatur
 * Andere Versandeigenschaften wie Ressourcenvalidität, Batch-Mengen usw.
 
-Das folgende Video zeigt, wie Sie eine Vorlage für einen Ad-hoc-Versand konfigurieren.
+Das folgende Video zeigt, wie man eine Vorlage für einen Ad-hoc-Versand konfiguriert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409820?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}

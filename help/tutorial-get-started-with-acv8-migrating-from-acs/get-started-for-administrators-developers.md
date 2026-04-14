@@ -6,9 +6,9 @@ level: Beginner, Experienced
 jira: KT-15787
 exl-id: 29e7cde2-a611-41f8-aa7b-c05be0b53313
 source-git-commit: 6f1adb374b7b7066bc2613d30d04d09c9e38f42e
-workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 61%
+workflow-type: ht
+source-wordcount: '402'
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ Dieses Tutorial bietet einen Überblick über die wichtigsten Verwaltungs- und D
 
 ## Verstehen der Architektur von Campaign v8
 
-Siehe [Erste Schritte mit der Campaign-](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"}), um die Campaign-Architektur zu verstehen, bevor Sie mit der Strukturierung und Organisation Ihrer Instanz beginnen.
+Unter [Erste Schritte mit der Architektur von Campaign](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} können Sie sich mit der Architektur von Campaign vertraut machen, bevor Sie mit der Strukturierung und Organisation Ihrer Instanz beginnen.
 
 
 ## Installieren der Client-Konsole
@@ -32,28 +32,28 @@ Weitere Informationen finden Sie unter [Herstellen einer Verbindung mit Campaign
 ## Einrichten und Verwalten des Zugriffs
 
 1. **[Erste Schritte mit Berechtigungen in Campaign v8.](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
-Erfahren Sie mehr über das allgemeine Berechtigungsmodell: Benutzer, Benutzergruppen (Rollen), spezifische Berechtigungen und Ordnerberechtigungen.
+Erfahren Sie mehr über das allgemeine Berechtigungsmodell: Benutzende, Benutzergruppen (Rollen), spezifische Berechtigungen und Ordnerberechtigungen.
 
-2. Erfahren Sie, wie Sie Benutzerberechtigungen in der Client-Konsole verwalten. Weitere Informationen zu
+2. Erfahren Sie, wie Sie Benutzerberechtigungen in der Client-Konsole verwalten. Weitere Informationen zu:
 
-   * Hinzufügen von Benutzern über Admin Console
-   * Produktprofile einrichten
-   * Benutzergruppen erstellen und spezifische Berechtigungen zuweisen
+   * Hinzufügen von Benutzenden in der Admin Console
+   * Einrichten von Produktprofilen
+   * Erstellen von Benutzergruppen und Zuweisen spezifischer Berechtigungen
    * Zuordnen von Produktprofilen ⇄ Benutzergruppen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-Eine [&#x200B; Anleitung &#x200B;](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} Schritt für Schritt finden Sie in der Produktdokumentation .
+Eine ausführliche Schritt-für-Schritt-Anleitung finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}.
 
 ## Konfigurieren Ihrer Instanz
 
-* Lesen Sie die [Implementierungsrichtlinien für Campaign](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}, um zu erfahren, wie Sie Adobe Campaign an die Anforderungen Ihres Unternehmens anpassen und Ihre Implementierung strukturieren und organisieren können.
-* [Kanal hier einrichten](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Experience Cloud Trigger-Konfiguration](https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* Lesen Sie die [Implementierungsrichtlinien für Campaign](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}, um zu erfahren, wie Sie Adobe Campaign an die Anforderungen Ihres Unternehmens anpassen und Ihre Implementierung strukturieren und organisieren.
+* [Kanaleinrichtung hier](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [Experience Cloud-Trigger](https://experienceleague.adobe.com/de/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## Bereitstellung
 
-* [Package-Import/-Export](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/developer/packages){target="_blank"}
+* [Importieren/Exportieren von Paketen](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/developer/packages){target="_blank"}
 
 ## Daten-Management
 
@@ -61,7 +61,7 @@ Eine [&#x200B; Anleitung &#x200B;](https://experienceleague.adobe.com/de/docs/ca
 
 Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452603?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
 
 
 ### Erstellen und Erweitern eines Schemas

@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
 source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
-workflow-type: tm+mt
-source-wordcount: '368'
+workflow-type: ht
+source-wordcount: '406'
 ht-degree: 100%
 
 ---
@@ -50,7 +50,7 @@ Siehe
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-    <strong>Marketing-Plan erstellen</strong>
+    <strong>Erstellen eines Marketing-Plans</strong>
     </a>
     </div>
     <p>
@@ -67,7 +67,7 @@ Siehe
     </a>
     </div>
     <p>
-    <em>Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und erfahren Sie, wie Sie E-Mail-Inhalte gestalten und personalisieren können.
+    <em>Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und erfahren Sie, wie Sie E-Mail-Inhalte gestalten und personalisieren.
 </em>
     <p>
   </td>
@@ -77,7 +77,7 @@ Siehe
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>Ermüdungsverwaltung mithilfe von Typologieregeln</strong>
+    <strong>Verwalten von Ermüdung mit Typologieregeln</strong>
     </a>
     </div>
     <p>
@@ -106,8 +106,8 @@ Siehe
     </a>
      <div>
       <a href="./data-management/data-management-fundamentals.md">
-    <strong>Grundlagen des Daten-Managements mit Workflows</strong>
-    </a>
+    <strong>Grundlagen des Daten-Managements mit Workflows</strong>
+    </a>
     </div>
     <p>
     <em>Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.</em>

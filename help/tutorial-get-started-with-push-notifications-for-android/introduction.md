@@ -11,8 +11,8 @@ level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '314'
+workflow-type: ht
+source-wordcount: '331'
 ht-degree: 100%
 
 ---
@@ -31,15 +31,15 @@ Bevor Sie beginnen, benötigen Sie Folgendes:
 
    Eine ausführliche Beschreibung der erforderlichen Schritte finden Sie in der Produktdokumentation:
 
-   [Integration des Campaign SDK in Mobile Apps](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=de)
+   [Integration des Campaign SDK in die App](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=de)
 
 2) Installiertes **[!DNL Mobile App channel]-Paket**
 
-   Das [!DNL Mobile App channel]-Paket muss in Ihrer [!DNL Campaign]-Instanz installiert sein. Im folgenden Video wird erläutert, wie Sie überprüfen können, ob [!DNL Mobile App channel] in Ihrer Instanz installiert ist, und wie Sie eine Installation durchführen können, falls dies nicht der Fall ist.
+   Das [!DNL Mobile App channel]-Paket muss in Ihrer [!DNL Campaign]-Instanz installiert sein. Im folgenden Video wird erläutert, wie Sie überprüfen können, ob [!DNL Mobile App channel] in Ihrer Instanz installiert ist, und wie Sie diese installieren können, falls dies nicht der Fall ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/340422?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-## Tutorial-Überblick
+## Tutorial-Übersicht
 
 Das Ziel ist es, den Abonnenten der [!DNL Neotrip]-[!DNL Android™]-Mobile-App zu Werbezwecken eine personalisierte [!DNL push]-Benachrichtigung zu senden. Die [!DNL Neotrip]-Mobile-App wird mit dem [!DNL Campaign SDK] konfiguriert, der [!DNL Mobile App channel] wird in der [!DNL Campaign]-Instanz aktiviert.
 

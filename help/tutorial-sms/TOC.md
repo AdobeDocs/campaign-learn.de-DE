@@ -6,8 +6,8 @@ Level: Advanced
 Feature: SMS
 breadcrumb-title: Einrichten von SMS
 source-git-commit: 78ad0bc4c42706a63e1f508e0570414991fd2e85
-workflow-type: tm+mt
-source-wordcount: '75'
+workflow-type: ht
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 100%
 + [Einrichten eines SMS-Kontos](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)
 + [Anpassen des SMS-Connectors](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)
 + [Erläuterungen zum SMPP-Protokoll und Fehlerbehebung](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
-+ Zurück zu Tutorials {#campaign-tutorials}
-   + [Tutorials zu Adobe Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de)
-   + [Tutorials zu Adobe Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de)
++ Zurück zu den Tutorials {#campaign-tutorials}
+   + [Tutorials zu Adobe Campaign V8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de)
+   + [Tutorials zu Adobe Campaign V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de)

@@ -11,15 +11,15 @@ role: Admin
 level: Intermediate
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: tm+mt
-source-wordcount: '94'
+workflow-type: ht
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
 
 # Audit-Protokoll
 
-Das [!UICONTROL Audit-Protokoll] erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die in Adobe Campaign auftreten.Das [!UICONTROL Audit-Protokoll] beinhaltet eine Self-Service-Option für den Zugriff auf einen Datenverlauf, damit sich zum Beispiel folgende Fragen beantworten lassen:
+Das [!UICONTROL Audit-Protokoll] erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen in Adobe Campaign. Das [!UICONTROL Audit-Protokoll] bietet eine Self-Service-Option für den Zugriff auf einen Datenverlauf, damit sich zum Beispiel folgende Fragen beantworten lassen:
 
 * Was ist mit einem Objekt geschehen?
 * Wer hat es zuletzt geändert und wann?
@@ -27,6 +27,6 @@ Das [!UICONTROL Audit-Protokoll] erfasst in Echtzeit eine umfassende Liste von A
 
 Erfahren Sie, wie Sie auf das Audit-Protokoll zugreifen und welche Einstellungen konfiguriert werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444243?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
 
 Weitere Informationen finden Sie in der [Dokumentation zum Audit-Protokoll](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=de).
