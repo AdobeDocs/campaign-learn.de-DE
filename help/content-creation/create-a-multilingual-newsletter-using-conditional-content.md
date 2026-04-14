@@ -23,4 +23,4 @@ Durch die Konfiguration bedingter Inhalte können Sie erweiterte Personalisierun
 
 Erfahren Sie, wie Sie einem Versand bedingte Inhalte hinzufügen können, beispielsweise einen mehrsprachigen Newsletter.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446720?captions=ger&quality=12&learn=on){transcript=true}
