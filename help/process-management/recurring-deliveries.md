@@ -10,9 +10,16 @@ team: TM
 role: User
 level: Intermediate
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
+TQID: https://experienceleague.adobe.com/pdYTRO3rBq3BdS-WUGcx3POKjD6V4lH1dco4W9L6FwM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: 233
 ht-degree: 100%
 
 ---
@@ -39,10 +46,10 @@ Der wiederkehrende und der fortlaufende Versand unterscheiden sich bezüglich de
 
 In diesem Video wird erläutert, wie Sie einen wiederkehrenden Versand und eine Planungsaktivität konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446883?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446883?captions=ger&quality=12&learn=on){transcript=true}
 
-## Einrichten eines fortlaufenden Versands {#how-to-set-up-a-continuous-delivery}
+## Einrichten eines Versands (fortlaufend) {#how-to-set-up-a-continuous-delivery}
 
 In diesem Video wird gezeigt, wie Sie einen fortlaufenden Versand mit einer inkrementellen Abfrage konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444576?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444576?captions=ger&quality=12&learn=on){transcript=true}
