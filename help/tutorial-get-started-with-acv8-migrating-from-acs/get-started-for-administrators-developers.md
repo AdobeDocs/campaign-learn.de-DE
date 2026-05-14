@@ -5,9 +5,16 @@ role: Admin, Developer
 level: Beginner, Experienced
 jira: KT-15787
 exl-id: 29e7cde2-a611-41f8-aa7b-c05be0b53313
-source-git-commit: 6f1adb374b7b7066bc2613d30d04d09c9e38f42e
-workflow-type: ht
-source-wordcount: '402'
+TQID: https://experienceleague.adobe.com/vzYrKmxSTfLFaMvTIceDWayKII-8LvD20po1lbvqtTU
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a658c786-869b-4194-a780-2594d663addaid: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+subfeature_v2: id: e3988c18-3cfa-4f16-b812-ac2d2b1056fa
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 402
 ht-degree: 100%
 
 ---
@@ -61,7 +68,7 @@ Eine ausführliche Schritt-für-Schritt-Anleitung finden Sie in der [Produktdoku
 
 Erfahren Sie, was Zielgruppendimensionen und Arbeitstabellen sind und wie Adobe Campaign Daten aus verschiedenen Datenquellen verwaltet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452603?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
 
 
 ### Erstellen und Erweitern eines Schemas
