@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie ein Adobe Experience Platform-Segment mithilfe des Amazon-S3-Verbindungstyps für ein Ziel aktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453130?captions=ger&quality=12&learn=on){transcript=true}

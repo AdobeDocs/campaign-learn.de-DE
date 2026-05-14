@@ -29,4 +29,4 @@ ht-degree: 100%
 Die Ermüdungsverwaltung steuert die Häufigkeit und Anzahl von Nachrichten, um eine Überforderung von Empfängern zu vermeiden.
 Erfahren Sie, wie Sie die Ermüdungsverwaltung in Adobe Campaign mithilfe von Filtern implementieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444609?captions=ger&quality=12&learn=on){transcript=true}

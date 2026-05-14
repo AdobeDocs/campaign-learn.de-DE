@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine durch ein Ereignis ausgelöste Kampagne erstellen und wie Sie diese Funktion für sich nutzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/334478?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429378?captions=ger&quality=12&learn=on){transcript=true}

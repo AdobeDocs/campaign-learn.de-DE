@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie innerhalb eines Workflows einen Validierungsprozess erstellen, damit die Targeting-Auswahllogik vor dem Start des Versands überprüft und genehmigt werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442043?captions=ger&quality=12&learn=on){transcript=true}

@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Machen Sie sich mit dem Unterschied zwischen Multi-Channel- und Cross-Channel-Kampagnen und den Anwendungsfällen vertraut.
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447207?captions=ger&quality=12&learn=on){transcript=true}

@@ -31,4 +31,4 @@ Erfahren Sie, wie Sie Validierungen und Validierer auf Versandebene konfiguriere
 
 Richten Sie Validierungen auf Versandebene ein, wenn die Validierungsschritte und die Validierer in den verschiedenen Sendungen unterschiedlich sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437656?captions=ger&quality=12&learn=on){transcript=true}

@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Erfahren Sie Grundlegendes über integriertes Reporting und integrierte Analysen in Adobe Campaign und darüber, wie Sie einen Versandbericht erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448292?captions=ger&quality=12&learn=on){transcript=true}

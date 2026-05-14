@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie anhand eines Workflows einen [!UICONTROL beschreibenden Analysebericht] erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448838?captions=ger&quality=12&learn=on){transcript=true}

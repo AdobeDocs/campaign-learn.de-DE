@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den wichtigsten Konzepten von [!UICONTROL Adobe Campaign] und damit vertraut, wie diese Sie bei der effektiven Planung, Ausführung und Messung von kanalübergreifenden Marketing-Kampagnen unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426357?captions=ger&quality=12&learn=on){transcript=true}

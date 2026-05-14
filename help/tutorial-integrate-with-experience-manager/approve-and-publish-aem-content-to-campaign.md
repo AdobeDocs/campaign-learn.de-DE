@@ -31,5 +31,5 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie in Experience Manager einen Newsletter erstellen und genehmigen und ihn dann in Campaign veröffentlichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447580?captions=ger&quality=12&learn=on){transcript=true}
 

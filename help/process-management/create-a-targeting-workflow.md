@@ -32,4 +32,4 @@ Adobe Campaign verwendet Workflows, um Zielgruppenbestimmungskampagnen durchzufÃ
 
 Hier erfahren Sie, wie Sie mithilfe von Zielgruppenbestimmungs-Workflows mehrere Versandziele definieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450197?captions=ger&quality=12&learn=on){transcript=true}

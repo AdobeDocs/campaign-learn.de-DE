@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Daten mit unterschiedlichen Zielgruppenbestimmungs- und Filterdimensionen abfragen und wie Sie mithilfe einer Schnittmenge die Ergebnisse verbinden können, um einen automatisierten Versand mit Inhalts-Digest zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452899?captions=ger&quality=12&learn=on){transcript=true}
 
 Nächster Schritt: [Versand an abonnierte Empfänger](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

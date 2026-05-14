@@ -30,7 +30,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie das [!UICONTROL App-Abonnementschema] erweitern, um Personalisierungswerte zu speichern, die [!DNL Campaign] von einer Mobile App erhält.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445561?captions=ger&quality=12&learn=on){transcript=true}
 
 **Nächster Schritt**
 

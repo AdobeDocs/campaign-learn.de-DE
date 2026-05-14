@@ -30,7 +30,7 @@ ht-degree: 100%
 
 In diesem ersten Teil des Tutorials zum Erstellen eines Export-Workflows erfahren Sie, wie Sie einen Workflow erstellen, der das Datum der letzten Änderung für eine Empfängerliste findet, die aus einem Experience Platform-Segment erstellt wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450056?captions=ger&quality=12&learn=on){transcript=true}
 
 ## Assets
 
