@@ -18,9 +18,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
-workflow-type: tm+mt
-source-wordcount: 180
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: 176
+ht-degree: 100%
 
 ---
 
@@ -52,12 +52,12 @@ Dieses Referenzhandbuch wurde für Benutzerinnen und Benutzer entwickelt, die vo
   <tr>
     <td>
     <a href="get-started-for-marketers.md">
-    <strong>Marketer</strong>
+    <strong>Marketing-Fachleute</strong>
     </a>
     </td>
     <td>
       <a href="get-started-for-administrators-developers.md">
-      <strong>Administrator oder Entwickler</strong>
+      <strong>Admins oder Entwicklerinnen bzw. Entwickler</strong>
       </a>
     </td>
   </tr>
