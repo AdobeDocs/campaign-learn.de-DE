@@ -6,9 +6,9 @@ user-guide-description: Erfahren Sie, wie Sie die Funktionen der Client-Konsole 
 breadcrumb-title: Client-Konsole – Tutorials
 auto-video-transcripts: true
 source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -55,8 +55,8 @@ ht-degree: 94%
    + SMS {#sms}
       + [Erstellen eines SMS-Versands](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
-      + {hide-from-toc}[Installieren des Mobile-App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
-      + {hide-from-toc}[Konfigurieren des Push-Kanals mit der Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + {hide-from-toc}[Installieren des App-Kanals](/help/send-messages/mobile/install-the-mobile-app.md)
+      + {hide-from-toc}[Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + Briefpost {#direct-mail}
       + [Erstellen von Briefpost-Sendungen](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Verwenden von Versandvorlagen{#using-delivery-templates}
@@ -94,7 +94,7 @@ ht-degree: 94%
    + [Integration mit Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=de)
    + [Integration mit Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=de)
    + [Integration mit Adobe Target](/help/connect/target-integration.md)
-   + {hide-from-toc}[Integration mit Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
+   + {hide-from-toc}[Integration mit Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
    + [Zugriff auf native Berichte](/help/reporting/access-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generate-a-descriptive-analysis-report.md)
