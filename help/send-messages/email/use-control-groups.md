@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und erfahren Sie, wie Sie für Ihren Versand eine Kontrollgruppe verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446927?captions=ger&quality=12&learn=on){transcript=true}
