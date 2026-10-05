@@ -10,21 +10,34 @@ role: Admin, Developer
 level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
-TQID: https://experienceleague.adobe.com/llhU9-u6ri1njd6wSTE1CTZTmYerQDz7-R2WY4ahWzs
+TQID: 'https://experienceleague.adobe.com/llhU9-u6ri1njd6wSTE1CTZTmYerQDz7-R2WY4ahWzs'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Personalization
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 331
+source-wordcount: '331'
 ht-degree: 100%
-
 ---
-
 # Erste Schritte mit Push-Benachrichtigungen für Android – Einleitung
 
 Sie können mit Adobe Campaign personalisierte und zielgruppenspezifische [!DNL push]-Benachrichtigungen an [!DNL iOS]- und [!DNL Android™]-Mobilgeräte senden. Dieses Tutorial führt Sie durch die Schritte, die zum Senden von [!DNL push]-Benachrichtigungen von Adobe Campaign an eine [!DNL Android™]-Mobile-App erforderlich sind.
@@ -43,11 +56,11 @@ Bevor Sie beginnen, benötigen Sie Folgendes:
 
 2) Installiertes **[!DNL Mobile App channel]-Paket**
 
-   Das [!DNL Mobile App channel]-Paket muss in Ihrer [!DNL Campaign]-Instanz installiert sein. Im folgenden Video wird erläutert, wie Sie überprüfen können, ob [!DNL Mobile App channel] in Ihrer Instanz installiert ist, und wie Sie diese installieren können, falls dies nicht der Fall ist.
+   Das [!DNL Mobile App channel]-Paket muss in Ihrer [!DNL Campaign]-Instanz installiert sein. Im folgenden Video wird erläutert, wie Sie überprüfen können, ob [!DNL Mobile App channel] in Ihrer Instanz installiert ist, und wie Sie eine Installation durchführen können, falls dies nicht der Fall ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/340422?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-## Tutorial-Übersicht
+## Tutorial-Überblick
 
 Das Ziel ist es, den Abonnenten der [!DNL Neotrip]-[!DNL Android™]-Mobile-App zu Werbezwecken eine personalisierte [!DNL push]-Benachrichtigung zu senden. Die [!DNL Neotrip]-Mobile-App wird mit dem [!DNL Campaign SDK] konfiguriert, der [!DNL Mobile App channel] wird in der [!DNL Campaign]-Instanz aktiviert.
 
