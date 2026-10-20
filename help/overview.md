@@ -51,7 +51,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 Siehe
 
 >[!INFO]
-> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lern-Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
+> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lern-Community](https://experienceleaguecommunities.adobe.com?lang=de:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 > 
 > Diese Tutorials sind nicht das, was Sie suchen?
 > Sehen Sie sich die [Tutorials für die Adobe Campaign Web-Benutzeroberfläche](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=de) an, um Informationen zur Verwendung der Campaign Web-Benutzeroberfläche zu erhalten.
