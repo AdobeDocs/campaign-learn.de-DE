@@ -70,7 +70,7 @@ Erfahren Sie mehr über das allgemeine Berechtigungsmodell: Benutzende, Benutzer
    * Erstellen von Benutzergruppen und Zuweisen spezifischer Berechtigungen
    * Zuordnen von Produktprofilen ⇄ Benutzergruppen
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505217/?captions=ger&learn=on)
 
 Eine ausführliche Schritt-für-Schritt-Anleitung finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}.
 
