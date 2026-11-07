@@ -46,4 +46,4 @@ Erfahren Sie, wie Sie Benutzerberechtigungen für Campaign v8 einrichten und ver
 * Spezifische Berechtigungen
 * Hinzufügen von Berechtigungen auf Ordnerebene
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505217/?captions=ger&learn=on)
